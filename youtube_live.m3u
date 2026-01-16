@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-01-15 17:51:14
+# Last Update: 2026-01-16 01:10:40
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【東森新聞】東森新聞頻道小時直播台湾時間放送
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【東森新聞】東森新聞頻道小時線上直播台湾時間放送
@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IVfcAk4WyWI/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【台視新聞】台對等關稅不疊加貿易談判說明
+https://www.youtube.com/watch?v=IVfcAk4WyWI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yh2xJ2X_vvQ/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【台視新聞】總預算進度立法院院會最新
+https://www.youtube.com/watch?v=yh2xJ2X_vvQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【台視新聞】台視新聞台小時線上直播台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【中視新聞 HD】中視新聞直播頻道小時線上直播台湾
@@ -18,40 +22,62 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【民視新聞網】民視新聞小時直播新聞直播台湾
-https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wqDNPzf7qAI/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【民視新聞網】台美關稅比照日韓鄭麗君親說明談判結果民視快新聞
+https://www.youtube.com/watch?v=wqDNPzf7qAI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oxlS-IfiKY0/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【公視新聞網】美對台關稅拍板駐美代表處記者會現場直播
+https://www.youtube.com/watch?v=oxlS-IfiKY0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【公視新聞網】公視新聞小時線上直播台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【大愛電視】大愛一臺全球直播現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【大愛電視】大愛一臺全球直播現正播映法譬如水
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【大愛電視】大愛二臺全球直播現正播映大愛地球村
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DTNkEm6jaqQ/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【大愛電視】大愛二臺全球直播現正播映好戲成雙大大與太太
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sd7fLLcykuo/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【鏡新聞】直播關稅不疊加獲條款優惠鄭麗君楊珍妮說明共識內容
+https://www.youtube.com/watch?v=Sd7fLLcykuo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0KMhm83ptP0/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【鏡新聞】直播總預算持續卡關韓國瑜主持立法院會
+https://www.youtube.com/watch?v=0KMhm83ptP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【鏡新聞】鏡新聞線上看小時新聞直播台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【三立LIVE新聞】祝你健康呷百二告別疲勞營養師教你招最有效的新陳代謝提升術祝你健康
-https://www.youtube.com/watch?v=AjJIcpk8mXc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【TVBS NEWS】網路獨家新聞小時直播台湾世界中時間配信中台
-https://www.youtube.com/watch?v=m_dhMSvUCIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【TVBS NEWS】新聞台小時直播台湾世界中時間配信中
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yFTgLkzJc14/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【三立LIVE新聞】台美關稅鄭麗君楊珍妮召開記者會說明
+https://www.youtube.com/watch?v=yFTgLkzJc14
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fCPfu_Q4sf0/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【三立LIVE新聞】總預算還在卡藍白有意拆案審查
+https://www.youtube.com/watch?v=fCPfu_Q4sf0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iwbfuzN5pgM/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【中天新聞CtiNews】對台關稅好佛心美商務部長台成半導體移美張文表達式暴力行為隨機殺人疑遭父痛罵字墮入歪道林佩潔張雅婷報新聞中天新聞
+https://www.youtube.com/watch?v=iwbfuzN5pgM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VyeSALiZMx0/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【中天電視CtiTv】台南市長黨內民調出爐後首碰面陳亭妃請益林俊憲最新中天新聞
+https://www.youtube.com/watch?v=VyeSALiZMx0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DKnZ9ypV25s/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【TVBS NEWS】台美關稅達成共識關稅不疊加簽
+https://www.youtube.com/watch?v=DKnZ9ypV25s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【寰宇新聞】川普擴張美國意圖鮮明盟友敵國一律威脅伊朗血腥鎮壓哀鴻遍野遺體遍布畫面曝光寰宇新聞台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【寰宇新聞】寰宇新聞台灣台小時直播台湾時間配信中
 https://www.youtube.com/watch?v=w87VGpgd90U
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WyMvgfIhSnc/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【寰宇新聞】拍板台灣對美投資億美金換關稅不疊加
+https://www.youtube.com/watch?v=WyMvgfIhSnc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【寰宇新聞】寰宇新聞小時線上直播台湾時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1G4ctjYaHG4/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【CNEWS匯流新聞網】立法院朝野黨團協商審兒童托育法草案
+https://www.youtube.com/watch?v=1G4ctjYaHG4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/elvxmyw0tuE/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【CNEWS匯流新聞網】立法院第屆第次會議審眷改條例第三條條文修正草案
+https://www.youtube.com/watch?v=elvxmyw0tuE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【新唐人亞太電視台】新唐人小時直播新唐人亞太電視台
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mq7IXicOTGo/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【飛碟聯播網】飛碟聯播網生活同樂會蕭彤雯主持
+https://www.youtube.com/watch?v=mq7IXicOTGo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【三大一台】三大有線電視公司三大一台直播
 https://www.youtube.com/watch?v=qhApzA9RSDo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gbnhOKGn0z0/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【東森財經股市】直播台美關稅確定台將對美投資兆最新重大說明
+https://www.youtube.com/watch?v=gbnhOKGn0z0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1I2iq41Akmo/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【東森財經股市】東森財經新聞小時線上直播台湾金融
 https://www.youtube.com/watch?v=1I2iq41Akmo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AEBeWMM1atA/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【東森財經股市】東森財經股市小時直播台湾金融時間放送
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7G62ua4RruQ/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【寰宇財經新聞】寰宇新聞財經台小時線上直播台湾時間配信中
 https://www.youtube.com/watch?v=7G62ua4RruQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0OJXWPSu9fs/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【非凡電視】台對等關稅不疊加貿易談判說明
+https://www.youtube.com/watch?v=0OJXWPSu9fs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【非凡電視】非凡財經節目新聞小時直播台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/hqdefault.jpg" group-title="📺新聞頻道📺",🟢LIVE 【非凡商業台】非凡財經節目新聞小時直播台股盤中即時分析股市現場全球財經世界報導
@@ -236,8 +262,8 @@ https://www.youtube.com/watch?v=u74LMt_hqG8
 https://www.youtube.com/watch?v=YDtNnMzKuVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動職業認知卡通動畫兒童游戲最新最火幼兒早教視頻
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L9TN02WNtys/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【小猪佩奇】小猪佩奇最新视频粉红猪小妹直播动画
-https://www.youtube.com/watch?v=L9TN02WNtys
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ppc5KLsO8Uo/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【小猪佩奇】小猪佩奇最新视频粉红猪小妹直播动画
+https://www.youtube.com/watch?v=ppc5KLsO8Uo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Giligilis ABC P
 https://www.youtube.com/watch?v=2Lasr_ARcHI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Colorful ABC Ad
@@ -272,6 +298,8 @@ https://www.youtube.com/watch?v=epo7GdDZ-KA
 https://www.youtube.com/watch?v=8sWvaojkCmg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/99rLT2xf8T8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=99rLT2xf8T8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04u0--tX-H0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【流行音樂】抒情超好聽的英文歌單放鬆心情的情歌專輯工作背景音樂
+https://www.youtube.com/watch?v=04u0--tX-H0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Hot TV】🔥🎵 #KJJadiDJ 🎧 
 https://www.youtube.com/watch?v=augOnkJkrHY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9qOx0nSJYkk/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲
@@ -282,6 +310,10 @@ https://www.youtube.com/watch?v=qrWp7zOrWAg
 https://www.youtube.com/watch?v=PoNKmT9ns-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PWt0X2ioW8E/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡
 https://www.youtube.com/watch?v=PWt0X2ioW8E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsEhtbPZr4Q/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋一月新歌
+https://www.youtube.com/watch?v=IsEhtbPZr4Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4KH6cOo5hpA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】一月華語最洗腦首華語單曲排行週榜一聽就破防的流行金曲合集愛就一個字總會有人門沒鎖周杰倫王嘉爾周興哲
+https://www.youtube.com/watch?v=4KH6cOo5hpA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZkuusuQGWvo/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】一月新歌精選首必聽歌曲不能不聽的首歌治癒深度睡眠與放鬆無廣告音樂娛樂學習工作混音流行歌曲閱讀音樂工作音樂
 https://www.youtube.com/watch?v=ZkuusuQGWvo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mCBZf8zXnbg/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
@@ -290,8 +322,8 @@ https://www.youtube.com/watch?v=mCBZf8zXnbg
 https://www.youtube.com/watch?v=fzkK3lO9ZYI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s7yUxzmaoaU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】一月新歌華語單曲排行週榜首一月必聽流行金曲愛就一個字總會有人門沒鎖周杰倫王嘉爾周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=s7yUxzmaoaU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IGlo3Tk08RA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【水月琴音】最美中國古風音樂現場演唱會精選中國古風歌曲古裝音樂現場直播浪漫古風情懷中國古風音樂愛好者必聽古風歌曲水月琴音
-https://www.youtube.com/watch?v=IGlo3Tk08RA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TB-YUNmHOyc/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【水月琴音】最美中國古風音樂現場演唱會精選中國古風歌曲古裝音樂現場直播浪漫古風情懷中國古風音樂愛好者必聽古風歌曲水月琴音
+https://www.youtube.com/watch?v=TB-YUNmHOyc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Cherry 葵】Nightcore Radio
 https://www.youtube.com/watch?v=tjne3WWB3kA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
@@ -324,8 +356,8 @@ https://www.youtube.com/watch?v=WnCfvAMM9eY
 https://www.youtube.com/watch?v=b-bK2Vn3D38
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x-JC7sJJUW8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Radio Mix】Radio POP Mix 2
 https://www.youtube.com/watch?v=x-JC7sJJUW8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E4uVC1vcNXA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Too Music】Cozy Fireplace 
-https://www.youtube.com/watch?v=E4uVC1vcNXA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9XCRdvfMNsY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Too Music】Cozy Fireplace 
+https://www.youtube.com/watch?v=9XCRdvfMNsY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDuz4mAtyf4/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Too Music】The Good Time R
 https://www.youtube.com/watch?v=YDuz4mAtyf4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m2BnK_hf2qg/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Too Music】Music Radio Mix
@@ -340,6 +372,8 @@ https://www.youtube.com/watch?v=3MOrgUjiigE
 https://www.youtube.com/watch?v=UWc_vMRGxDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r7eFY9YYTdE/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Dark City Sounds】Hottest Hip Hop
 https://www.youtube.com/watch?v=r7eFY9YYTdE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wmq_4QVkv9E/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
+https://www.youtube.com/watch?v=wmq_4QVkv9E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l3ICvGcSXoo/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
 https://www.youtube.com/watch?v=l3ICvGcSXoo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M_Q6ZXpZjRY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師
@@ -348,8 +382,6 @@ https://www.youtube.com/watch?v=M_Q6ZXpZjRY
 https://www.youtube.com/watch?v=xHQC6h7_n4g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LWmHX0tcucU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Pop Japan Music】年最新曲心響邦楽癒優里米津玄師
 https://www.youtube.com/watch?v=LWmHX0tcucU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U0ECvUI6-Ck/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=U0ECvUI6-Ck
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-8V2NtzkXyw/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田
 https://www.youtube.com/watch?v=-8V2NtzkXyw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-2vgouGUOjE/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田
@@ -550,8 +582,6 @@ https://www.youtube.com/watch?v=M4EJtf_iP8s
 https://www.youtube.com/watch?v=-srNHTE-Nf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uh_yNAE01w8/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【樂遊金門】Jiangong Islet 
 https://www.youtube.com/watch?v=uh_yNAE01w8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I2a4vrlgyXE/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】東引遊客中心外平台
-https://www.youtube.com/watch?v=I2a4vrlgyXE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JpPVzxCxJM/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】南竿鐵堡直播
 https://www.youtube.com/watch?v=0JpPVzxCxJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FbWFvTg1_dg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】北海坑道
@@ -560,6 +590,8 @@ https://www.youtube.com/watch?v=FbWFvTg1_dg
 https://www.youtube.com/watch?v=NVf3j-5I1Fk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/hqdefault.jpg" group-title="🌸體育頻道🌸",🟢LIVE 【BattleBots】🔴 LIVE All Batt
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6eeoWS-2AW0/hqdefault.jpg" group-title="🌸體育頻道🌸",🟢LIVE 【WWE】FULL EPISODE: W
+https://www.youtube.com/watch?v=6eeoWS-2AW0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SmTOogFsMHs/hqdefault.jpg" group-title="🌸體育頻道🌸",🟢LIVE 【WWE】Best of Royal R
 https://www.youtube.com/watch?v=SmTOogFsMHs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NGSfNyDhMw8/hqdefault.jpg" group-title="🌸體育頻道🌸",🟢LIVE 【WWE Vault】WWE Vault Mixta
@@ -570,18 +602,42 @@ https://www.youtube.com/watch?v=WAUECPu9EOw
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【94要客訴】話時代人物精彩不斷電話時代人物三立新聞網
-https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
-https://www.youtube.com/watch?v=HarWsyvLERc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xgcn1mQX_08/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【94要客訴】台美關稅鄭麗君楊珍妮召開記者會說明三立新聞網
+https://www.youtube.com/watch?v=xgcn1mQX_08
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e_UzQN7oVzc/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【94要客訴】總預算還在卡藍白有意拆案審查三立新聞網
+https://www.youtube.com/watch?v=e_UzQN7oVzc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q1dSZ5lEz_M/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【大新聞大爆卦】賴清德該不該來立院報告諮詢藍綠甲動韓國瑜主持院會表決中天新聞
+https://www.youtube.com/watch?v=q1dSZ5lEz_M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FdmDmzr6QM0/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【新聞大白話】台美關稅達成共識關稅不疊加簽
+https://www.youtube.com/watch?v=FdmDmzr6QM0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【新聞大白話】新聞大白話時間配信
 https://www.youtube.com/watch?v=8o3rl1YgbmE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/itGzkt7zX3o/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【中時新聞網】台美關稅拍板鄭麗君華盛頓記者會說明
+https://www.youtube.com/watch?v=itGzkt7zX3o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MJInJB3dxyk/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【中時新聞網】藍白聯手提案放行新興計畫韓國瑜主持院會最新
+https://www.youtube.com/watch?v=MJInJB3dxyk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rFTNJNoCwbs/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【中天深喉嚨】賴清德該不該來立院報告諮詢藍綠甲動韓國瑜主持院會表決中天新聞
+https://www.youtube.com/watch?v=rFTNJNoCwbs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oCUhYQPg6wA/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【中天深喉嚨】台美關稅確定附加條件為何鄭麗君卓榮泰記者會說明細節
+https://www.youtube.com/watch?v=oCUhYQPg6wA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FtiJPbLqCew/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【57爆新聞】直播台美關稅確定台將對美投資兆最新重大說明
+https://www.youtube.com/watch?v=FtiJPbLqCew
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oS4xno8Sq4M/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【關鍵時刻】直播台美關稅確定台將對美投資兆最新重大說明
+https://www.youtube.com/watch?v=oS4xno8Sq4M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzD9xQN_WfM/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【頭條開講】台美關稅確定附加條件為何鄭麗君卓榮泰記者會說明細節頭條開講
+https://www.youtube.com/watch?v=LzD9xQN_WfM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【少康戰情室】少康戰情室精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tvw4uaiw1RU/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【萬事通事務所】放假前的那一練決定你週末的狀態
+https://www.youtube.com/watch?v=tvw4uaiw1RU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m4N6xh3chzU/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【品觀點】立法院第屆第次會議審眷改條例第三條條文修正草案
+https://www.youtube.com/watch?v=m4N6xh3chzU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yq8cL9brH_o/hqdefault.jpg" group-title="🌸政論頻道🌸",🟢LIVE 【金臨天下】台美關稅達成共識關稅不疊加簽
+https://www.youtube.com/watch?v=Yq8cL9brH_o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/hqdefault.jpg" group-title="🌸購物頻道🌸",🟢LIVE 【海豚多媒體】海豚綜合台線上直播
 https://www.youtube.com/watch?v=0siTFIU__tc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Q4vU4yfSfOI/hqdefault.jpg" group-title="🌸購物頻道🌸",🟢LIVE 【寶島文化台】寶島文化電視台現場直播
-https://www.youtube.com/watch?v=Q4vU4yfSfOI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mmQc7BoGJ-4/hqdefault.jpg" group-title="🌸購物頻道🌸",🟢LIVE 【寶島文化台】寶島文化電視台現場直播
+https://www.youtube.com/watch?v=mmQc7BoGJ-4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Sl26ZFvawuU/hqdefault.jpg" group-title="🌸購物頻道🌸",🟢LIVE 【三聖電視台】三聖電視台直播
 https://www.youtube.com/watch?v=Sl26ZFvawuU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/hqdefault.jpg" group-title="🌸購物頻道🌸",🟢LIVE 【桐瑛台中電視臺】桐瑛台中電視臺直播
