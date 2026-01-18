@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-01-17 13:39:20
+# Last Update: 2026-01-18 04:03:43
 #EXTINF:-1 group-title="🌟綜藝頻道🌟",🟡重播 全民星攻略
 video://http://www.faintv.com/channel/20308
 #EXTINF:-1 group-title="🌟綜藝頻道🌟",🟡重播 請問今晚住誰家
@@ -160,6 +160,8 @@ https://www.goodiptv.club/huya/11352903
 https://www.goodiptv.club/huya/21059596
 #EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 電影_怪獸系列
 https://www.goodiptv.club/huya/21059554
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BQTS5zOfBJ8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森新聞】東森午安新聞
+https://www.youtube.com/watch?v=BQTS5zOfBJ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森新聞】東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森新聞】東森新聞
@@ -170,18 +172,16 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】花蓮吉安
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JgW0WEKekv8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】午間大頭條
+https://www.youtube.com/watch?v=JgW0WEKekv8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】台視新聞台
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞】中視新聞
-https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞 HD】中視新聞
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】#LIVE: CTS News Live
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【民視新聞網】民視新聞
-https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【公視新聞網】公視新聞
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TaiwanPlus】台湾
@@ -192,14 +192,16 @@ https://www.youtube.com/watch?v=MIqUplvSRWA
 https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】鏡新聞
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xx8Y_Uz2pNY/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立LIVE新聞】直播
-https://www.youtube.com/watch?v=Xx8Y_Uz2pNY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/onOM29Q4WlE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立LIVE新聞】週末不斷線精彩一次看
-https://www.youtube.com/watch?v=onOM29Q4WlE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立LIVE新聞】祝你健康呷百二
-https://www.youtube.com/watch?v=AjJIcpk8mXc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nvr3wUZhlIY/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立LIVE新聞】話時代人物精彩不斷電
-https://www.youtube.com/watch?v=nvr3wUZhlIY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xtyNyVkCkhE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立LIVE新聞】直播
+https://www.youtube.com/watch?v=xtyNyVkCkhE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2FNDQl2bAIM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中天新聞CtiNews】台美關稅賴決策
+https://www.youtube.com/watch?v=2FNDQl2bAIM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mijQwbCEFCw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中天電視CtiTv】南台唯一狐狸谷
+https://www.youtube.com/watch?v=mijQwbCEFCw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XROLdxXEWAc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中天電視CtiTv】鄭麗文談協調
+https://www.youtube.com/watch?v=XROLdxXEWAc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1KvwlQ5ARfc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中天電視CtiTv】彰化國際賽車節
+https://www.youtube.com/watch?v=1KvwlQ5ARfc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TVBS NEWS】網路獨家新聞
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TVBS NEWS】新聞台
@@ -212,6 +214,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【新唐人亞太電視台】新唐人
 https://www.youtube.com/watch?v=Bhp_V7H5QoY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SXT-UWuJHlY/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【原視新聞網 TITV News】排灣歌謠保存者高淑美辭世
+https://www.youtube.com/watch?v=SXT-UWuJHlY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qhApzA9RSDo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三大一台】三大有線電視公司
 https://www.youtube.com/watch?v=qhApzA9RSDo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1I2iq41Akmo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森財經股市】東森財經新聞
@@ -240,6 +244,8 @@ https://www.youtube.com/watch?v=7j92Myu2wzg
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鳳凰衛視PhoenixTV】中加領導人會晤聯合聲明正式公佈
 https://www.youtube.com/watch?v=fN9uYWCjQaw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iUrqzfnoDvY/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【HOY 資訊台 × 有線新聞】新聞報道
+https://www.youtube.com/watch?v=iUrqzfnoDvY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【8world】资讯不停播
 https://www.youtube.com/watch?v=RvSOIM620bA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ldeFCcWBFzg/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【華視綜藝頻道】天才衝衝衝完整集數
@@ -262,6 +268,8 @@ https://www.youtube.com/watch?v=uehKhWmttVE
 https://www.youtube.com/watch?v=cimbpAZUjzw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【大陸尋奇】大陸尋奇
 https://www.youtube.com/watch?v=KgcJZ_Is_h4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zcCbNUqrVz8/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【三立娛樂星聞】安妞
+https://www.youtube.com/watch?v=zcCbNUqrVz8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【中視經典綜藝】萬秀豬王
 https://www.youtube.com/watch?v=ADDSmXoPDY8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gx5EIyHmsw/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【綜藝一級棒】小時歡樂不停播
@@ -274,6 +282,8 @@ https://www.youtube.com/watch?v=G3AXSigWsCI
 https://www.youtube.com/watch?v=HIE1r3ELkbo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v8MUGB4vst8/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【豬哥會社】豬哥會社
 https://www.youtube.com/watch?v=v8MUGB4vst8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q_pKkIvpNKA/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【超級夜總會】Absolutely audacious
+https://www.youtube.com/watch?v=q_pKkIvpNKA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtUVepidg7c/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【非凡大探索】台北美食篇
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EZ8GQ8hH6GI/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【非凡大探索】台中美食篇
@@ -282,6 +292,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【BIF相信未來 官方頻道】掌声响起
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9NhkBz4OjCA/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【緯來新聞網】緯來新聞
+https://www.youtube.com/watch?v=9NhkBz4OjCA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rfSblpvy_rY/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【戲說台灣】戲說台灣妖精大集合
 https://www.youtube.com/watch?v=rfSblpvy_rY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nt6SoW6D5i8/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【台視時光機】經典勵志
@@ -392,6 +404,8 @@ https://www.youtube.com/watch?v=tKcvVpq7sgE
 https://www.youtube.com/watch?v=RZaRBqg2QHY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATiJ3ihQuP8/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對
 https://www.youtube.com/watch?v=ATiJ3ihQuP8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8K_eH0YVwuQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【瑪莎與熊】瑪莎與熊
+https://www.youtube.com/watch?v=8K_eH0YVwuQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E_E80UC2gek/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【瑪莎與熊】瑪莎與熊
 https://www.youtube.com/watch?v=E_E80UC2gek
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gjpNtP6LDzw/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【碰碰狐 鯊魚寶寶】新年快樂
@@ -406,8 +420,8 @@ https://www.youtube.com/watch?v=u74LMt_hqG8
 https://www.youtube.com/watch?v=YDtNnMzKuVc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EvDmkk-2Ciw/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【小猪佩奇】小猪佩奇
-https://www.youtube.com/watch?v=EvDmkk-2Ciw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wJXfcrM5E2Y/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【小猪佩奇】小猪佩奇
+https://www.youtube.com/watch?v=wJXfcrM5E2Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Giligilis ABC Party!
 https://www.youtube.com/watch?v=2Lasr_ARcHI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Colorful ABC Adventu
@@ -442,8 +456,6 @@ https://www.youtube.com/watch?v=Tr-IguZlWk8
 https://www.youtube.com/watch?v=cwGncYRehrI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LWilXiGXEKk/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【英文經典老歌】Top 50 Love Songs of
 https://www.youtube.com/watch?v=LWilXiGXEKk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WcsXX-n1Ipg/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【經典粵語】首爆炸好聽的粵語歌
-https://www.youtube.com/watch?v=WcsXX-n1Ipg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WB9i5Qlsqrw/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【經典粵語】首近年來最受歡迎的粵語歌串燒
 https://www.youtube.com/watch?v=WB9i5Qlsqrw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CuwhhCLtui8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【經典粵語】巔峰時期張學友最好聽的
@@ -452,6 +464,8 @@ https://www.youtube.com/watch?v=CuwhhCLtui8
 https://www.youtube.com/watch?v=Y3kKCRsvV5Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Mpi5piICgIs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【經典粵語】千禧年代經典粵語金曲
 https://www.youtube.com/watch?v=Mpi5piICgIs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HKqbZ24k9W4/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【經典粵語】粵語金曲大合集
+https://www.youtube.com/watch?v=HKqbZ24k9W4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yhq_2TOiKX8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【不朽的英文情歌】回忆里的情歌
 https://www.youtube.com/watch?v=Yhq_2TOiKX8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u3ov3ZqhzHE/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【不朽的英文情歌】那些年我們聽過的歌
@@ -594,12 +608,6 @@ https://www.youtube.com/watch?v=dQ7Avm5vZUI
 https://www.youtube.com/watch?v=skB3NF5XsWs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2uH1UzaEWgU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Tokyo Sound Rank】人気曲
 https://www.youtube.com/watch?v=2uH1UzaEWgU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BhlrsGWsElU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【MEET48 Global】龙亦瑞
-https://www.youtube.com/watch?v=BhlrsGWsElU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fLPRlGLPBPw/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【MEET48 Global】奇幻加冕礼
-https://www.youtube.com/watch?v=fLPRlGLPBPw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/syXkqClRUTM/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【MEET48 Global】田姝丽
-https://www.youtube.com/watch?v=syXkqClRUTM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nGz8w9drcDs/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【和平島公園即時影像】和平島公園即時影像
 https://www.youtube.com/watch?v=nGz8w9drcDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/215ahZ_0rTg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【台北觀光即時影像】Maokong Zhinan Templ
@@ -648,8 +656,8 @@ https://www.youtube.com/watch?v=fdTradzI43w
 https://www.youtube.com/watch?v=YtBnDXRyxL4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mMG7v_fET5A/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【necoast nsa】玩樂東北角
 https://www.youtube.com/watch?v=mMG7v_fET5A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dYRcNwvJR5g/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【野柳即時影像】野柳地質公園即時影像
-https://www.youtube.com/watch?v=dYRcNwvJR5g
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aztnAbLVBw4/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【野柳即時影像】野柳地質公園即時影像
+https://www.youtube.com/watch?v=aztnAbLVBw4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JzbzXqusDg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【遊桃園 Taoyuan Travel】巴陵馬崙砲台觀景平台即時影像
 https://www.youtube.com/watch?v=3JzbzXqusDg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/44JArbF682k/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【遊桃園 Taoyuan Travel】許厝港濕地即時影像
@@ -796,16 +804,26 @@ https://www.youtube.com/watch?v=M4EJtf_iP8s
 https://www.youtube.com/watch?v=-srNHTE-Nf0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uh_yNAE01w8/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【樂遊金門】Jiangong Islet | Tin
 https://www.youtube.com/watch?v=uh_yNAE01w8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dd3BTm7Dcvg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】東引遊客中心外平台
-https://www.youtube.com/watch?v=dd3BTm7Dcvg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JpPVzxCxJM/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】南竿鐵堡
 https://www.youtube.com/watch?v=0JpPVzxCxJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FbWFvTg1_dg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】北海坑道
 https://www.youtube.com/watch?v=FbWFvTg1_dg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NVf3j-5I1Fk/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】南竿鐵堡
 https://www.youtube.com/watch?v=NVf3j-5I1Fk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jSB45JxGuQM/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【MAX籃球聯盟】易贊國際
-https://www.youtube.com/watch?v=jSB45JxGuQM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/peJRflpmim8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【GoHoops】20260118 shoot 360 1
+https://www.youtube.com/watch?v=peJRflpmim8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/llPyHFq6v8Q/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【GoHoops】一維菓菜行
+https://www.youtube.com/watch?v=llPyHFq6v8Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UU6t7NfcIFs/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【GoHoops】百司奇假日籃球邀請賽
+https://www.youtube.com/watch?v=UU6t7NfcIFs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IuKD8Oqzy0/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【GoHoops】百司奇假日籃球邀請賽
+https://www.youtube.com/watch?v=6IuKD8Oqzy0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lTq6H93A12o/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【CBC籃球聯盟】籃球聯盟
+https://www.youtube.com/watch?v=lTq6H93A12o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CoOSM_z5hFo/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【CBC籃球聯盟】籃球聯盟
+https://www.youtube.com/watch?v=CoOSM_z5hFo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LDEmjSupnV8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【CBC籃球聯盟】籃球聯盟
+https://www.youtube.com/watch?v=LDEmjSupnV8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【BattleBots】🔴 LIVE All BattleBot
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SmTOogFsMHs/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【WWE】Best of Royal Rumble
@@ -816,28 +834,16 @@ https://www.youtube.com/watch?v=NGSfNyDhMw8
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【TVBS 優選頻道】政論節目直播
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SJrjGMZrSc4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】中國軍機飛伊朗
-https://www.youtube.com/watch?v=SJrjGMZrSc4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3QnGQVRQ-ag/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】抗議川普要脅武力奪取格陵蘭
-https://www.youtube.com/watch?v=3QnGQVRQ-ag
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jxB37wqNeaA/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】直播
-https://www.youtube.com/watch?v=jxB37wqNeaA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z8c5cX9eEKk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】解鎖
+https://www.youtube.com/watch?v=z8c5cX9eEKk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】最夯政論
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【94要客訴】話時代人物精彩不斷電
-https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【94要客訴】祝你健康呷百二
-https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞大白話】新聞大白話
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vHugwenKDiA/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【哏傳媒】小時不斷電為您呈現
 https://www.youtube.com/watch?v=vHugwenKDiA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n8ETxGKmF-s/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞龍捲風】美軍要動手了
-https://www.youtube.com/watch?v=n8ETxGKmF-s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cJYFvBt3fNA/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】抗議川普要脅武力奪取格陵蘭
-https://www.youtube.com/watch?v=cJYFvBt3fNA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z8fShqISbAA/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】美軍要動手了
-https://www.youtube.com/watch?v=z8fShqISbAA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6paSjGM9kak/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【董事長開講】小時不斷電直播
+https://www.youtube.com/watch?v=6paSjGM9kak
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】少康戰情室精選特輯
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【海豚多媒體】海豚綜合台
