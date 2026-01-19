@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-01-19 03:13:27
+# Last Update: 2026-01-19 03:31:45
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🟡重播 全民星攻略
 video://http://www.faintv.com/channel/20308
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🟡重播 請問今晚住誰家
@@ -22,8 +22,22 @@ https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2f
 http://23.128.116.71:5589/live.php?id=ettvmovie&h=23.128.116.71&p=22364&token=1768656088.a085acf2e7d7a672b2c2523583227ea4b3c1f3c158a64d90de3020fc0ef508b7
 #EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森電影
 http://96.44.160.246:9999/smt.php?id=ettvmovie
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟢LIVE 東森電影
+https://iptv.mydiver.eu.org/live/encrypted/YTY2NTM4MmM2NGY1NWUwZjAxOTk2ZTM2ZWMwNDViNTA6ZmY1MGQ4NzUzZjAzNTllMzkzOTE4ZWRjNjY1NjM1ZGJjODMxMTBhZGJkMmE1MzdjOGFmYjVlY2FhMjJiZDdmZDE4YjllOTM2ZGUyNDQ1YmQ3YWQ1YTgwMTc4MGRjZTI2ODA0M2ZjMjczOTk0NGRlMmZjNGVkYzQ0YTFlYTJlZThmNDA2N2M3NjY3ZDY4NzFlYzFiNzE4NDI4MGI4MWVjMWFmOWM3OTgwN2VkOWM5OWI2MTcxZTk3Zjc4MGY3OTEzNTgyZGU2NjNkZDAwMDRkZTU1NmFhZTU0MGRjMTkyYTgzY2ZjNjc2ODMxZTUyMDQ1YjRhNjQ1YzY1YzFiMWYzNWJmMjZmODU5ODg5ODYzYTM2NGU1NWM1N2VhODZmMGUzNDFlZDRkYjY2ZDg1MDIyZDIyYTEzYmIzNWVkMDJhNDAzZjk3NzU5YjM2NGNmMWRkMmJjN2MxN2JiMGFjYTdlMw?username=tg_ueiw02xw
 #EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
 http://96.44.160.246:9999/smt.php?id=ettvwestern
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+http://liveSmart.RobYang.dpdns.org:8278/ettvwestern/playlist.m3u8?tid=mc74c843b38d00&ct=11652116862&tsum=205d49fb3fa7ac767e9eba78e258f68c
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+http://tv543.cc/Smart.php?id=ettvwestern
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+p2p://142.54.189.229:2666/64df13790003d2fa04aa39ae2da01a11.ts
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee06023e5d93b4c5269f73044bec1cbfb813b47bf10a%3A1760491003%3ANTIuMTUwLjI5Ljk4
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D1NIpeZyBg
+#EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
+https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 #EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 東森洋片
 https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 group-title="🎥電影頻道🎥",🟡重播 周潤發電影院
@@ -214,8 +228,6 @@ https://www.youtube.com/watch?v=Vrs-AeKZIEg
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MIqUplvSRWA/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【大愛電視】大愛一臺
 https://www.youtube.com/watch?v=MIqUplvSRWA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HtmAupAkpZ0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】直播
-https://www.youtube.com/watch?v=HtmAupAkpZ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/15mZInEEqX8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】直播
 https://www.youtube.com/watch?v=15mZInEEqX8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】鏡新聞
@@ -244,8 +256,6 @@ https://www.youtube.com/watch?v=Ej3LQM_lTEw
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】寰宇新聞
 https://www.youtube.com/watch?v=6IquAgfvYmc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yyzOQLQ2fPw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【udn video】藍白合示範區
-https://www.youtube.com/watch?v=yyzOQLQ2fPw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RcmtAlTgqAM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【CNEWS匯流新聞網】立法院衛環委員會全體委員會議
 https://www.youtube.com/watch?v=RcmtAlTgqAM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UpZy6UG1FYs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【CNEWS匯流新聞網】立法院司法衛環委員會聯席會議
@@ -902,6 +912,8 @@ https://www.youtube.com/watch?v=RGOfJKiNHgc
 https://www.youtube.com/watch?v=0X6STyhfQww
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1t8e5718aeE/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【52新聞聚樂部 】蔡正元講座
 https://www.youtube.com/watch?v=1t8e5718aeE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/F1zKzfy04aA/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【觀點】美淪全球公敵
+https://www.youtube.com/watch?v=F1zKzfy04aA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0siTFIU__tc/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【海豚多媒體】海豚綜合台
 https://www.youtube.com/watch?v=0siTFIU__tc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3YhuTJGpNFg/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【寶島文化台】寶島文化電視台
