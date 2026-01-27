@@ -1,5 +1,11 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-01-27 10:58:11
+# Last Update: 2026-01-27 11:07:51
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
+https://www.youtube.com/watch?v=jbZCyIhL4WQ
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
+https://www.youtube.com/watch?v=rEKifG2XUZg
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
+https://www.youtube.com/watch?v=e1gbvCkwxFE
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🟡重播 全民星攻略
 video://http://www.faintv.com/channel/20308
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🟡重播 請問今晚住誰家
@@ -508,6 +514,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】花蓮吉安
 https://www.youtube.com/watch?v=kzBW-wA-U1A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iG3a1ggwFME/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】晚間大頭條
+https://www.youtube.com/watch?v=iG3a1ggwFME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】台視新聞台
 https://www.youtube.com/watch?v=xL0ch83RAK8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞 HD】中視新聞
@@ -650,6 +658,8 @@ https://www.youtube.com/watch?v=yVQev0EqoQ8
 https://www.youtube.com/watch?v=grMspiqQwQA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uPLdwjHlf58/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【影视剧汇踪】都挺好
 https://www.youtube.com/watch?v=uPLdwjHlf58
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PF3H8tr8RJc/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【精选大剧】怒海惊涛上海滩
+https://www.youtube.com/watch?v=PF3H8tr8RJc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I1cOq_IdRaM/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【百纳经典独播剧场】马拉松直播
 https://www.youtube.com/watch?v=I1cOq_IdRaM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gCGC21-URwA/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【百纳经典独播剧场】马拉松直播
@@ -658,61 +668,55 @@ https://www.youtube.com/watch?v=gCGC21-URwA
 https://www.youtube.com/watch?v=mcFmt2w5B_c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D9YBnpcd2RY/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【百纳经典独播剧场】独播高清无静音版
 https://www.youtube.com/watch?v=D9YBnpcd2RY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jbZCyIhL4WQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
-https://www.youtube.com/watch?v=jbZCyIhL4WQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rEKifG2XUZg/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
-https://www.youtube.com/watch?v=rEKifG2XUZg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e1gbvCkwxFE/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
-https://www.youtube.com/watch?v=e1gbvCkwxFE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZjMe5u-I3PM/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【YOYOTV】金曲
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZjMe5u-I3PM/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【YOYOTV】金曲
 https://www.youtube.com/watch?v=ZjMe5u-I3PM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k4TC9_pheW0/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【momokids親子台】舞法天女
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k4TC9_pheW0/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【momokids親子台】舞法天女
 https://www.youtube.com/watch?v=k4TC9_pheW0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oPntQYFGwgY/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【momokids親子台】歡樂谷
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oPntQYFGwgY/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【momokids親子台】歡樂谷
 https://www.youtube.com/watch?v=oPntQYFGwgY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tKcvVpq7sgE/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【momokids親子台】這一家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tKcvVpq7sgE/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【momokids親子台】這一家
 https://www.youtube.com/watch?v=tKcvVpq7sgE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RZaRBqg2QHY/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Bebefinn 繁體中文 - 兒歌】新年快樂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RZaRBqg2QHY/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Bebefinn 繁體中文 - 兒歌】新年快樂
 https://www.youtube.com/watch?v=RZaRBqg2QHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATiJ3ihQuP8/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATiJ3ihQuP8/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【寶貝多米-兒歌童謠-卡通動畫-經典故事】恐龍唱唱跳跳派對
 https://www.youtube.com/watch?v=ATiJ3ihQuP8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pHeTp0couog/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【碰碰狐 鯊魚寶寶】新年快樂
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pHeTp0couog/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【碰碰狐 鯊魚寶寶】新年快樂
 https://www.youtube.com/watch?v=pHeTp0couog
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aL6AmHaMfyA/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【寶寶巴士】團夥作案
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aL6AmHaMfyA/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【寶寶巴士】團夥作案
 https://www.youtube.com/watch?v=aL6AmHaMfyA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u74LMt_hqG8/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【貝樂虎兒歌-童謠歌曲】貝樂虎兒童直播
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u74LMt_hqG8/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【貝樂虎兒歌-童謠歌曲】貝樂虎兒童直播
 https://www.youtube.com/watch?v=u74LMt_hqG8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDtNnMzKuVc/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【貝樂虎-兒歌童謠-卡通動畫-經典故事】叢林探險開始啦
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDtNnMzKuVc/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【貝樂虎-兒歌童謠-卡通動畫-經典故事】叢林探險開始啦
 https://www.youtube.com/watch?v=YDtNnMzKuVc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4Ir1-e3iXbU/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【貝樂虎-兒歌童謠-卡通動畫-經典故事】貝樂虎醫生出動
 https://www.youtube.com/watch?v=4Ir1-e3iXbU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6vgj4ltawJw/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【小猪佩奇】小猪佩奇
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6vgj4ltawJw/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【小猪佩奇】小猪佩奇
 https://www.youtube.com/watch?v=6vgj4ltawJw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Giligilis ABC Party!
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Lasr_ARcHI/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Kids Songs - Giligilis】Giligilis ABC Party!
 https://www.youtube.com/watch?v=2Lasr_ARcHI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Colorful ABC Adventu
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EorP0ZQxwBU/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Kids Songs - Giligilis】Colorful ABC Adventu
 https://www.youtube.com/watch?v=EorP0ZQxwBU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K6nRE-OMNck/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】🎶 Five Colorful Gili
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K6nRE-OMNck/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Kids Songs - Giligilis】🎶 Five Colorful Gili
 https://www.youtube.com/watch?v=K6nRE-OMNck
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gvfD_L9FSI/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】Explore the Fun Alph
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9gvfD_L9FSI/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Kids Songs - Giligilis】Explore the Fun Alph
 https://www.youtube.com/watch?v=9gvfD_L9FSI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E61jEDQKisg/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Kids Songs - Giligilis】🍓 Giligilis’ ABC & F
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E61jEDQKisg/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Kids Songs - Giligilis】🍓 Giligilis’ ABC & F
 https://www.youtube.com/watch?v=E61jEDQKisg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Me0qdV9XQgQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【超級汽車-卡通動畫】警車守護朋友
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Me0qdV9XQgQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【超級汽車-卡通動畫】警車守護朋友
 https://www.youtube.com/watch?v=Me0qdV9XQgQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kcGmDpjdez4/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【超級汽車-卡通動畫】警車守護朋友
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kcGmDpjdez4/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【超級汽車-卡通動畫】警車守護朋友
 https://www.youtube.com/watch?v=kcGmDpjdez4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9nQCfWjIlhQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【神奇鸡仔】神奇鸡仔
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9nQCfWjIlhQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【神奇鸡仔】神奇鸡仔
 https://www.youtube.com/watch?v=9nQCfWjIlhQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1gecYOpw9SI/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Yameme閻小妹】閻小妹
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1gecYOpw9SI/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【Yameme閻小妹】閻小妹
 https://www.youtube.com/watch?v=1gecYOpw9SI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0XOp7-PsAA4/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【朱妮托尼 - 动画儿歌】兒歌童謠
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0XOp7-PsAA4/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【朱妮托尼 - 动画儿歌】兒歌童謠
 https://www.youtube.com/watch?v=0XOp7-PsAA4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mCOate_sArY/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【朱妮托尼 - 动画儿歌】雾霾歌
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mCOate_sArY/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【朱妮托尼 - 动画儿歌】雾霾歌
 https://www.youtube.com/watch?v=mCOate_sArY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2pyhO4yhEfs/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【朱妮托尼 - 动画儿歌】尝尝彩虹色零食
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2pyhO4yhEfs/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【朱妮托尼 - 动画儿歌】尝尝彩虹色零食
 https://www.youtube.com/watch?v=2pyhO4yhEfs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ypW8FEMBCu0/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【朱妮托尼 - 动画儿歌】朱妮托尼
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ypW8FEMBCu0/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【朱妮托尼 - 动画儿歌】朱妮托尼
 https://www.youtube.com/watch?v=ypW8FEMBCu0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QEJNDjsLyAQ/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【英文經典老歌】Relaxing Love Songs 
 https://www.youtube.com/watch?v=QEJNDjsLyAQ
