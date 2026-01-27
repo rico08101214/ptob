@@ -1,4 +1,4 @@
-📻西八精選音樂頻道,#genre#
+📻精選音樂頻道,#genre#
 【咖啡】,https://www.youtube.com/watch?v=ciwJV_AFVhk
 【我曾用心愛著你】,https://www.youtube.com/watch?v=suYmnM7xkzs
 【她的眼淚】,https://www.youtube.com/watch?v=-cRvMnaQe2I
@@ -83,7 +83,7 @@
 【再見煙火】,https://www.youtube.com/watch?v=pWv4AVV0_as
 【女人的選擇】,https://www.youtube.com/watch?v=cvuqdiTCwcc
 
-📻西八精選英文老歌頻道,#genre#
+📻精選英文老歌頻道,#genre#
 【Last Christmas】,https://www.youtube.com/watch?v=jLjOxR7_-bM
 【Yeah】,https://www.youtube.com/watch?v=GxBSyx85Kp8
 【We Are The World】,https://www.youtube.com/watch?v=182f6dTagkU
@@ -1290,150 +1290,3 @@
 "( I've Had ) The Time of My Life 我擁有了人生最美好的時光 / Bill Medley & Jennifer Warnes [ 中英歌詞 ]",https://www.youtube.com/watch?v=s8DmQcahVIY
 【逢いたくていま羅馬拼音】,https://www.youtube.com/watch?v=2wzDK1IgJRY
 【最後の雨】,https://www.youtube.com/watch?v=NKexMZcpqDA
-🌸西八線上音樂頻道,#genre#
-【1990–1999 經典華語情歌精選】,https://www.youtube.com/watch?v=bONffV5Vupw
-【】,
-2000-2009年經典流行歌曲,https://www.youtube.com/watch?v=BDYWDr8XZjo
-Top 50 Love Songs,https://www.youtube.com/watch?v=LWilXiGXEKk
-Love Songs 80s 90s,https://www.youtube.com/watch?v=Tr-IguZlWk8
-Love Songs,https://www.youtube.com/watch?v=F-e6uYNayyY
-【R&B Relax】,https://www.youtube.com/watch?v=a-_iqu5FMeM
-【lofi hip hop radio】,https://www.youtube.com/watch?v=jfKfPfyJRdk
-【The Good Life Radio】,https://www.youtube.com/watch?v=36YnV9STBqc
-【Billboard Pop Songs 2025】,https://www.youtube.com/watch?v=WnVxsr5IzUY
-【Coffee Jazz Music】,https://www.youtube.com/watch?v=fEvM-OUbaKs
-【睡眠音樂】,https://www.youtube.com/watch?v=b_k6nvrPyqc
-【DANCE PARTY SONGS 2024】,https://www.youtube.com/watch?v=fpwx3tqvRg4
-【Relaxing Night Jazz】,https://www.youtube.com/watch?v=Fyrvsjw_wiQ
-【Saxophone】,https://www.youtube.com/watch?v=c3IVTi6TlfE
-【睡眠音樂】,https://www.youtube.com/watch?v=b_TW4NYsbOo
-【Jazz】,https://www.youtube.com/watch?v=Dx5qFachd3A
-【LofiGirl-asian lofi radio】,https://www.youtube.com/watch?v=Na0w3Mz46GA
-【Live Music Radio】,https://www.youtube.com/watch?v=8M0AvPvPg0A
-【經典英文歌】,https://www.youtube.com/watch?v=U_pPkzkEdJo
-【ts_bThe Good Life radio】,https://www.youtube.com/watch?v=36YnV9STBqc
-【Starbucks Bossa Coffee】,https://www.youtube.com/watch?v=9hqfOZrNcmo
-【avex J-POP】,https://www.youtube.com/watch?v=tr77RbnfYIU
-【Relaxing Music for Cats】,https://www.youtube.com/watch?v=CiNnUq_VJ-E
-【經典粵語懷舊歌曲】,https://www.youtube.com/watch?v=TCGeG2o7XE8
-1muz,http://hz1.teleport.cc/HLS/HD.m3u8
-舒緩音樂,https://www.youtube.com/watch?v=G6M5Upcrwf8
-Autumn Vibes Mix,https://www.youtube.com/watch?v=kGgUK25gfDA
-Best Old Love Songs,https://www.youtube.com/watch?v=msfRDFN3AOU
-Bossa Nova Jazz,https://www.youtube.com/watch?v=NpokNpxhDmI
-Coffee Jazz,https://www.youtube.com/watch?v=fEvM-OUbaKs
-Deep & Melodic House,https://www.youtube.com/watch?v=WsDyRAPFBC8
-Deep House Radio,https://www.youtube.com/watch?v=IkmLXvBfVv0
-Deep House,https://www.youtube.com/watch?v=Ihm9OQWmibA
-jazz lofi radio.https://www.youtube.com/watch?v=HuFYqnbVbzY
-Jeka,https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-背景音樂,https://www.youtube.com/watch?v=ZBRkByGnsmM
-Live POP Radio,https://www.youtube.com/watch?v=TtNXER1Cgzo
-lofi hip hop radio,https://www.youtube.com/watch?v=28KRPhVzCus
-LofiGirl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-OKK,https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-Old Love Songs,https://www.youtube.com/watch?v=ZTqt3CYehuE
-Peaceful Music,https://www.youtube.com/watch?v=dXIyMS61B68
-POP Star,https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-Progressive House,https://www.youtube.com/watch?v=d8Oc90QevaI
-Radio POP Mix,https://www.youtube.com/watch?v=x-JC7sJJUW8
-Rainy Piano Radio,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
-Rock&Roll,https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-Slow Jazz,https://www.youtube.com/watch?v=Dx5qFachd3A
-Spa Music,https://www.youtube.com/watch?v=DnoTqKe04Rc
-Space Ambient Music,https://www.youtube.com/watch?v=tNkZsRW7h2c
-Spring Lounge 2025,https://www.youtube.com/watch?v=eoFU5bMS_uY
-Starbucks Music,https://www.youtube.com/watch?v=Efu7J9uQMxY
-Summer Mix 2025,https://www.youtube.com/watch?v=JsFAQhhBlZQ
-The Good Life Radio,https://www.youtube.com/watch?v=36YnV9STBqc
-THE K-POP,https://www.youtube.com/watch?v=JVocS7Yftw8
-THE K-POP2,https://www.youtube.com/watch?v=Xki2MCehoDw
-Top 50 Love Songs-1,https://www.youtube.com/watch?v=LWilXiGXEKk
-Top 50 Love Songs-2,https://www.youtube.com/watch?v=F-e6uYNayyY
-WorldwideM,https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-老歌精選,https://www.youtube.com/watch?v=77ZV3XiIva8
-美丽城市和软钢琴音乐,https://www.youtube.com/watch?v=TZikBxNaaQk
-浪漫吉他音樂,https://www.youtube.com/watch?v=xNgv8mIk0tA
-減輕壓力音樂,https://www.youtube.com/watch?v=wKg71lcs5Nw
-舒緩神經音樂,https://www.youtube.com/watch?v=DO9WCXMfRuc
-溫暖英文歌單,https://www.youtube.com/watch?v=iMWzrduYHWo
-睡眠音樂-1,https://www.youtube.com/watch?v=b_TW4NYsbOo
-睡眠音樂-2,https://www.youtube.com/watch?v=TO4CiZXapP0
-睡眠音樂-3,https://www.youtube.com/watch?v=G6M5Upcrwf8
-睡眠音樂-4,https://www.youtube.com/watch?v=hYz1oOcAuk8
-睡眠音樂-5,https://www.youtube.com/watch?v=zutrCU4N0hk
-睡眠音樂-6,https://www.youtube.com/watch?v=zoz0eXzFFns
-緩解壓力-1,https://www.youtube.com/watch?v=jvXwD1dMvYM
-緩解壓力-2,https://www.youtube.com/watch?v=BcwNV1cCoaU
-緩解壓力-3,https://www.youtube.com/watch?v=p9nUn7ic_o0
-緩解壓力-4,https://www.youtube.com/watch?v=2bNylLpGK6U
-緩解壓力-5,https://www.youtube.com/watch?v=SjkGdCuT8zg
-【周杰倫】音樂時光機,https://www.youtube.com/watch?v=q8hw5oKCDp4
-【五月天】不間斷霸佔你耳朵,https://www.youtube.com/live/R62E7cFWX6o
-【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=BYNWUMC2Np4
-【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音十一月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質,https://www.youtube.com/watch?v=LlDa4PpVh0M
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=epo7GdDZ-KA
-【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=8sWvaojkCmg
-【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=99rLT2xf8T8
-【Hot TV】🔥🎵 #KJJadiDJ 🎧,https://www.youtube.com/watch?v=augOnkJkrHY
-【时间节拍 Melody】熱榜上最火的首歌年大陸流行歌曲讓人停不下來的音樂跳楼机最後一頁這是你期盼的長大嗎最新抖音神曲,https://www.youtube.com/watch?v=9qOx0nSJYkk
-【时间节拍 Melody】華語單曲排行週榜十一月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=qrWp7zOrWAg
-【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=PoNKmT9ns-Y
-【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡,https://www.youtube.com/watch?v=PWt0X2ioW8E
-【时间节拍 Melody】華語單曲排行週榜愛就一個字若月亮没来花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋十二月新歌,https://www.youtube.com/watch?v=IsEhtbPZr4Q
-【孤心旋律】一月抖音神曲大集合抖音熱門歌曲跳楼机在加納共和國離婚最後一頁氣象站台座位如果愛忘了故事还长過星辰大海,https://www.youtube.com/watch?v=7vnUw3AK_iY
-【孤心旋律】一月新歌華語單曲排行週榜首一月必聽流行金曲愛就一個字總會有人門沒鎖周杰倫王嘉爾周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=s7yUxzmaoaU
-【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋,https://www.youtube.com/watch?v=lipXrQzcwps
-【孤心旋律】華語單曲排行週榜超好聽的中文歌單原諒我不再送花傷口應要結疤花瓣鋪滿心裡墳場才害怕如若你非我不嫁彼此終必火化一生一世等一天需要代價,https://www.youtube.com/watch?v=FXKtDr83Mgo
-【孤心旋律】華語單曲排行週榜超好聽的中文歌單原諒我不再送花傷口應要結疤花瓣鋪滿心裡墳場才害怕如若你非我不嫁彼此終必火化一生一世等一天需要代價,https://www.youtube.com/watch?v=L9SdgMpYRpg
-【孤心旋律】十二月爆紅新歌推薦抖音歌曲華語單曲排行週榜跳楼机如果爱忘了鄧紫棋周興哲流行歌曲,https://www.youtube.com/watch?v=beAriKdYRBQ
-【孤心旋律】十二月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫,https://www.youtube.com/watch?v=2RBGZS6PNL0
-【孤心旋律】華語單曲排行週榜十二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=b9R2EboVgho
-【孤心旋律】華語單曲排行週榜十二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋,https://www.youtube.com/watch?v=2KnheMYXGDs
-【水月琴音】最美中國古風音樂現場演唱會精選中國古風歌曲古裝音樂現場浪漫古風情懷中國古風音樂愛好者必聽古風歌曲,https://www.youtube.com/watch?v=hdwWetXD07I
-【Cherry 葵】Nightcore Radio,https://www.youtube.com/watch?v=tjne3WWB3kA
-【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日,https://www.youtube.com/watch?v=4FBW3mkdKOs
-【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天,https://www.youtube.com/watch?v=IomlsrbTFsQ
-【The Good Life Radio x Sensual Musique】Deep House Radi,https://www.youtube.com/watch?v=IkmLXvBfVv0
-【The Good Life Radio x Sensual Musique】Chill Out Music,https://www.youtube.com/watch?v=m52ynxt1mOo
-【The Good Life Radio x Sensual Musique】Chillout Lounge,https://www.youtube.com/watch?v=9UMxZofMNbA
-【The Good Life Radio x Sensual Musique】The Good Life R,https://www.youtube.com/watch?v=36YnV9STBqc
-【Rock FM】Rock 90s ⚡  Bes,https://www.youtube.com/watch?v=njqkg8o4C84
-【Rock FM】Pop Rock ⚡  Bes,https://www.youtube.com/watch?v=2Sn6nqruOB8
-【Rock FM】Rock 2000s ⚡  B,https://www.youtube.com/watch?v=VbTYnJshTas
-【Rock FM】Rock Classics ⚡,https://www.youtube.com/watch?v=Nt27aBceerI
-【Radio Mix】Radio 2000s Hit,https://www.youtube.com/watch?v=0C4kZlNrhbI
-【Radio Mix】Radio 90s Mix,https://www.youtube.com/watch?v=Ukyd5pBfJjM
-【Radio Mix】Radio 70s 80s M,https://www.youtube.com/watch?v=WnCfvAMM9eY
-【Radio Mix】Best Radio 1 PO,https://www.youtube.com/watch?v=b-bK2Vn3D38
-【Radio Mix】Radio POP Mix 2,https://www.youtube.com/watch?v=x-JC7sJJUW8
-【Radio Mix】Dance Radio Mix,https://www.youtube.com/watch?v=hXyRD5vbKpo
-【Too Music】2000s  Hits Rad,https://www.youtube.com/watch?v=E4uVC1vcNXA
-【Too Music】The Good Time R,https://www.youtube.com/watch?v=YDuz4mAtyf4
-【Too Music】Music Radio Mix,https://www.youtube.com/watch?v=m2BnK_hf2qg
-【Too Music】Music Radio Ret,https://www.youtube.com/watch?v=9hylBusqpX8
-【Too Music】Music Radio Pop,https://www.youtube.com/watch?v=zjXupvypOmw
-【Too Music】Today's Top Hit,https://www.youtube.com/watch?v=nHeXL2We4EE
-【Too Music】Music Radio 1 P,https://www.youtube.com/watch?v=FVLNVecHzvI
-【Radio Hits Music】Hits Radio 1 Li,https://www.youtube.com/watch?v=3MOrgUjiigE
-【Radio Hits Music】Pop Radio - Hit,https://www.youtube.com/watch?v=UWc_vMRGxDs
-【Dark City Sounds】Hottest Hip Hop,https://www.youtube.com/watch?v=r7eFY9YYTdE
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=6lFzH9kGSOU
-【Pop Japan Music】年最新曲心響邦楽癒優里米津玄師,https://www.youtube.com/watch?v=xXAKJXXxZ80
-【Pop Japan Music】最近流行曲邦楽最新曲邦楽優里米津玄師,https://www.youtube.com/watch?v=uhmZ1F3-ykc
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=Vzae8C-hakY
-【Pop Japan Music】年最新曲邦楽癒感動名曲集優里米津玄師,https://www.youtube.com/watch?v=PkNxx_K1_NA
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=Zs9O-tVJtus
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=9SSPi8O3i8k
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=oOzsOOggCx4
-【Pop Japan Music】邦楽癒感動名曲集年最新曲優里米津玄師,https://www.youtube.com/watch?v=qt9Fh9S0f8c
-【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田,https://www.youtube.com/watch?v=-8V2NtzkXyw
-【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=-2vgouGUOjE
-【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田,https://www.youtube.com/watch?v=dQ7Avm5vZUI
-【Tokyo Sound Rank】邦楽今聴神曲集宇多田他,https://www.youtube.com/watch?v=skB3NF5XsWs
-【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=2uH1UzaEWgU
-【Tokyo Sound Rank】人気曲有名曲邦楽優里米津玄師宇多田,https://www.youtube.com/watch?v=ns3kv2cHzh0
-【Tokyo Sound Rank】邦楽今聴神曲集宇多田他,https://www.youtube.com/watch?v=4VT3Zi3Xr2c
-【Tokyo Sound Rank】邦楽話題神曲宇多田他,https://www.youtube.com/watch?v=z8PzoHfHBf0
-【Tokyo Sound Rank】人気曲最新邦楽集優里米津玄師宇多田,https://www.youtube.com/watch?v=MjsI7PQrm4Y
-
