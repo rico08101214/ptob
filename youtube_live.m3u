@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-02 10:43:35
+# Last Update: 2026-02-02 11:02:20
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 飯店介紹-藍山大飯店
 http://tw.护法.cloudns.ch:21096/mk.php?id=custom19
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE Trace Sport Stars
@@ -590,6 +590,8 @@ http://52xinghe.top/smmmt.php?id=Rockentertain&h=52xinghe.top&p=7788
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】台灣天氣即時監測 Taiwan Weather Real-t
 https://www.youtube.com/watch?v=LzOTY4mZG00
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uWmjVj-qKI8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】2026.02.02晚間大頭條：中壢驚險警匪追逐 駕駛衝撞.
+https://www.youtube.com/watch?v=uWmjVj-qKI8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞 HD】中視新聞LIVE直播頻道24小時線上直播｜Taiwan CT
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播｜降雨即時資訊｜華視公眾安全資訊觀測站
@@ -832,11 +834,11 @@ https://www.youtube.com/watch?v=uPLdwjHlf58
 https://www.youtube.com/watch?v=s4qML0pgujo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o1psf9b5jFc/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【华录百納熱播劇場】24-Hour Non-Stop Live 马拉松直播‪品味
 https://www.youtube.com/watch?v=o1psf9b5jFc
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢|tvg-logo=https://upload.wikimedia.org/wikipedia/zh/6/6f/Doraemon_logo.png
 https://www.youtube.com/watch?v=jbZCyIhL4WQ
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY|tvg-logo=https://upload.wikimedia.org/wikipedia/commons/2/2f/TomandJerryTitleCardc.jpg
 https://www.youtube.com/watch?v=rEKifG2XUZg
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家|tvg-logo=https://upload.wikimedia.org/wikipedia/zh/3/3e/Atashinchi_logo.png
 https://www.youtube.com/watch?v=e1gbvCkwxFE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZjMe5u-I3PM/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【YOYOTV】YOYO金曲✕熱門卡通✨24HR不間斷｜LIVE｜唱跳｜金曲
 https://www.youtube.com/watch?v=ZjMe5u-I3PM
@@ -974,8 +976,10 @@ https://www.youtube.com/watch?v=0UOnH10P4oY
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tV71vYDte5I/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【國民大會】綠中800萬?老柯向賴清德討債?林聰賢超思後掌兆豐金子公司!
 https://www.youtube.com/watch?v=tV71vYDte5I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/du8bEs_0oP4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】川普下通牒速達談判協議 哈米尼再嗆美國動武恐爆區域戰爭 中東
-https://www.youtube.com/watch?v=du8bEs_0oP4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Syghkuc4Q8c/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【哏傳媒】綠無視中國崛起 藍無懼兩岸正道 2026.02.02 LIV
+https://www.youtube.com/watch?v=Syghkuc4Q8c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CUinMj3-f8I/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【郭正亮頻道】2026.02.02 綠無視中國崛起 藍無懼兩岸正道 LIV
+https://www.youtube.com/watch?v=CUinMj3-f8I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6m3hvXfSW48/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【品觀點】巴拿馬的教訓，美國曾視為後花園，翻臉如翻書？新春人事大風吹？
 https://www.youtube.com/watch?v=6m3hvXfSW48
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【海豚多媒體】海豚綜合台HD 24H線上直播
