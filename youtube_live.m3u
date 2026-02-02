@@ -1,95 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-02 11:53:00
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 飯店介紹-藍山大飯店
-http://tw.护法.cloudns.ch:21096/mk.php?id=custom19
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE Trace Sport Stars
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1003
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE DISCOVERY
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1002
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 旅遊生活
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1005
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 動物星球
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1004
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來綜合HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1044
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 八大第一HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1043
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 八大綜合HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1019
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 三立台灣HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1021
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 三立都會HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1020
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森綜合HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1041
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森綜合HD
-https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森綜合HD
-https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森綜合HD
-http://211.23.114.106:8535/http/59.120.8.187:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森綜合HD
-http://211.23.114.106:8535/http/61.67.128.137:8081/hls/63/805/ch12.m3u8
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 超視HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1180
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 中天綜合HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1022
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 中天娛樂HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1023
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東風衛視
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1195
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE MUCH TV
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1189
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森戲劇HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1042
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 八大戲劇HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1057
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE TVBS歡樂HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1018
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來戲劇
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1186
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來日本HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1026
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE Taiwan Plus
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1238
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 年代新聞
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1192
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森新聞HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1014
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 三立新聞HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1016
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE TVBS新聞HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1051
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE TVBS HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1251
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 非凡新聞
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1013
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 非凡商業
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1012
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森財經HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1017
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 壹新聞
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1242
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 好萊塢電影HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1025
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來電影HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1183
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE HBO
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1029
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE AXN
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1054
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE CINEMAX HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1030
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE AMC 電影台
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1032
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 寵物頻道
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1040
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來育樂HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1045
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 緯來體育HD
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1011
-#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 博斯運動一
-http://tw.护法.cloudns.ch:21096/mk.php?id=live1225
+# Last Update: 2026-02-02 13:07:49
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
@@ -122,264 +32,6 @@ https://live.catvod.com/live.php?id=ettvwestern&token=db68a5975c00457036c2ee0602
 https://live.catvod.com/live.php?id=ettvwestern&token=26c45d6636a1192c92dd36198e022f2af4d26b0204f907d6765bdfafcf964f04%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D1NIpeZyBg
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森洋片
 https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 民視
-https://z88.ubtvfans.com/live/rx3/336/f485474bfd5bfa657745a54d77504625/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 民視
-https://z88.ubtvfans.com/live/rx5/2805/3329a79058f8169b1fde3e6e62046c83/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 台視
-https://z88.ubtvfans.com/live/rx3/326/9343b936f513ce982454b03b8d0d2e9a/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 台視
-https://z88.ubtvfans.com/live/rx1/312/449c902b97aeb3d652a3c86267da1a8a/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中視
-http://z88.ubtvfans.com/live/rx3/333/a1b8926741b89791e1e47aee5000fba4/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中視
-https://z88.ubtvfans.com/live/rx1/1041/3d619d2dc0757ab8817c9ad0b907f838/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 華視
-https://z88.ubtvfans.com/live/rx3/32/48a7d1a035088fe639f9f1cb57e9a2c5/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 公視
-https://z88.ubtvfans.com/live/rx3/86/feb3fe942b836eb7c06d4162dd85607c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來綜合
-https://z88.ubtvfans.com/live/rx2/2726/147ef78ac60d94ce68c0d23ac89942ed/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大第一
-https://z88.ubtvfans.comm/live/rx3/318/67df7add3669faa80aff50e0e242298f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大綜合
-https://z88.ubtvfans.com/live/rx3/3258/48fce82bde4927bb2ed0444aacd5b24e/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大綜合
-https://z88.ubtvfans.com/live/rx2/2286/35f0e66c12cc41902fa412a6f2969ec0/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立臺灣
-http://z88.ubtvfans.com/live/rx3/35/70550f309511125cc3be6372b7fa53a9/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立臺灣
-https://z88.ubtvfans.com/live/rx2/21/a4f59e2eff3538c216523a068b9e86f5/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立都會
-https://z88.ubtvfans.com/live/rx3/2435/aa2b1bd690302d0d886be9d9d8a2977f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立都會
-https://z88.ubtvfans.com/live/rx2/1001/91efc3a2790d32a008a04a5e1aafeb97/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森綜合-2
-https://z88.ubtvfans.com/live/rx3/3487/9ce2d45ddd8e1fc58f8c81f37a21c075/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森綜合
-https://z88.ubtvfans.com/live/rx3/3479/6a28a3542384f29b4907fa705c7ea675/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中天綜合
-https://z88.ubtvfans.com/live/rx3/3072/04242bff754627a427a3ff574fc3820d/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中天娛樂
-https://z88.ubtvfans.com/live/rx3/324/9642032d9b638644e524050ad415fdae/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE TVBS歡樂
-https://z88.ubtvfans.com/live/rx3/40/dfe195a1c38195d0c49a975b8bb091f9/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE TVBS歡樂-2
-https://z88.ubtvfans.com/live/rx1/3486/dd87a3c8d066d3c9b8219cdc1fba2061/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大精彩
-https://z88.ubtvfans.com/live/rx2/1024/9c5eb6efea98b18aa7a0e60cae1af719/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE JET綜合
-https://z88.ubtvfans.com/live/rx2/41/3bb59ae1f70906646158dc9537823213/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE TVBS
-https://z88.ubtvfans.com/live/rx3/2273/4f768d6d72d7af02a75b6777d311b72c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來育樂
-https://z88.ubtvfans.com/live/rx2/338/c06158c013d1a6c8942ff17a21cd1a1d/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來日本-1
-https://z88.ubtvfans.com/live/rx2/337/7e5798238e93d340d0691c8727ce8771/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 國興衛視
-https://z88.ubtvfans.com/live/rx3/65/ee001cce7e18b9828cf997aa7ae6a6ed/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大娱乐
-https://z88.ubtvfans.com/live/rx3/105/a8e785d3e5692ecb60068caeb928bf7e/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 高點綜合
-https://z88.ubtvfans.com/live/rx3/99/b9f2b3901cb1dacc813e3a131c8ae550/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中天亞洲
-https://z88.ubtvfans.com/live/rx3/322/8ccd11c4af02d1d1957ac29141fee9d1/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 民視台灣
-https://z88.ubtvfans.com/live/rx2/36/056e852fc94424524eba35fd7836b714/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華日韓
-https://z88.ubtvfans.com/live/rx6/382/394049251526d0dce7c94867cc51d37c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA娛樂台
-https://z88.ubtvfans.com/live/rx6/351/b2881bc6da8323af9416007191fc490f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 韓國娛樂
-http://z88.ubtvfans.com/live/rx1/73/1f82c54cb490271246703741c5c31ed8/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天國際
-http://z88.ubtvfans.com/live/rx1/345/835ba0c474e6832b46a1a6ba98fb2ba4/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天育樂
-https://z88.ubtvfans.com/live/rx1/1029/3f1b2dca0b2f2eaa8ab777db4cc948b5/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天日本
-http://z88.ubtvfans.com/live/rx1/108/933f85a2fe941ff4b427487a00afdbf3/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天歡樂
-https://z88.ubtvfans.com/live/rx1/51/596658ac33d24539810e52c9d26783ab/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立綜合
-https://z88.ubtvfans.com/live/rx3/2815/20715c15070105a9ff930018e1922258/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天資訊
-https://z88.ubtvfans.com/live/rx2/49/83c01e840076278e5206cde2ded7ee72/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 中視經典
-https://z88.ubtvfans.com/live/rx2/185/30628d2a4834f96379c2c3924c183dd6/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE TVBS精采
-https://z88.ubtvfans.com/live/rx3/66/1f603f72c67f2e255a85cbe26a9eac24/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 年代much
-https://z88.ubtvfans.com/live/rx2/1359/ec157e3fb029e55272908668d8268886/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA綜合
-https://z88.ubtvfans.comm/live/rx3/1137/7e7ffb1cf538bf74f7c8f2fa346e0049/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE TVN台湾版
-https://z88.ubtvfans.com/live/rx1/2288/a325ce8ab891a5568ebe4679b389e80f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 大立電視
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立新聞
-https://z88.ubtvfans.com/live/rx3/2794/39bbdbd6e69d7105aca0e2bcdc401786/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立新聞-2
-https://z88.ubtvfans.com/live/rx1/3488/942b1e63f1d62aa4fd752142e4453ebd/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森新聞
-https://z88.ubtvfans.comm/live/rx3/2766/afb7e9b620eb18d8d511e04f470a7d56/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森亞洲
-https://z88.ubtvfans.com/live/rx3/3/0e8532f05c9ad5f9dd787f16dd64d7e6/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 華視新聞-2
-https://z88.ubtvfans.com/live/rx6/2424/c66597dd1b65cb09d9e042aa254552c5/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 寰宇臺灣
-https://z88.ubtvfans.com/live/rx2/87/7d5a48d7f7a86b65056e427669413384/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 年代新聞
-http://z88.ubtvfans.com/live/rx2/2719/6a61616788d6824de08909dd6fd2d758/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 年代新聞-備
-http://z88.ubtvfans.com/live/rx1/1099/f95ab3a3ce36e01df3aa1ba9be2e536c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 壹新聞
-https://z88.ubtvfans.com/live/rx2/2777/ff69abe169660783ef8258018623584a/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 壹新聞-替
-http://z88.ubtvfans.com/live/rx3/494/cd6942fb822f9c9909f2e9e9be24ef11/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 台視財經
-https://z88.ubtvfans.com/live/rx2/300/ed7e7daeab69ae5c10df30d24e1650ad/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立国際
-https://z88.ubtvfans.comm/live/rx1/2285/5082b8558c7b54e0885d9b7346095c80/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森戲劇-備
-https://z88.ubtvfans.com/live/rx2/321/2f4ea7b181a945528b7738380485a066/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 八大戲劇
-https://z88.ubtvfans.com/live/rx3/81/05abcf3261fa98a4a056583fb0ee4c57/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來戲劇
-https://z88.ubtvfans.com/live/rx2/2727/36b7c5a197f2796e3e22065bc2f8ee03/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森電影
-https://z88.ubtvfans.com/live/rx3/350/eefb520f8d3b4c3467b92379cbeb935a/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森電影
-https://z88.ubtvfans.com/live/rx2/2720/a1eeb6579474e5cd4e312fe59d6bb1b1/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來電影
-https://z88.ubtvfans.com/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE HBO HD
-https://z88.ubtvfans.com/live/rx3/332/160ab6e3b191403c827196c018ec0344/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE HBO HD
-https://z88.ubtvfans.com/live/rx1/2823/8a2198921f121bda12a2d7c3d908bd29/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森洋片
-https://z88.ubtvfans.com/live/rx3/1128/f77911d8667413c62ffb5522e140ee01/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 壹電影
-https://z88.ubtvfans.com/live/rx6/2284/534eb77d71c26908d76c2a0d2582a703/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 好萊塢電影
-https://z88.ubtvfans.com/live/rx3/37/a39af006b3114d9796dc34052dc12762/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 愛爾達影劇
-https://z88.ubtvfans.com/live/rx6/500/0449c21df9c9a9c6d710f6961b6a31f5/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE CineMAX
-https://z88.ubtvfans.comm/live/rx1/346/e4ed29f1c90abbce77af020f4590c887/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來精彩
-https://z88.ubtvfans.com/live/rx3/2280/6f351458fe0e4c1b980542508f1786d4/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE EYE戲劇
-https://z88.ubtvfans.com/live/rx2/191/9844351c76a1d8b931fa9ce4d75f5c11/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立戲劇
-https://z88.ubtvfans.com/live/rx2/64/6a8a649c2f0e67369f217293bb2f027b/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 三立戲劇
-https://z88.ubtvfans.com/live/rx3/2819/dbaeabf28c8ad7f801080066634b7e97/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華偶像
-https://z88.ubtvfans.com/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 霹靂臺灣
-https://z88.ubtvfans.com/live/rx2/1339/ad14e3e3f16d2ab0c67eaf809481453d/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 美亞電影
-https://z88.ubtvfans.com/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE HBOSignature
-https://z88.ubtvfans.com/live/rx3/329/c7cc598c9ce6547c15a2f805db2a4126/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE HBOSignature
-https://z88.ubtvfans.com/live/rx1/2824/1e73a237b32995792bd516dd0a995949/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE HBO Hits
-https://z88.ubtvfans.com/live/rx3/330/dbd1a7af13952246ab435e5dd189a445/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 采昌影劇
-https://z88.ubtvfans.com/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 影迷數位電影
-https://z88.ubtvfans.comm/live/rx6/2800/6f0115a5ee27c4d6024d04033790e8d2/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華戲劇
-http://z88.ubtvfans.com/live/rx6/2796/6c42d2b7652770d121aa4b0cd7dc53fe/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華經典
-http://z88.ubtvfans.com/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍翔時代
-https://z88.ubtvfans.com/live/rx6/373/1211fae2ba7ce9108a5f0c0df696ab4b/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE AXN臺灣
-https://z88.ubtvfans.com/live/rx6/2816/2eb64f9dc5fe51e0d8b6fbff2dcb925f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 天映經典
-https://z88.ubtvfans.comm/live/rx5/2289/c6b268f6f9f471bef0e26557fa1ac682/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE AXN亞洲
-https://z88.ubtvfans.com/live/rx6/1066/eeb9d44932c969f2f53f2444b08d2947/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Trill恐怖電影
-https://z88.ubtvfans.com/live/rx6/18/c3a80d4137bc6c4a8d2259ca68baeb70/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華電影
-https://z88.ubtvfans.com/live/rx3/311/2a4b6cc3e989028f7e28511b2c7496da/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 華納電影
-https://z88.ubtvfans.com/live/rx3/83/99bdc14a08a792d5245e33113b3f6245/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 龍華洋片
-https://z88.ubtvfans.com/live/rx3/341/37cdce4d94de7d9ec88aac2ee9783ab8/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來體育
-https://z88.ubtvfans.com/live/rx2/118/7234b1d99a3de155ee9b9bb7c0e6dd06/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 緯來體育-2
-https://z88.ubtvfans.com/live/rx1/2732/b31b6f2badd2dc3ff73e31b95245f655/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育1
-http://z88.ubtvfans.com/live/rx2/2729/b716e02efe150984b87e926cc064663f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育1
-https://z88.ubtvfans.com/live/rx3/192/e50f980e23a8ed6fdd0438b9013eb656/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育2
-http://z88.ubtvfans.com/live/rx2/2730/91575f53052a06e4fc484b1535813d40/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育2
-http://z88.ubtvfans.com/live/rx3/193/2272d088a4cd79b17de0b91f26705074/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育3
-https://z88.ubtvfans.comm/live/rx2/2731/a9d0a774f51ae8ebeae1a991d502028b/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育3
-https://z88.ubtvfans.com/live/rx3/194/4feaf466695ea717eb11bbfe57dbf56c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育4
-https://z88.ubtvfans.com/live/rx3/2820/6277db0ff15b370df9b67ea53f134f71/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE ELTA體育4-備
-https://z88.ubtvfans.com/live/rx2/3255/98ccdaa118fe8aa2cd0d7036916ff8e4/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Eleven Sport 1
-https://z88.ubtvfans.com/live/rx1/3224/2be6d2afe6967b52fee75fb09edc743d/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Eleven Sport 2
-https://z88.ubtvfans.comm/live/rx3/301/f776f01ae78fb4c0fc32a9800ee87a37/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Eleven Sport 2（備）
-http://z88.ubtvfans.com/live/rx2/3482/5b18f7cf6b06bdf6b91b6d42dcf342f7/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Z頻道
-https://z88.ubtvfans.com/live/rx3/1130/e8df039def4c8af49aa75b3c49dfb358/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 博斯無限
-https://z88.ubtvfans.com/live/rx6/2797/1c2273f6e00af2a6760bc8cf47a5787f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 博斯無限2
-https://z88.ubtvfans.com/live/rx3/426/fb35ac5a7da898b676108f57b66ca7ef/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 博斯無限2
-https://z88.ubtvfans.com/live/rx3/2798/3dbd6ec241eae9e81ce8acbaf565f576/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 博斯運動1
-https://z88.ubtvfans.com/live/rx3/379/4f075244acc9d29a80265fbbe1aef666/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 博斯運動2
-https://z88.ubtvfans.com/live/rx3/380/9d943910cb768571da60ef4f6d0428a6/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 亞洲旅遊
-https://z88.ubtvfans.com/live/rx3/2299/3e9d5e604b8c0d635ebcd7d8682d1cff/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 探索頻道
-https://z88.ubtvfans.com/live/rx3/2817/df4ba1bb11abd323d857429df024c1dc/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 動物星球
-https://z88.ubtvfans.com/live/rx3/367/3416f81db57188c4a4f35474b6992545/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 探索亞洲
-https://z88.ubtvfans.com/live/rx3/306/2749ea7b7a8a5970902c5234cb4c63bd/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 探索科學
-https://z88.ubtvfans.com/live/rx6/343/e40c9b745506f250ea2cde9645e7389f/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 探索科學-2
-https://z88.ubtvfans.com/live/rx1/3275/d277d8938511457aaead87c6e0552069/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 視納華仁紀實
-https://z88.ubtvfans.com/live/rx1/91/5f5a81fcaab01cb8def6c948247dcd6e/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 美食星球
-https://z88.ubtvfans.com/live/rx3/3073/1b38e4afa778ae88f2daca7ed2350577/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 美食星球
-https://z88.ubtvfans.com/live/rx3/1360/07a9015b24516e898f04ef1577963b4c/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE EYE旅遊
-https://z88.ubtvfans.com/live/rx3/1494/c53f7889bfc39fbf57d8e03494876d24/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 探索動力DMAX
-https://z88.ubtvfans.com/live/rx6/335/34eacff155e777c4e79f0dd8016836bb/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE Globetrotter（MOD）
-https://z88.ubtvfans.com/live/rx6/3259/defc5ec606b2e4d698d0af6c69985528/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE MOMO親子
-https://z88.ubtvfans.com/live/rx2/2767/e27e92e0ca55fa071de30d084e8ad602/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 東森幼幼
-https://z88.ubtvfans.com/live/rx2/2771/de6eae7c0fe9cf717056bc332d311587/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE CN卡通
-https://z88.ubtvfans.com/live/rx6/107/04ed9b980819aa0ed59947b314e2b3c0/index.m3u8
-#EXTINF:-1 group-title="⚠️安博頻道☢️",🔴LIVE 靖天卡通
-https://z88.ubtvfans.com/live/rx2/344/8fca89480032583239a795e0ecb06e67/index.m3u8
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS 歡樂台
 http://52xinghe.top/smmmt.php?id=tvbshuanle_twn&h=52xinghe.top&p=7788
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS HD
@@ -594,10 +246,10 @@ https://www.youtube.com/watch?v=LzOTY4mZG00
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播｜降雨即時資訊｜華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xNhFUQEij6Q/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】1個月電費5萬＋室內籃球場！只是台北一般家庭？謝典霖好謙虛？
+https://www.youtube.com/watch?v=xNhFUQEij6Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uuCS098Ho54/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立iNEWS】祝你健康呷百二｜祝你健康
 https://www.youtube.com/watch?v=uuCS098Ho54
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ML-tXak3XIU/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【Focus全球新聞】| 方念華 | FOCUS GLOBAL NEWS LIVE
-https://www.youtube.com/watch?v=ML-tXak3XIU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】川普槓北約竟提阿富汗 狂批盟軍惹毛英國 ｜人民幣兌美元中間價
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇全視界】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24
@@ -648,6 +300,10 @@ https://www.youtube.com/watch?v=TiOU3qHCqXk
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【BIF相信未來 官方頻道】《掌声响起》24小时不间断 马拉松直播｜BIF相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1E2Fg6hnsk/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【原視 TITV+】Mathariri說說話第二季2026/2/2 EP92_當
+https://www.youtube.com/watch?v=u1E2Fg6hnsk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RC3dAxJqTY0/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【下面一位】新年快樂！瓜又來送好禮！
+https://www.youtube.com/watch?v=RC3dAxJqTY0
 #EXTINF:-1 group-title="🎥電影頻道🎥",🔴LIVE 電影_周潤發
 http://222.186.39.38:8000/587078/index.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",🔴LIVE 恐怖電影院
@@ -828,8 +484,8 @@ https://www.youtube.com/watch?v=uPLdwjHlf58
 https://www.youtube.com/watch?v=s4qML0pgujo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o1psf9b5jFc/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【华录百納熱播劇場】24-Hour Non-Stop Live 马拉松直播‪品味
 https://www.youtube.com/watch?v=o1psf9b5jFc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jbZCyIhL4WQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
-https://www.youtube.com/watch?v=jbZCyIhL4WQ
+#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
+tvg-logo="https://img.youtube.com/vi/jbZCyIhL4WQ/hqdefault.jpg",https://www.youtube.com/watch?v=jbZCyIhL4WQ
 #EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
 https://www.youtube.com/watch?v=rEKifG2XUZg
 #EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
@@ -964,12 +620,22 @@ https://www.youtube.com/watch?v=M4EJtf_iP8s
 https://www.youtube.com/watch?v=0JpPVzxCxJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【BattleBots】🔴 LIVE All BattleBots Vegas Ev
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QTUCQKD8vHk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】Live直播2026.02.02 選假的？昌設新北競總只喊口
+https://www.youtube.com/watch?v=QTUCQKD8vHk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞大白話】🔴#新聞大白話 ｜24-Hour Non-Stop Live
 https://www.youtube.com/watch?v=8o3rl1YgbmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Syghkuc4Q8c/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【哏傳媒】綠無視中國崛起 藍無懼兩岸正道 2026.02.02 LIV
 https://www.youtube.com/watch?v=Syghkuc4Q8c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/whMmc64i1Q4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【57爆新聞】川普連說3次「習近平是老大」真穩了？爆習近平愛將被輕生再生變
+https://www.youtube.com/watch?v=whMmc64i1Q4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CUinMj3-f8I/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【郭正亮頻道】2026.02.02 綠無視中國崛起 藍無懼兩岸正道 LIV
 https://www.youtube.com/watch?v=CUinMj3-f8I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FecAwZrv-fU/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】挑戰美元!習近平人民幣對戰白宮!川普坦言習是老大!刻意捧殺?
+https://www.youtube.com/watch?v=FecAwZrv-fU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ijbRyGkqmjQ/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】川普改戰略報告換4月訪陸　日本新軍事態勢是美國難得禮物？ #
+https://www.youtube.com/watch?v=ijbRyGkqmjQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GQ_WRcWTds8/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【萬事通事務所】《曹操不是奸臣，是亂世的CEO：血與火中打造秩序的鋼鐵巨人》
+https://www.youtube.com/watch?v=GQ_WRcWTds8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【海豚多媒體】海豚綜合台HD 24H線上直播
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjGEQyDPF0Y/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【玉麟網路電視台】玉麟網路電視台 HD - 24H 線上直播
