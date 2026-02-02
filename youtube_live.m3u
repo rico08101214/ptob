@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-02 13:07:49
+# Last Update: 2026-02-02 13:22:28
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
@@ -484,11 +484,11 @@ https://www.youtube.com/watch?v=uPLdwjHlf58
 https://www.youtube.com/watch?v=s4qML0pgujo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o1psf9b5jFc/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【华录百納熱播劇場】24-Hour Non-Stop Live 马拉松直播‪品味
 https://www.youtube.com/watch?v=o1psf9b5jFc
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
-tvg-logo="https://img.youtube.com/vi/jbZCyIhL4WQ/hqdefault.jpg",https://www.youtube.com/watch?v=jbZCyIhL4WQ
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jbZCyIhL4WQ/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】新哆啦A夢
+https://www.youtube.com/watch?v=jbZCyIhL4WQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rEKifG2XUZg/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】TOM and JERRY in NY
 https://www.youtube.com/watch?v=rEKifG2XUZg
-#EXTINF:-1 group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e1gbvCkwxFE/hqdefault.jpg" group-title="👶小朋友頻道👶",🔵兒童 【Muse木棉花】我們這一家
 https://www.youtube.com/watch?v=e1gbvCkwxFE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZjMe5u-I3PM/hqdefault.jpg" group-title="👶小朋友頻道👶",🟢LIVE 【YOYOTV】YOYO金曲✕熱門卡通✨24HR不間斷｜LIVE｜唱跳｜金曲
 https://www.youtube.com/watch?v=ZjMe5u-I3PM
@@ -532,8 +532,6 @@ https://www.youtube.com/watch?v=04u0--tX-H0
 https://www.youtube.com/watch?v=QjQsChGahMI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-rMo_DedNww/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Relax Jazz Time】人生に必要な音。 / 重低音JAZZ
 https://www.youtube.com/watch?v=-rMo_DedNww
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C9njFuouBxk/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【睡眠音樂】🔴睡眠音乐 一秒入睡! 睡眠音樂無廣告,放鬆音樂 療癒音樂,
-https://www.youtube.com/watch?v=C9njFuouBxk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XSXEaikz0Bc/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Lofi Girl】christmas lofi music🎄cozy radi
 https://www.youtube.com/watch?v=XSXEaikz0Bc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Hot TV】🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot
