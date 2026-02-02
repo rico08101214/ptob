@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-02 13:22:28
+# Last Update: 2026-02-02 15:45:25
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
 http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森電影
@@ -238,6 +238,10 @@ http://52xinghe.top/smmmt.php?id=Celestial2&h=52xinghe.top&p=7788
 http://52xinghe.top/smmmt.php?id=Rockaction&h=52xinghe.top&p=7788
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE Rock Entertainment
 http://52xinghe.top/smmmt.php?id=Rockentertain&h=52xinghe.top&p=7788
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔴LIVE 東森新聞
+https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TVBS NEWS】🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Ta
+https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】台灣天氣即時監測 Taiwan Weather Real-t
@@ -246,14 +250,12 @@ https://www.youtube.com/watch?v=LzOTY4mZG00
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播｜降雨即時資訊｜華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xNhFUQEij6Q/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】1個月電費5萬＋室內籃球場！只是台北一般家庭？謝典霖好謙虛？
-https://www.youtube.com/watch?v=xNhFUQEij6Q
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【鏡新聞】鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan
+https://www.youtube.com/watch?v=5n0y6b0Q25o
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uuCS098Ho54/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立iNEWS】祝你健康呷百二｜祝你健康
 https://www.youtube.com/watch?v=uuCS098Ho54
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】川普槓北約竟提阿富汗 狂批盟軍惹毛英國 ｜人民幣兌美元中間價
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇全視界】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24
-https://www.youtube.com/watch?v=5SH3FDMyMzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YBgQRpZqeug/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【AI主播倪珍Nikki 播新聞】24小時直播｜ AI News Anchor Taiwan 
 https://www.youtube.com/watch?v=YBgQRpZqeug
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🔴LIVE 全民星攻略
@@ -274,6 +276,8 @@ https://www.youtube.com/watch?v=RHrMB0et_Zo
 https://www.youtube.com/watch?v=uehKhWmttVE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YXV7dfcbIfU/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【民視綜藝娛樂 Formosa TV Entertainments】民視綜藝馬拉松｜經典大回顧陪你笑翻天
 https://www.youtube.com/watch?v=YXV7dfcbIfU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PuA4NXrZZNM/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【204檔案】「204檔案」鬼影實錄！！！！！！
+https://www.youtube.com/watch?v=PuA4NXrZZNM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KgcJZ_Is_h4/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【大陸尋奇】《大陸尋奇》跨越五千年的歷史遺跡📸尋遍大陸各地奇風異俗、人文
 https://www.youtube.com/watch?v=KgcJZ_Is_h4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ADDSmXoPDY8/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【中視經典綜藝】《萬秀豬王》24小時直播馬拉松不間斷 |TaiwanCTV 
@@ -300,10 +304,6 @@ https://www.youtube.com/watch?v=TiOU3qHCqXk
 https://www.youtube.com/watch?v=HtUVepidg7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【BIF相信未來 官方頻道】《掌声响起》24小时不间断 马拉松直播｜BIF相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1E2Fg6hnsk/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【原視 TITV+】Mathariri說說話第二季2026/2/2 EP92_當
-https://www.youtube.com/watch?v=u1E2Fg6hnsk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RC3dAxJqTY0/hqdefault.jpg" group-title="☣️綜藝頻道☣️",🟢LIVE 【下面一位】新年快樂！瓜又來送好禮！
-https://www.youtube.com/watch?v=RC3dAxJqTY0
 #EXTINF:-1 group-title="🎥電影頻道🎥",🔴LIVE 電影_周潤發
 http://222.186.39.38:8000/587078/index.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",🔴LIVE 恐怖電影院
@@ -532,12 +532,12 @@ https://www.youtube.com/watch?v=04u0--tX-H0
 https://www.youtube.com/watch?v=QjQsChGahMI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-rMo_DedNww/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Relax Jazz Time】人生に必要な音。 / 重低音JAZZ
 https://www.youtube.com/watch?v=-rMo_DedNww
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9ohjtcDZJ7w/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【睡眠音樂】🔴睡眠音乐 一秒入睡! 睡眠音樂無廣告,放鬆音樂 療癒音樂,
+https://www.youtube.com/watch?v=9ohjtcDZJ7w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XSXEaikz0Bc/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Lofi Girl】christmas lofi music🎄cozy radi
 https://www.youtube.com/watch?v=XSXEaikz0Bc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Hot TV】🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qQH2PTuQYZ0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】2026年1月必聽新歌 🎧 KKBOX華語單曲排行週榜 🎧 
-https://www.youtube.com/watch?v=qQH2PTuQYZ0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s7yUxzmaoaU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】2026一月新歌 👄 2026 KKBOX華語單曲排行週榜｜
 https://www.youtube.com/watch?v=s7yUxzmaoaU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0fmLLjgWzxs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【水月琴音】🔴 無損音質|水月琴音2026熱門中文歌|精選必聽|流行歌曲
@@ -574,8 +574,8 @@ https://www.youtube.com/watch?v=EcasEHk64WE
 https://www.youtube.com/watch?v=di-4DCblWq4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9rcEL_yWMk4/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【紅樹林有線電視】新北市淡水區景點 淡水渡船頭 直播 #淡水河 #夕陽 #觀音
 https://www.youtube.com/watch?v=9rcEL_yWMk4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_1sXxht9aAU/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【necoast nsa】玩樂東北角-舊草嶺自行車隧道 Old Caoling Bik
-https://www.youtube.com/watch?v=_1sXxht9aAU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/W8ej2Cxwesw/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【necoast nsa】玩樂東北角-永鎮海濱公園 Yongzhen Coastal 
+https://www.youtube.com/watch?v=W8ej2Cxwesw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3JzbzXqusDg/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【遊桃園 Taoyuan Travel】The Baling Malun Fort Observat
 https://www.youtube.com/watch?v=3JzbzXqusDg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aGOFDlySzoQ/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【雪霸國家公園 Shei-Pa National Park】雪霸國家公園-武陵遊憩區 24 小時 HD 直播 Wulin
@@ -618,22 +618,20 @@ https://www.youtube.com/watch?v=M4EJtf_iP8s
 https://www.youtube.com/watch?v=0JpPVzxCxJM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【BattleBots】🔴 LIVE All BattleBots Vegas Ev
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QTUCQKD8vHk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】Live直播2026.02.02 選假的？昌設新北競總只喊口
-https://www.youtube.com/watch?v=QTUCQKD8vHk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【WWE Vault】Superstar Best of Marathon | C
+https://www.youtube.com/watch?v=90_71FSq4SY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【TVBS 優選頻道】🔴TVBS強檔優選節目24小時不斷線直播｜TVBS 24-H
+https://www.youtube.com/watch?v=WAUECPu9EOw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l_beOkHGWog/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】中俄給足勇氣 伊朗怒嗆川普!中國"釣魚台"重擊 日本崩盤!美
+https://www.youtube.com/watch?v=l_beOkHGWog
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】🔥最夯政論 專業理財 深入報導｜24小時不停歇｜民視正夯FT
+https://www.youtube.com/watch?v=0UOnH10P4oY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞大白話】🔴#新聞大白話 ｜24-Hour Non-Stop Live
 https://www.youtube.com/watch?v=8o3rl1YgbmE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Syghkuc4Q8c/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【哏傳媒】綠無視中國崛起 藍無懼兩岸正道 2026.02.02 LIV
-https://www.youtube.com/watch?v=Syghkuc4Q8c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/whMmc64i1Q4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【57爆新聞】川普連說3次「習近平是老大」真穩了？爆習近平愛將被輕生再生變
-https://www.youtube.com/watch?v=whMmc64i1Q4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CUinMj3-f8I/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【郭正亮頻道】2026.02.02 綠無視中國崛起 藍無懼兩岸正道 LIV
-https://www.youtube.com/watch?v=CUinMj3-f8I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FecAwZrv-fU/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】挑戰美元!習近平人民幣對戰白宮!川普坦言習是老大!刻意捧殺?
-https://www.youtube.com/watch?v=FecAwZrv-fU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ijbRyGkqmjQ/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】川普改戰略報告換4月訪陸　日本新軍事態勢是美國難得禮物？ #
-https://www.youtube.com/watch?v=ijbRyGkqmjQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GQ_WRcWTds8/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【萬事通事務所】《曹操不是奸臣，是亂世的CEO：血與火中打造秩序的鋼鐵巨人》
-https://www.youtube.com/watch?v=GQ_WRcWTds8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/du8bEs_0oP4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】川普下通牒速達談判協議 哈米尼再嗆美國動武恐爆區域戰爭 中東
+https://www.youtube.com/watch?v=du8bEs_0oP4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】🔴TVBS 少康戰情室精選特輯 ｜24-Hour Non-S
+https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【海豚多媒體】海豚綜合台HD 24H線上直播
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjGEQyDPF0Y/hqdefault.jpg" group-title="🤑購物頻道🤑",🟢LIVE 【玉麟網路電視台】玉麟網路電視台 HD - 24H 線上直播
