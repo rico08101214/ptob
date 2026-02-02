@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-02 16:52:37
+# Last Update: 2026-02-02 16:58:17
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TVBS NEWS】🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Ta
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣地震監視】台灣地震監視
@@ -208,10 +208,6 @@ https://www.youtube.com/watch?v=8TYEeSaSGJM
 https://www.youtube.com/watch?v=M4EJtf_iP8s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JpPVzxCxJM/hqdefault.jpg" group-title="📡風景頻道📡",🟢LIVE 【馬祖國家風景區】南竿鐵堡360直播
 https://www.youtube.com/watch?v=0JpPVzxCxJM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CHCbBj-Vjg/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【BattleBots】🔴 LIVE All BattleBots Vegas Ev
-https://www.youtube.com/watch?v=5CHCbBj-Vjg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【WWE Vault】Superstar Best of Marathon | C
-https://www.youtube.com/watch?v=90_71FSq4SY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【TVBS 優選頻道】🔴TVBS強檔優選節目24小時不斷線直播｜TVBS 24-H
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/H49Vnocbn1k/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】川普下通牒速達談判協議 哈米尼再嗆美國動武恐爆區域戰爭 中東
