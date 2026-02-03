@@ -1,17 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-03 03:31:01
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 東森電影
-http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 东森电影台720p(TW)
-http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/179.ts
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 东森洋片台720p(TW)
-http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/181.ts
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 東森洋片
-https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 好莱坞电影台720p(TW)
-http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/210.ts
-#EXTINF:-1 group-title="🔥故障中-直播頻道🔥",🔴LIVE 好莱坞电影台1080p(TW)
-http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/409.ts
+# Last Update: 2026-02-03 05:38:26
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS 歡樂台
 http://52xinghe.top/smmmt.php?id=tvbshuanle_twn&h=52xinghe.top&p=7788
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS HD
@@ -222,24 +210,26 @@ http://52xinghe.top/smmmt.php?id=Rockentertain&h=52xinghe.top&p=7788
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔴LIVE 东森新闻台 (TW)
 http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/162.ts
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gXlVJu4aTP4/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森新聞】🔴02031140-1400東森午安新聞／11歲女童家中不明
+https://www.youtube.com/watch?v=gXlVJu4aTP4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HJW9bEUEGmM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中天新聞CtiNews】🔴LIVE直播中】賴批藍二次西進! 威逼沈慶京檢遭處分! 盧
 https://www.youtube.com/watch?v=HJW9bEUEGmM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】台灣天氣即時監測 Taiwan Weather Real-t
 https://www.youtube.com/watch?v=LzOTY4mZG00
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D1YWj7ya7iw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】LIVE 賴清德出席 第34屆台北國際書展開幕
-https://www.youtube.com/watch?v=D1YWj7ya7iw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ac0LAgZdOIs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】2026.02.03整點大頭條：轎車疑任意變換車道 遭公車撞
+https://www.youtube.com/watch?v=ac0LAgZdOIs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞 HD】中視新聞LIVE直播頻道24小時線上直播｜Taiwan CT
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播｜降雨即時資訊｜華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uuCS098Ho54/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立iNEWS】祝你健康呷百二｜祝你健康
 https://www.youtube.com/watch?v=uuCS098Ho54
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】川普槓北約竟提阿富汗 狂批盟軍惹毛英國 ｜人民幣兌美元中間價
-https://www.youtube.com/watch?v=Ej3LQM_lTEw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/asxtBDaD4rQ/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇全視界】Live／ 川普說：『習是老大』！才清倉.又報到 國會新會期
-https://www.youtube.com/watch?v=asxtBDaD4rQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DMsidwYmnNE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】🔴Live／台股大回神可以追？這個指標還在震！選族群選好股才
+https://www.youtube.com/watch?v=DMsidwYmnNE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇全視界】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24
+https://www.youtube.com/watch?v=5SH3FDMyMzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YBgQRpZqeug/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【AI主播倪珍Nikki 播新聞】24小時直播｜ AI News Anchor Taiwan 
 https://www.youtube.com/watch?v=YBgQRpZqeug
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🔴LIVE 全民星攻略
@@ -458,8 +448,6 @@ https://www.youtube.com/watch?v=ih93UlH3Q_k
 https://www.youtube.com/watch?v=HKDuzWlyGts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c-fwyrflKAU/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【GTV DRAMA English】《Hanazakarino Kimitachihe》 24 
 https://www.youtube.com/watch?v=c-fwyrflKAU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yVQev0EqoQ8/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【緯來戲劇台】神鵰俠侶｜馬拉松直播｜黃曉明、劉亦菲 領銜主演
-https://www.youtube.com/watch?v=yVQev0EqoQ8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/grMspiqQwQA/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【周周劇有料】为爱重进豪门！恶毒婆婆下狠手媳妇逆袭复仇，这婚姻太吓人！| 
 https://www.youtube.com/watch?v=grMspiqQwQA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uPLdwjHlf58/hqdefault.jpg" group-title="🎬影劇頻道🎬",🟢LIVE 【影视剧汇踪】《都挺好》全集24h不间断直播✨#姚晨 走出重男轻女的家庭独
@@ -524,10 +512,10 @@ https://www.youtube.com/watch?v=9ohjtcDZJ7w
 https://www.youtube.com/watch?v=XSXEaikz0Bc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Hot TV】🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot
 https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qQH2PTuQYZ0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】2026年1月必聽新歌 🎧 KKBOX華語單曲排行週榜 🎧 
-https://www.youtube.com/watch?v=qQH2PTuQYZ0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s7yUxzmaoaU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】2026一月新歌 👄 2026 KKBOX華語單曲排行週榜｜
-https://www.youtube.com/watch?v=s7yUxzmaoaU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BRGtKPqXR1U/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】2026抖音最最最火 ♪ KKBOX華語單曲排行週榜 ♪ 抖
+https://www.youtube.com/watch?v=BRGtKPqXR1U
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9XRLa4ive0c/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】2026 二月新歌 🎶 KKBOX華語單曲排行週榜 | 愛就
+https://www.youtube.com/watch?v=9XRLa4ive0c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0fmLLjgWzxs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【水月琴音】🔴 無損音質|水月琴音2026熱門中文歌|精選必聽|流行歌曲
 https://www.youtube.com/watch?v=0fmLLjgWzxs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Cherry 葵】Nightcore Radio 24/7 | Top Nig
@@ -608,23 +596,13 @@ https://www.youtube.com/watch?v=0JpPVzxCxJM
 https://www.youtube.com/watch?v=5CHCbBj-Vjg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🟢LIVE 【WWE Vault】Superstar Best of Marathon | C
 https://www.youtube.com/watch?v=90_71FSq4SY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/H49Vnocbn1k/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【全球大視野】川普下通牒速達談判協議 哈米尼再嗆美國動武恐爆區域戰爭 中東
-https://www.youtube.com/watch?v=H49Vnocbn1k
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【TVBS 優選頻道】🔴TVBS強檔優選節目24小時不斷線直播｜TVBS 24-H
+https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【民視讚夯】🔥最夯政論 專業理財 深入報導｜24小時不停歇｜民視正夯FT
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lydV7JfsEP4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【大新聞大爆卦】立法院新會期報到  朝野再戰"不副署vs卡預算" 20260
-https://www.youtube.com/watch?v=lydV7JfsEP4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8o3rl1YgbmE/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞大白話】🔴#新聞大白話 ｜24-Hour Non-Stop Live
-https://www.youtube.com/watch?v=8o3rl1YgbmE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l4-eiRDHVhc/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【中時新聞網】🔴太子集團精品拍賣會　愛馬仕包、JORDAN潮鞋入列｜202
-https://www.youtube.com/watch?v=l4-eiRDHVhc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JrYEbdIPqa0/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【哏傳媒】川普說：『習是老大』！才清倉.又報到 國會新會期‘’續戰‘’
-https://www.youtube.com/watch?v=JrYEbdIPqa0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/du8bEs_0oP4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】川普下通牒速達談判協議 哈米尼再嗆美國動武恐爆區域戰爭 中東
-https://www.youtube.com/watch?v=du8bEs_0oP4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cqIpQc3LEMY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【頭條開講】殲-10C亮相新加坡航展 八一飛行表演隊應邀 最新直擊 20
+https://www.youtube.com/watch?v=cqIpQc3LEMY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】🔴TVBS 少康戰情室精選特輯 ｜24-Hour Non-S
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mBOjsdkU9Ag/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【品觀點】川普說：『習是老大』！才清倉.又報到 國會新會期‘’續戰‘’
-https://www.youtube.com/watch?v=mBOjsdkU9Ag
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Wy-2XbGGMak/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【52新聞聚樂部 】🔵 蔡正元講座＆直球對決 🔴 20260203 川普說：『習
-https://www.youtube.com/watch?v=Wy-2XbGGMak
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ATOavLS--1g/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【萬事通事務所】《蝙蝠俠不是英雄，是美國的心理病歷：80年來黑暗騎士如何映照
+https://www.youtube.com/watch?v=ATOavLS--1g
