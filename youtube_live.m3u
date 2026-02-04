@@ -1,5 +1,13 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-03 23:02:12
+# Last Update: 2026-02-04 00:05:27
+#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森电影台
+http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/179.ts
+#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森洋片台
+http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/181.ts
+#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 好莱坞电影台
+http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/210.ts
+#EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 好莱坞电影台
+http://iptvpro.pw:35451/live/加QQ群1067462089/RYv84X1F@/409.ts
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS 歡樂台
 http://52xinghe.top/smmmt.php?id=tvbshuanle_twn&h=52xinghe.top&p=7788
 #EXTINF:-1 group-title="☢️斯馬特頻道☢️",🔴LIVE TVBS HD
@@ -488,8 +496,8 @@ https://www.youtube.com/watch?v=AC0eguXy98Q
 https://www.youtube.com/watch?v=tnZ1qU8ifrk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yhq_2TOiKX8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【不朽的英文情歌】回忆里的情歌｜20首2000年代至2014年代的华语流行经典
 https://www.youtube.com/watch?v=Yhq_2TOiKX8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【4kTQ-music】2026 超好聽的中文歌單 | KKBOX華語單曲排行週榜 
-https://www.youtube.com/watch?v=BYNWUMC2Np4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eJZCSm5egO0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【4kTQ-music】KKBOX華語單曲排行週榜 | 愛就一個字，總會有人，花海，
+https://www.youtube.com/watch?v=eJZCSm5egO0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04u0--tX-H0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【流行音樂】抒情R&B | 2025超好聽的英文歌單 | 放鬆心情的情歌
 https://www.youtube.com/watch?v=04u0--tX-H0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QjQsChGahMI/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【MerryTune】Best Christmas Songs Ever 🎁 To
