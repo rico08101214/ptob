@@ -1,5 +1,5 @@
 #EXTM3U tvg-country="TW" tvg-language="zh"
-# Last Update: 2026-02-04 06:19:19
+# Last Update: 2026-02-04 06:53:15
 
 # ===== 🔥直播頻道🔥 =====
 #EXTINF:-1 group-title="🔥直播頻道🔥",🔴LIVE 東森电影台
@@ -224,44 +224,50 @@ http://52xinghe.top/smmmt.php?id=Rockentertain&h=52xinghe.top&p=7788
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔴LIVE 东森新闻台 (TW)
 http://iptvpro.pw:35451/live/加QQ群1067462089/568Uyrmzdx/162.ts
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1h6aFiM19hk/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【東森新聞】🔴02041140-1400東森午安新聞／南苗市場砍警嫌「胸
-https://www.youtube.com/watch?v=1h6aFiM19hk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hy2JbLf8SNs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【TVBS NEWS】暌違8年台北開唱 吳宗憲宣布再加場
-https://www.youtube.com/watch?v=hy2JbLf8SNs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KyT4qSK8lJo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣地震監視】台灣地震監視
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LzOTY4mZG00/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台灣颱風論壇】台灣天氣即時監測 Taiwan Weather Real-t
 https://www.youtube.com/watch?v=LzOTY4mZG00
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sHDyK5gBbnU/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【台視新聞】LIVE 民進黨屏、澎縣長提名 賴清德出席記者會
+https://www.youtube.com/watch?v=sHDyK5gBbnU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【中視新聞 HD】中視新聞LIVE直播頻道24小時線上直播｜Taiwan CT
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【華視新聞】地震即時警報與監測直播｜降雨即時資訊｜華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/01L6hL2TY7s/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【民視新聞網】0204 民進黨會後召開縣市長提名屏東、澎湖記者會｜民視快新
+https://www.youtube.com/watch?v=01L6hL2TY7s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bKCn7s60HN4/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【三立iNEWS】台股站回32000點 多軍到處點火 「哪些題材」是主流！？｜
+https://www.youtube.com/watch?v=bKCn7s60HN4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇新聞】川普槓北約竟提阿富汗 狂批盟軍惹毛英國 ｜人民幣兌美元中間價
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【寰宇全視界】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n4hRtJ70CQU/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【udn video】0204周春米參選屏東縣長、陳光復參選澎湖縣長 中執會通過提
+https://www.youtube.com/watch?v=n4hRtJ70CQU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YBgQRpZqeug/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢LIVE 【AI主播倪珍Nikki 播新聞】24小時直播｜ AI News Anchor Taiwan 
 https://www.youtube.com/watch?v=YBgQRpZqeug
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【台視新聞】台視新聞台HD 24 小時線上直播｜TAIWAN TTV N
-https://www.youtube.com/watch?v=xL0ch83RAK8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0bNg-XGRBiQ/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【TVBS NEWS】柯文哲.黃國昌 開箱民眾黨春節小物
+https://www.youtube.com/watch?v=0bNg-XGRBiQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hy2JbLf8SNs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【TVBS NEWS】暌違8年台北開唱 吳宗憲宣布再加場
+https://www.youtube.com/watch?v=hy2JbLf8SNs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【TVBS NEWS】🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Ta
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【TVBS NEWS】TVBS新聞台 24 小時直播 |Taiwan News L
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fi8iYfDWrJE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中視新聞】長鑫倒貨DDR4證明為假消息 南亞科營收大增27%單月大賺?
+https://www.youtube.com/watch?v=fi8iYfDWrJE
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4pki6Hysa3s/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中視新聞】🔴賴提名周春米、陳光復拚連任　民進黨中執會最新│中視新聞 2
+https://www.youtube.com/watch?v=4pki6Hysa3s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e1ZePAGHBvE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中視新聞】🔴藍營台中市長人選遲未定案　鄭麗文主持中常會最新│中視新聞 
 https://www.youtube.com/watch?v=e1ZePAGHBvE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OmQWlvPomlo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中視新聞】盤後直播｜大盤暴漲571點只是反彈？ 記憶體割韭菜現形 低軌
-https://www.youtube.com/watch?v=OmQWlvPomlo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中視新聞】中視新聞LIVE直播頻道24小時線上直播｜Taiwan CT
 https://www.youtube.com/watch?v=baDV1O5EBP0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UoamiUXEtEQ/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【民視新聞網】0204 《2026臭男人 演唱會》吳宗憲出席記者會最新｜民
-https://www.youtube.com/watch?v=UoamiUXEtEQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【民視新聞網】🟢LIVE 民視新聞24小時直播  FTV 新聞直播｜Tai
-https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hnxrKX2gtXs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【鏡新聞】直播／賴清德親授背帶　民進黨屏、澎市長提名記者會
+https://www.youtube.com/watch?v=hnxrKX2gtXs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【鏡新聞】鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uuCS098Ho54/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立iNEWS】祝你健康呷百二｜祝你健康
-https://www.youtube.com/watch?v=uuCS098Ho54
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IsMymW2JAPI/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立iNEWS】話時代人物精彩不斷電
-https://www.youtube.com/watch?v=IsMymW2JAPI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pF507BLtbqU/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立iNEWS】🔴直播｜掌握2026致富趨勢！三立iNEWS 24hr陪你盯
-https://www.youtube.com/watch?v=pF507BLtbqU
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SrpIi-8AUBQ/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立LIVE新聞】陳光復、周春米拚連任！民進黨提名屏東、澎湖記者會
+https://www.youtube.com/watch?v=SrpIi-8AUBQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RGIuARGrsKs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立LIVE新聞】棄中國籍申請表爆5錯誤?李貞秀交出必被打槍?2026選戰藍提
 https://www.youtube.com/watch?v=RGIuARGrsKs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AjJIcpk8mXc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立LIVE新聞】祝你健康呷百二 每天喝黑咖啡竟洗腎？醫揭「致命一習慣」變毒素
@@ -272,6 +278,10 @@ https://www.youtube.com/watch?v=nvr3wUZhlIY
 https://www.youtube.com/watch?v=QsGswQvRmtU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【三立LIVE新聞】台灣新聞 24hr 直播｜三立新聞 LIVE：國際焦點、地震
 https://www.youtube.com/watch?v=hGJkDZDchYI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JG5q4-U5Z2o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中天電視CtiTv】李貞秀難放棄陸籍怎解? 卓接見日台商會最新回應 202602
+https://www.youtube.com/watch?v=JG5q4-U5Z2o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UzlhptQqV3Q/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中天電視CtiTv】綠守屏東.澎湖 賴提名周春米.陳光復拚連任 20260204
+https://www.youtube.com/watch?v=UzlhptQqV3Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RTfJ7Ekmju0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中天電視CtiTv】開箱民眾黨春節小物 柯文哲擬對林俊言申訴 20260204 
 https://www.youtube.com/watch?v=RTfJ7Ekmju0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ofS0PoKTQMs/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中天電視CtiTv】美伊48小時開戰？俄軍冬季強襲佔地倍增！福建艦渤海演訓測極限
@@ -282,8 +292,6 @@ https://www.youtube.com/watch?v=dnF8lokjGN4
 https://www.youtube.com/watch?v=MZhMxKNtOnA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【中天電視CtiTv】CTI中天新聞24小時HD新聞直播 │ CTITV Taiw
 https://www.youtube.com/watch?v=vr3XyVCR4T0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/51Ec6sVnBZo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🔴LIVE 【udn video】0204國民黨中常會 國民黨主席鄭麗文發表談話
-https://www.youtube.com/watch?v=51Ec6sVnBZo
 
 # ===== ☣️綜藝頻道☣️ =====
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",🔴LIVE 全民星攻略
@@ -568,8 +576,8 @@ https://www.youtube.com/watch?v=AC0eguXy98Q
 https://www.youtube.com/watch?v=tnZ1qU8ifrk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Yhq_2TOiKX8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【不朽的英文情歌】回忆里的情歌｜20首2000年代至2014年代的华语流行经典
 https://www.youtube.com/watch?v=Yhq_2TOiKX8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【4kTQ-music】2026 超好聽的中文歌單 | KKBOX華語單曲排行週榜 
-https://www.youtube.com/watch?v=BYNWUMC2Np4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3HP-lTtceEY/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【4kTQ-music】2026 抖音最最最火 💥 douyin 抖音歌曲2026 
+https://www.youtube.com/watch?v=3HP-lTtceEY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04u0--tX-H0/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【流行音樂】抒情R&B | 2025超好聽的英文歌單 | 放鬆心情的情歌
 https://www.youtube.com/watch?v=04u0--tX-H0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QjQsChGahMI/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【MerryTune】Best Christmas Songs Ever 🎁 To
@@ -584,6 +592,8 @@ https://www.youtube.com/watch?v=XSXEaikz0Bc
 https://www.youtube.com/watch?v=augOnkJkrHY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XX0qwM3qPLM/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【时间节拍 Melody】2026年2月必聽新歌 | KKBOX華語單曲排行週榜 🎧 
 https://www.youtube.com/watch?v=XX0qwM3qPLM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JcjAZeeB0sg/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【孤心旋律】2月熱門歌曲最火2026 抖音合輯 2026抖音四十大熱門歌
+https://www.youtube.com/watch?v=JcjAZeeB0sg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xOHL0DTvzsU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【水月琴音】🔴 無損音質|水月琴音2026熱門中文歌|精選必聽|流行歌曲
 https://www.youtube.com/watch?v=xOHL0DTvzsU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/hqdefault.jpg" group-title="🎵音樂頻道🎵",🟢LIVE 【Cherry 葵】Nightcore Radio 24/7 | Top Nig
@@ -616,16 +626,6 @@ https://www.youtube.com/watch?v=vfEYXvCEy8A
 https://www.youtube.com/watch?v=dYCYu916Nu8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gz-ZsJFzhl8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【Amazing Radio】Lagu Imlek 2026💰 马年新年歌 - 新年快樂2
 https://www.youtube.com/watch?v=gz-ZsJFzhl8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FeZvkB5Vkac/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【孤心旋律】2026 流行歌曲 💥 40首超好聽的流行歌曲 ❤️ 承桓 
-https://www.youtube.com/watch?v=FeZvkB5Vkac
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/s7yUxzmaoaU/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【孤心旋律】2026一月新歌 👄 2026 KKBOX華語單曲排行週榜｜
-https://www.youtube.com/watch?v=s7yUxzmaoaU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2KnheMYXGDs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【孤心旋律】KKBOX華語單曲排行週榜 🎶 2026 一月新歌 | 愛就
-https://www.youtube.com/watch?v=2KnheMYXGDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M2rcgp4ADYs/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【孤心旋律】2026 一月新歌 🎶 KKBOX華語單曲排行週榜 | 利比
-https://www.youtube.com/watch?v=M2rcgp4ADYs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【孤心旋律】KKBOX華語單曲排行週榜 ~ 2026超好聽的中文歌單  
-https://www.youtube.com/watch?v=eGkDnmeI4t8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hx9bTlQPfHk/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【Pop Japan Music】心に響く邦楽メドレー2026🎶💖2026年最新J-POPヒッ
 https://www.youtube.com/watch?v=hx9bTlQPfHk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7ek3BGu2nhg/hqdefault.jpg" group-title="🎵音樂頻道🎵",🔴LIVE 【Pop Japan Music】有名曲Jpop メドレー 2026🍁J-POP 最新曲ランキ
@@ -716,6 +716,10 @@ https://www.youtube.com/watch?v=WAUECPu9EOw
 https://www.youtube.com/watch?v=NXTXxx-JEfg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qXOOHdcdSME/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【新聞大白話】🔴LIVE：2026.02.04 新聞大白話
 https://www.youtube.com/watch?v=qXOOHdcdSME
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rTqnTgeBnLI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【中時新聞網】🔴賴提名周春米、陳光復拚連任　民進黨中執會最新｜2026.0
+https://www.youtube.com/watch?v=rTqnTgeBnLI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5qPnPXxcpDk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【中天深喉嚨】開箱民眾黨春節小物 柯文哲擬對林俊言申訴 20260204 
+https://www.youtube.com/watch?v=5qPnPXxcpDk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【少康戰情室】🔴TVBS 少康戰情室精選特輯 ｜24-Hour Non-S
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zmwJbZIM6Qk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🟢LIVE 【品觀點】國共論壇論什麼？ 6.9%就叫黃金交叉？賴清德民調回溫，真的
@@ -724,15 +728,11 @@ https://www.youtube.com/watch?v=zmwJbZIM6Qk
 https://www.youtube.com/watch?v=ns6sOr22gkg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【民視讚夯】🔥最夯政論 專業理財 深入報導｜24小時不停歇｜民視正夯FT
 https://www.youtube.com/watch?v=0UOnH10P4oY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YW-j0EeCPa8/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【94要客訴】陳光復、周春米拚連任！民進黨提名屏東、澎湖記者會｜三立新聞網
+https://www.youtube.com/watch?v=YW-j0EeCPa8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【94要客訴】一顆球砸出的緣分？蘇巧慧、龍男台大班對變夫妻！兩人罕見同框 
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【94要客訴】祝你健康呷百二 -- 頭皮.頭髮也有可能罹癌 只要"露出來"
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/060GDnzkLPU/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【中時新聞網】🔴藍營台中市長人選遲未定案　鄭麗文主持中常會最新｜2026.
-https://www.youtube.com/watch?v=060GDnzkLPU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5qPnPXxcpDk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【中天深喉嚨】開箱民眾黨春節小物 柯文哲擬對林俊言申訴 20260204 
-https://www.youtube.com/watch?v=5qPnPXxcpDk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sIVUJ4hbXe8/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🔴LIVE 【中天深喉嚨】陸委會批國共智庫共同意見倒果為因 鄭麗文主持中常會最新 20
-https://www.youtube.com/watch?v=sIVUJ4hbXe8
 
 # ---- Failed Channels ----
