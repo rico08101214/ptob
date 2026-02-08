@@ -235,6 +235,8 @@ http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c4f096524f3/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 東森新聞4
 http://live-broadcast-sh-service.vcinema.cn/live/c4f096524f3b8c2da17f9201cb32e266.flv
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Eyj1MqC8nPE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【東森新聞 ETtoday】台美經濟繁榮夥伴對話賴清德說明合作進度
 https://www.youtube.com/watch?v=Eyj1MqC8nPE
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GwaiqWPdVF4/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【東森新聞】鋼盆自助餐好大氣樣菜任你挑日賣千顆便當菜色澎湃不怕你吃只怕你餓一次只烤一隻的龜毛烤鴨老闆愛鴨到無師自通半百年紀栽進去圓夢
@@ -3754,6 +3756,32 @@ https://www.youtube.com/watch?v=gd0oMEttrpI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g4HdxN6lLbc/hqdefault.jpg" group-title="🌪️台灣啟示錄頻道🌪️",🟢 "台灣啟示錄 全集20170108 -「怒海劫真實版，沈瑞章揭秘煉獄1671天」"
 https://www.youtube.com/watch?v=g4HdxN6lLbc
 
+# ===== 🤸🏾‍體育頻道🤸🏾‍ =====
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKeqSb-D4wA/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【緯來體育台】臺中連莊台鋼天鷹
+https://www.youtube.com/watch?v=mKeqSb-D4wA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lloqey0-9cc/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【公視體育】第二屆臺灣美式躲避球錦標賽下午場
+https://www.youtube.com/watch?v=lloqey0-9cc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2cm9qAGXuL8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【動滋Sports】LIVE》2/812:00
+https://www.youtube.com/watch?v=2cm9qAGXuL8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpreQVlefTI/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CPBL 中華職棒】明台產險中華職棒頒獎典禮線上
+https://www.youtube.com/watch?v=TpreQVlefTI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/19sjM6UBVTM/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CBC籃球聯盟】籃球聯盟神奇小寶智邦科技
+https://www.youtube.com/watch?v=19sjM6UBVTM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q1Ck4Zh7Fto/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【TPVL 台灣職業排球聯盟】例行賽台中連莊臺北伊斯特
+https://www.youtube.com/watch?v=Q1Ck4Zh7Fto
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZFRpbpF4SCk/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【日本B聯盟】GUNMA CRANE THUNDERS
+https://www.youtube.com/watch?v=ZFRpbpF4SCk
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ji7MISo6G6g/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【MotoGP】MotoGP™ Season Launc
+https://www.youtube.com/watch?v=Ji7MISo6G6g
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lD8PpHHJvms/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WCW】LIVE: WCW Watch Part
+https://www.youtube.com/watch?v=lD8PpHHJvms
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G6ERanEbzEE/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【BattleBots】🔴 LIVE The BEST Batt
+https://www.youtube.com/watch?v=G6ERanEbzEE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oI2E6w79APY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE】Best of AJ Styles: F
+https://www.youtube.com/watch?v=oI2E6w79APY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE Vault】Superstar Best of Ma
+https://www.youtube.com/watch?v=90_71FSq4SY
+
 # ===== 🏛️政論頻道🏛️ =====
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
@@ -3787,27 +3815,3 @@ https://www.youtube.com/watch?v=DEisDyGirJk
 https://www.youtube.com/watch?v=c4hMbUON6Lw
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【少康戰情室】少康戰情室精選特輯時間配信趙少康戰鬥藍
 https://www.youtube.com/watch?v=_LVTMyXBTTI
-
-# ===== 🤸🏾‍體育頻道🤸🏾‍ =====
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKeqSb-D4wA/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【緯來體育台】臺中連莊台鋼天鷹
-https://www.youtube.com/watch?v=mKeqSb-D4wA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lloqey0-9cc/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【公視體育】第二屆臺灣美式躲避球錦標賽下午場
-https://www.youtube.com/watch?v=lloqey0-9cc
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2cm9qAGXuL8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【動滋Sports】LIVE》2/812:00
-https://www.youtube.com/watch?v=2cm9qAGXuL8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GVi0hf0dpYQ/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【GoHoops】我行我素喝不贏就裝醉
-https://www.youtube.com/watch?v=GVi0hf0dpYQ
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpreQVlefTI/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CPBL 中華職棒】明台產險中華職棒頒獎典禮線上
-https://www.youtube.com/watch?v=TpreQVlefTI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q1Ck4Zh7Fto/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【TPVL 台灣職業排球聯盟】例行賽台中連莊臺北伊斯特
-https://www.youtube.com/watch?v=Q1Ck4Zh7Fto
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ji7MISo6G6g/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【MotoGP】MotoGP™ Season Launc
-https://www.youtube.com/watch?v=Ji7MISo6G6g
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lD8PpHHJvms/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WCW】LIVE: WCW Watch Part
-https://www.youtube.com/watch?v=lD8PpHHJvms
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G6ERanEbzEE/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【BattleBots】🔴 LIVE The BEST Batt
-https://www.youtube.com/watch?v=G6ERanEbzEE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/oI2E6w79APY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE】Best of AJ Styles: F
-https://www.youtube.com/watch?v=oI2E6w79APY
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE Vault】Superstar Best of Ma
-https://www.youtube.com/watch?v=90_71FSq4SY
