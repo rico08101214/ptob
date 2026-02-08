@@ -235,8 +235,10 @@ http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c4f096524f3/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 東森新聞4
 http://live-broadcast-sh-service.vcinema.cn/live/c4f096524f3b8c2da17f9201cb32e266.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 TVBS NEWS
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 TVBS新聞
 https://www.youtube.com/watch?v=m_dhMSvUCIc
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/vr3XyVCR4T0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🟢 中天新聞
+https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xL0ch83RAK8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【台視新聞】台視新聞台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -3654,22 +3656,6 @@ https://www.youtube.com/watch?v=gd0oMEttrpI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g4HdxN6lLbc/hqdefault.jpg" group-title="🌪️台灣啟示錄頻道🌪️",🟢 "台灣啟示錄 全集20170108 -「怒海劫真實版，沈瑞章揭秘煉獄1671天」"
 https://www.youtube.com/watch?v=g4HdxN6lLbc
 
-# ===== 🏛️政論頻道🏛️ =====
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
-https://www.youtube.com/watch?v=WAUECPu9EOw
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Sj0kCWNnMJY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【大新聞大爆卦】現正中大新聞大爆卦
-https://www.youtube.com/watch?v=Sj0kCWNnMJY
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l_6HuGLrPzw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【新聞大白話】新聞大白話特報
-https://www.youtube.com/watch?v=l_6HuGLrPzw
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXOMI_DCCM4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【哏傳媒】小時不斷電為您呈現綠無視中國崛起去中難擋兩岸交流
-https://www.youtube.com/watch?v=aXOMI_DCCM4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DEisDyGirJk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【新聞龍捲風】寒流度低溫來了全台急凍北部高山有機會下雪新聞龍捲風
-https://www.youtube.com/watch?v=DEisDyGirJk
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c4hMbUON6Lw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【頭條開講】自民黨豪取席高市早苗政治盤算牽動台海日本戰後最短選舉結果深夜出爐選戰變數政治盤算一次看頭條開講
-https://www.youtube.com/watch?v=c4hMbUON6Lw
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【少康戰情室】少康戰情室精選特輯時間配信趙少康戰鬥藍
-https://www.youtube.com/watch?v=_LVTMyXBTTI
-
 # ===== 🤸🏾‍體育頻道🤸🏾‍ =====
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lloqey0-9cc/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【公視體育】第二屆臺灣美式躲避球錦標賽下午場
 https://www.youtube.com/watch?v=lloqey0-9cc
@@ -3689,3 +3675,19 @@ https://www.youtube.com/watch?v=G6ERanEbzEE
 https://www.youtube.com/watch?v=oI2E6w79APY
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE Vault】Superstar Best of Ma
 https://www.youtube.com/watch?v=90_71FSq4SY
+
+# ===== 🏛️政論頻道🏛️ =====
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
+https://www.youtube.com/watch?v=WAUECPu9EOw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Sj0kCWNnMJY/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【大新聞大爆卦】現正中大新聞大爆卦
+https://www.youtube.com/watch?v=Sj0kCWNnMJY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/l_6HuGLrPzw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【新聞大白話】新聞大白話特報
+https://www.youtube.com/watch?v=l_6HuGLrPzw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/aXOMI_DCCM4/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【哏傳媒】小時不斷電為您呈現綠無視中國崛起去中難擋兩岸交流
+https://www.youtube.com/watch?v=aXOMI_DCCM4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DEisDyGirJk/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【新聞龍捲風】寒流度低溫來了全台急凍北部高山有機會下雪新聞龍捲風
+https://www.youtube.com/watch?v=DEisDyGirJk
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/c4hMbUON6Lw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【頭條開講】自民黨豪取席高市早苗政治盤算牽動台海日本戰後最短選舉結果深夜出爐選戰變數政治盤算一次看頭條開講
+https://www.youtube.com/watch?v=c4hMbUON6Lw
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_LVTMyXBTTI/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【少康戰情室】少康戰情室精選特輯時間配信趙少康戰鬥藍
+https://www.youtube.com/watch?v=_LVTMyXBTTI
