@@ -235,10 +235,6 @@ http://61.221.81.93:8579/http/192.168.1.10:8088/hls/63/805/ch10.m3u8
 http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTlHHZVNvjQR_SxVy86CKier7PVtDGLWgE1ojaO69xOwH_FyNfw&type=stream_proxy
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",🟢 東森新聞4
 http://live-broadcast-sh-service.vcinema.cn/live/c4f096524f3b8c2da17f9201cb32e266.flv
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Eyj1MqC8nPE/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【東森新聞 ETtoday】台美經濟繁榮夥伴對話賴清德說明合作進度
-https://www.youtube.com/watch?v=Eyj1MqC8nPE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/GwaiqWPdVF4/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【東森新聞】鋼盆自助餐好大氣樣菜任你挑日賣千顆便當菜色澎湃不怕你吃只怕你餓一次只烤一隻的龜毛烤鴨老闆愛鴨到無師自通半百年紀栽進去圓夢
-https://www.youtube.com/watch?v=GwaiqWPdVF4
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YxkwBtV5QAM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【中天新聞CtiNews】日本泰國國會大選關鍵軍售淪美中籌碼反對台灣有利世紀血案影射史明兇手林義雄仍不知文總抵制李千娜賴麗櫻林佩潔報新聞中天新聞
 https://www.youtube.com/watch?v=YxkwBtV5QAM
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m_dhMSvUCIc/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【TVBS NEWS】網路獨家新聞小時台湾世界中時間配信中台
@@ -247,30 +243,14 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 https://www.youtube.com/watch?v=KyT4qSK8lJo
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LzOTY4mZG00/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【台灣颱風論壇】台灣天氣即時監測
 https://www.youtube.com/watch?v=LzOTY4mZG00
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BVNnCE_8J50/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【台視新聞】寒流南下凍感升級氣象署說明
-https://www.youtube.com/watch?v=BVNnCE_8J50
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TCnaIE_SAtM/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【中視新聞 HD】中視新聞頻道小時線上台湾
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/meHTKm4XBS8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【華視新聞】地震即時警報與監測降雨即時資訊華視公眾安全資訊觀測站
 https://www.youtube.com/watch?v=meHTKm4XBS8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sMcWT8OsCWo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【民視新聞網】卓榮泰視察宜蘭至羅東鐵路高架化計畫辦理情形民視快新聞
-https://www.youtube.com/watch?v=sMcWT8OsCWo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4Vo5axnZMZI/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【鏡新聞】這道料理奪下年菜熱量冠軍過年零食地雷有哪些吃一口熱量破百小心九天年假過完爆肥逾公斤生活芳程式鏡新聞
-https://www.youtube.com/watch?v=4Vo5axnZMZI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fa7lWhlPVH4/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【三立iNEWS】自民黨單獨過半陷入苦戰高市早苗生死存亡關鍵戰自民苦戦高市早苗崖正念場三立新聞特派前進日本直擊選前之夜國際辯論社東京特別報導
-https://www.youtube.com/watch?v=fa7lWhlPVH4
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/qvXhx90YSCo/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【三立LIVE新聞】自民黨單獨過半陷入苦戰高市早苗生死存亡關鍵戰自民苦戦高市早苗崖正念場三立新聞特派前進日本直擊選前之夜國際辯論社東京特別報導
-https://www.youtube.com/watch?v=qvXhx90YSCo
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/UuZCfis3Dq8/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【中天電視CtiTv】不副署眷改條例引在野不滿卓榮泰視察宜蘭鐵路高架化中天新聞
-https://www.youtube.com/watch?v=UuZCfis3Dq8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/77uB0xZU58o/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【Focus全球新聞】方念華
-https://www.youtube.com/watch?v=77uB0xZU58o
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ej3LQM_lTEw/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【寰宇新聞】川普槓北約竟提阿富汗狂批盟軍惹毛英國人民幣兌美元中間價破升值動能浮現寰宇新聞台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5SH3FDMyMzg/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Tg2NPl7nAy0/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【udn video】蔡其昌陪同台北市議員林亮君大同區發放台灣尚勇春聯
-https://www.youtube.com/watch?v=Tg2NPl7nAy0
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YBgQRpZqeug/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",🚨 【AI主播倪珍Nikki 播新聞】小時台湾時間配信中
 https://www.youtube.com/watch?v=YBgQRpZqeug
 
@@ -3752,26 +3732,6 @@ https://www.youtube.com/watch?v=gd0oMEttrpI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/g4HdxN6lLbc/hqdefault.jpg" group-title="🌪️台灣啟示錄頻道🌪️",🟢 "台灣啟示錄 全集20170108 -「怒海劫真實版，沈瑞章揭秘煉獄1671天」"
 https://www.youtube.com/watch?v=g4HdxN6lLbc
 
-# ===== 🤸🏾‍體育頻道🤸🏾‍ =====
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKeqSb-D4wA/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【緯來體育台】臺中連莊台鋼天鷹
-https://www.youtube.com/watch?v=mKeqSb-D4wA
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2cm9qAGXuL8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【動滋Sports】LIVE》2/812:00
-https://www.youtube.com/watch?v=2cm9qAGXuL8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ACh0D5RnWrI/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【GoHoops】單純打假日夜鷹
-https://www.youtube.com/watch?v=ACh0D5RnWrI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpreQVlefTI/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CPBL 中華職棒】明台產險中華職棒頒獎典禮線上
-https://www.youtube.com/watch?v=TpreQVlefTI
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q1Ck4Zh7Fto/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【TPVL 台灣職業排球聯盟】例行賽台中連莊臺北伊斯特
-https://www.youtube.com/watch?v=Q1Ck4Zh7Fto
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ji7MISo6G6g/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【MotoGP】MotoGP™ Season Launc
-https://www.youtube.com/watch?v=Ji7MISo6G6g
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lD8PpHHJvms/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WCW】LIVE: WCW Watch Part
-https://www.youtube.com/watch?v=lD8PpHHJvms
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G6ERanEbzEE/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【BattleBots】🔴 LIVE The BEST Batt
-https://www.youtube.com/watch?v=G6ERanEbzEE
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE Vault】Superstar Best of Ma
-https://www.youtube.com/watch?v=90_71FSq4SY
-
 # ===== 🏛️政論頻道🏛️ =====
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WAUECPu9EOw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=WAUECPu9EOw
@@ -3809,3 +3769,25 @@ https://www.youtube.com/watch?v=c4hMbUON6Lw
 https://www.youtube.com/watch?v=_LVTMyXBTTI
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/H7ZIscZYoao/hqdefault.jpg" group-title="🏛️政論頻道🏛️",🚨 【觀點】'26.02.09EP187 直播
 https://www.youtube.com/watch?v=H7ZIscZYoao
+
+# ===== 🤸🏾‍體育頻道🤸🏾‍ =====
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mKeqSb-D4wA/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【緯來體育台】臺中連莊台鋼天鷹
+https://www.youtube.com/watch?v=mKeqSb-D4wA
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2cm9qAGXuL8/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【動滋Sports】LIVE》2/812:00
+https://www.youtube.com/watch?v=2cm9qAGXuL8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/C-R26b_c01A/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【GoHoops】士林國小
+https://www.youtube.com/watch?v=C-R26b_c01A
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/TpreQVlefTI/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CPBL 中華職棒】明台產險中華職棒頒獎典禮線上
+https://www.youtube.com/watch?v=TpreQVlefTI
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/0qKKKiP6Ir0/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【CBC籃球聯盟】籃球聯盟武陵幫竹北火影
+https://www.youtube.com/watch?v=0qKKKiP6Ir0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Q1Ck4Zh7Fto/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【TPVL 台灣職業排球聯盟】例行賽台中連莊臺北伊斯特
+https://www.youtube.com/watch?v=Q1Ck4Zh7Fto
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ji7MISo6G6g/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【MotoGP】MotoGP™ Season Launc
+https://www.youtube.com/watch?v=Ji7MISo6G6g
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/lD8PpHHJvms/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WCW】LIVE: WCW Watch Part
+https://www.youtube.com/watch?v=lD8PpHHJvms
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/G6ERanEbzEE/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【BattleBots】🔴 LIVE The BEST Batt
+https://www.youtube.com/watch?v=G6ERanEbzEE
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/90_71FSq4SY/hqdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",🚨 【WWE Vault】Superstar Best of Ma
+https://www.youtube.com/watch?v=90_71FSq4SY
