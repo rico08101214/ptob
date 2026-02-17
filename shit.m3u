@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-17 06:54:59
+# Last Update: 2026-02-17 07:00:48
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO1
 http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO2
@@ -308,6 +308,8 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=meHTKm4XBS8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rYwMWwsQokY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】總統賴清德赴朴子配天宮參香發放福袋最新現場民視快新聞
+https://www.youtube.com/watch?v=rYwMWwsQokY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2xShTbT2yMo/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】副總統蕭美琴赴大雅永興宮參拜祈福發放福袋最新現場民視快新聞
 https://www.youtube.com/watch?v=2xShTbT2yMo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9rLDFCN38KQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】麥寮迎新春群星演唱會初一迎新年民視快新聞
@@ -664,20 +666,6 @@ https://www.youtube.com/watch?v=tGkOt0dFGck
 https://www.youtube.com/watch?v=RtfBsAXEE90
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Uis8NHKOKho/maxresdefault.jpg" group-title="👶小朋友頻道👶",【嗶哩嗶哩動畫Anime Made By Bilibili】年味拉满精彩不断新春特别轮播
 https://www.youtube.com/watch?v=Uis8NHKOKho
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r0dNTdYIvmE/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【緯來體育台】除夕初三持續不間斷
-https://www.youtube.com/watch?v=r0dNTdYIvmE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JaGd4Yy_xjA/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【HOP Sports】小時台湾時間
-https://www.youtube.com/watch?v=JaGd4Yy_xjA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iRzhfwGipNM/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【TPBL】歷屆精彩賽事再看一次馬拉松小時不間斷
-https://www.youtube.com/watch?v=iRzhfwGipNM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【WCW】LIVE: WCW Watch
-https://www.youtube.com/watch?v=lD8PpHHJvms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G6ERanEbzEE/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【BattleBots】🔴 LIVE The BEST
-https://www.youtube.com/watch?v=G6ERanEbzEE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/O2HAO_sOxDs/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【WWE】Best of Finn Bá
-https://www.youtube.com/watch?v=O2HAO_sOxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PDfidwrtTc8/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【WWE Vault】WWE Vault Watch
-https://www.youtube.com/watch?v=PDfidwrtTc8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【周杰倫】音樂時光機
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【五月天】不間斷霸佔你耳朵
@@ -796,6 +784,8 @@ https://www.youtube.com/watch?v=MjsI7PQrm4Y
 https://www.youtube.com/watch?v=WAUECPu9EOw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/slO4LJ8cSkw/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】從委內瑞拉到加薩國際法已死開槍美國內亂攔不住了憲政內戰兩岸斷線台海正在被一步步推向戰場
+https://www.youtube.com/watch?v=slO4LJ8cSkw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IwC97ZVXmPQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】美伊日內瓦重啟核談判川普再威脅動破局將開轟習近平喊慎重處理川普對台軍售很快會做決定
 https://www.youtube.com/watch?v=IwC97ZVXmPQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iasbOzf0Euk/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】走訪古建築博物館陪你過好年
@@ -808,8 +798,8 @@ https://www.youtube.com/watch?v=uuwqJ5CwAtc
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/maZ0R3QsX_M/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】賴清德這八個字讓格格最有感藍白通過彈劾總統案年朝野僵局將續寫了卓榮泰不副署財劃法創憲政首例
-https://www.youtube.com/watch?v=maZ0R3QsX_M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UqfKK1hORwQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】市長蔣萬安新年走春發紅包祝民眾新年快樂
+https://www.youtube.com/watch?v=UqfKK1hORwQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/A11s8ySNBDs/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】蔣萬安走春馬不停蹄集應廟忠順廟指南宮
 https://www.youtube.com/watch?v=A11s8ySNBDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_oKeq-rMYpQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】看主播陪您過新年
