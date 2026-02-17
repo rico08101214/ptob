@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-17 06:18:50
+# Last Update: 2026-02-17 06:27:21
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO1
 http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO2
@@ -374,7 +374,7 @@ https://www.youtube.com/watch?v=KIn3hC_nYxM
 https://www.youtube.com/watch?v=7j92Myu2wzg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/f6Kq93wnaZ8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【LIVE NOW】全球新闻热点时事点评深度报道纪录片电视剧等
 https://www.youtube.com/watch?v=f6Kq93wnaZ8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】外國領導人國際組織負責人祝賀馬年新春港特首逛花市買年花向市民拜年伊朗外長屈服於威脅不在談判選項中小时间鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fN9uYWCjQaw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】外國領導人國際組織負責人祝賀馬年新春美國國務卿魯比奧祝賀農曆新年特朗普稱將間接參與美伊日內瓦談判小时间鳳凰衛視
 https://www.youtube.com/watch?v=fN9uYWCjQaw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RvSOIM620bA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【8world】资讯不停播视界
 https://www.youtube.com/watch?v=RvSOIM620bA
@@ -776,8 +776,6 @@ https://www.youtube.com/watch?v=17WFTdiwMDw
 https://www.youtube.com/watch?v=59Tmi2HIAms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6KAjS7bbNLQ/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】邦楽年最新曲癒感動名曲集優里米津玄師
 https://www.youtube.com/watch?v=6KAjS7bbNLQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hx9bTlQPfHk/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】心響邦楽年最新優里米津玄師
-https://www.youtube.com/watch?v=hx9bTlQPfHk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dQ7Avm5vZUI/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Tokyo Sound Rank】有名曲邦楽日本最高歌優里米津玄師宇多田
 https://www.youtube.com/watch?v=dQ7Avm5vZUI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ns3kv2cHzh0/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Tokyo Sound Rank】人気曲有名曲邦楽優里米津玄師宇多田
