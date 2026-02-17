@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-17 03:45:29
+# Last Update: 2026-02-17 03:45:42
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO1
 http://211.23.114.106:9356/http/59.120.8.187:8081/hls/71/813/ch41.m3u8
 #EXTINF:-1 group-title="🔥直播頻道🔥",HBO2
@@ -282,12 +282,10 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2y74ygfguTA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天新聞CtiNews】整點新聞麥玉潔賴正鎧報新聞中天新聞
 https://www.youtube.com/watch?v=2y74ygfguTA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PIWvOObJIDk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】馬年台灣運勢出爐南鯤鯓代天府抽國運籤中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PIWvOObJIDk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】十全十美南鯤鯓代天府第十支抽出中上國運籤中天新聞
 https://www.youtube.com/watch?v=PIWvOObJIDk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V2CJVqrnVpA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】北東溼答答又降溫初三起天氣好轉日夜溫差大中天新聞
 https://www.youtube.com/watch?v=V2CJVqrnVpA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JN6yi4i77po/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】百貨新春出招迎客賈永婕打鼓黃晴雯福袋抽黃金中天新聞
-https://www.youtube.com/watch?v=JN6yi4i77po
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kk36gqtgAkA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】馬年大吉萬眾同欣柯文哲高虹安新竹走春參拜祈福中天新聞
 https://www.youtube.com/watch?v=Kk36gqtgAkA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q--PSEwYmoE/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】走訪古建築博物館陪你過好年中天新聞
@@ -304,14 +302,8 @@ https://www.youtube.com/watch?v=KyT4qSK8lJo
 https://www.youtube.com/watch?v=LzOTY4mZG00
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/kzBW-wA-U1A/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=kzBW-wA-U1A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/o_n7kEAKNBo/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台視新聞】迎馬年賈永婕打鼓賀新春
-https://www.youtube.com/watch?v=o_n7kEAKNBo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xL0ch83RAK8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=xL0ch83RAK8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q3GcaBWITVI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】台南南鯤鯓代天府馬年國運抽籤儀式
-https://www.youtube.com/watch?v=q3GcaBWITVI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LlcmaJb0c_w/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】一馬當先打鼓賀新春賈永婕發紅包
-https://www.youtube.com/watch?v=LlcmaJb0c_w
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】頻道小時線上台湾
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞 HD】中視新聞頻道小時線上台湾
@@ -328,14 +320,12 @@ https://www.youtube.com/watch?v=rp1te7k6BQM
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映樂事美聲錄
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映大愛醫生館
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映樂事美聲錄
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映高僧傳
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ouf5Gu7M6gA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】年初一卓榮泰走春參拜祈福
-https://www.youtube.com/watch?v=Ouf5Gu7M6gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wwam-yUfCvg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】年初一賴清德參香發放福袋
 https://www.youtube.com/watch?v=wwam-yUfCvg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FnH25sfAA48/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】湧蓮寺國運籤驚現下下籤專家示警朝野內鬥國際風險升溫恐戰爭三立新聞台
@@ -454,7 +444,7 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHn09N0_FhU/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【靈異錯別字】馬年台灣運勢出爐南鯤鯓代天府抽國運籤
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VHn09N0_FhU/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【靈異錯別字】十全十美南鯤鯓代天府第十支抽出中上國運籤
 https://www.youtube.com/watch?v=VHn09N0_FhU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nZucBweUU24/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【靈異錯別字】初一走春拜廟祈求馬年元辰光彩
 https://www.youtube.com/watch?v=nZucBweUU24
@@ -820,11 +810,7 @@ https://www.youtube.com/watch?v=JIKHI-lnWmw
 https://www.youtube.com/watch?v=HarWsyvLERc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aRPxsC5jQuM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】馬年大吉萬眾同欣柯文哲高虹安新竹走春參拜祈福
 https://www.youtube.com/watch?v=aRPxsC5jQuM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/04_2wGkgjGk/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】台南南鯤鯓代天府馬年國運抽籤儀式
-https://www.youtube.com/watch?v=04_2wGkgjGk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qW8Ib_bIuLU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】一馬當先打鼓賀新春賈永婕發紅包
-https://www.youtube.com/watch?v=qW8Ib_bIuLU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eSljXdsA3Vk/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】馬年台灣運勢出爐南鯤鯓代天府抽國運籤
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eSljXdsA3Vk/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】十全十美南鯤鯓代天府第十支抽出中上國運籤
 https://www.youtube.com/watch?v=eSljXdsA3Vk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cUCVUIC-qEw/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】綠營酬庸掏空台灣賴對外無能對內耍賴過年期間每晚十二點播出
 https://www.youtube.com/watch?v=cUCVUIC-qEw
@@ -832,6 +818,36 @@ https://www.youtube.com/watch?v=cUCVUIC-qEw
 https://www.youtube.com/watch?v=_oKeq-rMYpQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwbqimYAriY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【金臨天下】開紅盤必看財經專家大集結教你馬年精準佈局賺大錢
 https://www.youtube.com/watch?v=cwbqimYAriY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="購物",【海豚多媒體】海豚綜合台線上
+https://www.youtube.com/watch?v=IBcS_0eEndI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjGEQyDPF0Y/maxresdefault.jpg" group-title="購物",【玉麟網路電視台】線上
+https://www.youtube.com/watch?v=BjGEQyDPF0Y
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vS0jP14chNA/maxresdefault.jpg" group-title="購物",【寶島文化台】寶島文化電視台現場
+https://www.youtube.com/watch?v=vS0jP14chNA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l7RYPQiiur0/maxresdefault.jpg" group-title="購物",【三聖電視台】「三聖電視台」直播
+https://www.youtube.com/watch?v=l7RYPQiiur0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZTQ87Vq2IA/maxresdefault.jpg" group-title="購物",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
+https://www.youtube.com/watch?v=HZTQ87Vq2IA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GwlHjVwzfrg/maxresdefault.jpg" group-title="購物",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
+https://www.youtube.com/watch?v=GwlHjVwzfrg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UZW-uj83JHk/maxresdefault.jpg" group-title="購物",【桐瑛台南電視臺】「桐瑛台南電視臺」直播
+https://www.youtube.com/watch?v=UZW-uj83JHk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_pZQ1Lk0xMA/maxresdefault.jpg" group-title="購物",【momo購物一台】購物一台頻道小時線上
+https://www.youtube.com/watch?v=_pZQ1Lk0xMA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xbNWkUyxQGM/maxresdefault.jpg" group-title="購物",【momo購物二台】購物二台頻道小時線上
+https://www.youtube.com/watch?v=xbNWkUyxQGM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lEXITHxcagI/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=lEXITHxcagI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7IyxOiGMLgw/maxresdefault.jpg" group-title="購物",【ViVa TV美好家庭購物】美好購物台線上看
+https://www.youtube.com/watch?v=7IyxOiGMLgw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ViJ3XiN6Q3M/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH47
+https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z50JFuNgvB0/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH46
+https://www.youtube.com/watch?v=Z50JFuNgvB0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Vlzn9qAHD4/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH34
+https://www.youtube.com/watch?v=_Vlzn9qAHD4
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u0NYyH3ZesE/maxresdefault.jpg" group-title="購物",【Live東森購物台】CH60
+https://www.youtube.com/watch?v=u0NYyH3ZesE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lj8OWF6nzcg/maxresdefault.jpg" group-title="國會",【國會頻道】國會頻道２
 https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IvAXtzx5cUI/maxresdefault.jpg" group-title="國會",【國會頻道】程序委員會
