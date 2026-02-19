@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-02-19 10:35:54
+# Last Update: 2026-02-19 10:49:23
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞1
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",TVBS新聞
@@ -54,7 +54,7 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映高僧傳
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映好戲成雙在光裏的人
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映高僧行誼
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
@@ -212,16 +212,50 @@ http://52xinghe.top/smmmt.php?id=ettvwestern&h=52xinghe.top&p=7788
 http://52xinghe.top/smmmt.php?id=ettvmovie&h=52xinghe.top&p=7788
 #EXTINF:-1 group-title="🔥直播頻道🔥",東森電影
 http://iptv.4666888.xyz/iptv2A.php?id=48
-#EXTINF:-1 group-title="🔥直播頻道🔥",東森洋片1
-http://142.171.248.206:5050/smart.php?id=ettvwestern&token=885252
 #EXTINF:-1 group-title="🔥直播頻道🔥",東森洋片3
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LyueGr-6I5WurXyVzCPErAn1bIY0Xo0oD4WTTmWvbwk0WlRLAiSKjvvk1qlTgn_rvKqmndIlkvXOsgb2pLGqYWlBY4bum9lzyFDqrQV09sm9mH8Norh0gOkpeKmnKhs7l0EGvOTpy8B5LkIDy-zcVjSoBzBiSy2SqAL9FF4LqSM_pIZGYBuWkuHd68RQGk25yig.m3u8?u=1756878715
-#EXTINF:-1 group-title="🔥直播頻道🔥",東森洋片4
-http://iptv543.com/smt.php?id=ettvwestern
-#EXTINF:-1 group-title="🔥直播頻道🔥",東森洋片5
-https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
 #EXTINF:-1 group-title="🔥直播頻道🔥",三立台灣
 http://211.23.114.106:9378/http/59.120.8.187:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",動物星球
+http://211.23.114.106:9312/http/59.120.8.187:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",動物星球
+http://211.23.114.106:9312/http/61.67.128.137:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",緯來電影
+http://211.23.114.106:9354/http/59.120.8.187:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",緯來電影
+http://211.23.114.106:9354/http/61.67.128.137:8081/hls/69/811/ch35.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",緯來綜合
+http://211.23.114.106:8536/http/59.120.8.187:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",緯來綜合
+http://211.23.114.106:8536/http/61.67.128.137:8081/hls/68/810/ch32.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",AMC電影台
+http://211.23.114.106:9359/http/59.120.8.187:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",AMC電影台
+http://211.23.114.106:9359/http/61.67.128.137:8092/upload/115/AMC_TS-1111_1.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",AXN
+http://211.23.114.106:9357/http/59.120.8.187:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",AXN
+http://211.23.114.106:9357/http/61.67.128.137:8081/hls/71/813/ch43.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",CINEMAX
+http://211.23.114.106:9358/http/59.120.8.187:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",CINEMAX
+http://211.23.114.106:9358/http/61.67.128.137:8081/hls/71/813/ch42.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",Discovery
+http://211.23.114.106:9310/http/59.120.8.187:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",Discovery
+http://211.23.114.106:9310/http/61.67.128.137:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",TVBS HD
+http://211.23.114.106:9344/http/59.120.8.187:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",TVBS HD
+http://211.23.114.106:9344/http/61.219.99.20:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",TVBS HD
+http://211.23.114.106:9344/http/61.67.128.137:8081/hls/75/817/ch58.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",三立台灣
+http://211.23.114.106:9378/http/61.67.128.137:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",中天綜合
+http://211.23.114.106:9325/http/59.120.8.187:8081/hls/67/809/ch25.m3u8
+#EXTINF:-1 group-title="🔥直播頻道🔥",中天綜合
+http://211.23.114.106:9325/http/61.67.128.137:8081/hls/67/809/ch25.m3u8
 #EXTINF:-1 group-title="🐕Litv直播頻道🐕",民視綜藝台
 https://litv.go-iptv.ggff.net/litv.php?id=4gtv-4gtv004
 #EXTINF:-1 group-title="🐕Litv直播頻道🐕",民視台灣台
