@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-09 12:54:17
+# Last Update: 2026-03-09 13:07:25
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",TVBS新聞
@@ -16,6 +16,8 @@ http://dreamtv.sylu.net:2082/play/4gtv-4gtv152/index.m3u8?token=lxbjj8O2w50t7jTl
 http://live-broadcast-sh-service.vcinema.cn/live/c4f096524f3b8c2da17f9201cb32e266.flv
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SOtCLwPzA8s/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】龔明鑫怒斥台灣全面斷氣假消息揭艘援氣船救援美伊開戰瓦斯半年連漲逼近元早餐店爌肉飯苦撐
+https://www.youtube.com/watch?v=SOtCLwPzA8s
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FFQHi4XNsAE/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】美伊戰爭給習的啟示紐時硬實力為王吳子嘉中天新聞
@@ -46,16 +48,14 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映樂事美聲錄
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映樂事美聲錄
 https://www.youtube.com/watch?v=QDxRJP-wfeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qvDsWfxOoPo/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】卓榮泰赴日觀戰中國副外長致電日大使抗議日冷回一句網讚爆軍購案進深水區綠加強國防委員會戰力藍還在看傅崐萁面子勉強接受有話鏡來講
 https://www.youtube.com/watch?v=qvDsWfxOoPo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NAItt3VwDto/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】彩券開獎
-https://www.youtube.com/watch?v=NAItt3VwDto
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1ujDxJBeYrg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】經典賽韓國澳洲台灣晉級最後希望今晚我們都是一日韓國球迷命運掌握在韓國手中主播鄧崴球評許維智
 https://www.youtube.com/watch?v=1ujDxJBeYrg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hGJkDZDchYI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【三立LIVE新聞】三立新聞海外台灣人的電視台國際焦點地震氣象政經動態台湾
@@ -998,6 +998,98 @@ http://74.91.26.218:82/live/vllzy.m3u8
 http://74.91.26.218:82/live/vlzrf.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",周星馳6
 http://74.91.26.218:82/live/vlzxc.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY拆弹专家
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382745111
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY周星驰
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354658049
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY周润发
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354889044
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY洪金宝
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354924839
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY张国荣
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354930961
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY成龙
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1459869766
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龙经典
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=479063
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY李连杰
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=74613175
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY林正英1
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1351505899
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY林正英2
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1353685311
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY林正英3
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1462895099
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY僵尸港片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382780025
+#EXTINF:-1 group-title="🎥電影頻道🎥",举起手来
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382736877
+#EXTINF:-1 group-title="🎥電影頻道🎥",经典港片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=344652
+#EXTINF:-1 group-title="🎥電影頻道🎥",X战警系列
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735585
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY绝版电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1455988450
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台01
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382749892
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台02
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735573
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台03
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=24921161
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台04
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382736803
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台05
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354930924
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台06
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382745095
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台07
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1355171357
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台08
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=24066336
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY电影台09
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354143966
+#EXTINF:-1 group-title="🎥電影頻道🎥",港片动作电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1461037999
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382745176
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735561
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354936168
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作大片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354930887
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作大片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382749917
+#EXTINF:-1 group-title="🎥電影頻道🎥",电影05
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354888739
+#EXTINF:-1 group-title="🎥電影頻道🎥",电影06
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382749940
+#EXTINF:-1 group-title="🎥電影頻道🎥",国产动作电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382736858
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354932444
+#EXTINF:-1 group-title="🎥電影頻道🎥",国产大片电影
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354926655
+#EXTINF:-1 group-title="🎥電影頻道🎥",YY電影輪播
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1353059120
+#EXTINF:-1 group-title="🎥電影頻道🎥",国外动作大片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735540
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354936170
+#EXTINF:-1 group-title="🎥電影頻道🎥",机场超燃警匪片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735576
+#EXTINF:-1 group-title="🎥電影頻道🎥",华子系列
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354888726
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻片来袭
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354930821
+#EXTINF:-1 group-title="🎥電影頻道🎥",香港动作大片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382736816
+#EXTINF:-1 group-title="🎥電影頻道🎥",国产喜剧大片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382745113
+#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻电影集合
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1354936221
+#EXTINF:-1 group-title="🎥電影頻道🎥",国外科幻片
+http://shorturl.jxpan.vip:880/r/baoshi_web/YYlunbo.php?id=1382735585
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JPJFLo9r1gA/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【戲說台灣】元宵快樂吃湯圓配戲說小時不間斷
 https://www.youtube.com/watch?v=JPJFLo9r1gA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gzJiMu3OKpo/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【台視時光機】綜藝黃金年代年龍兄虎弟完整珍藏版
@@ -1224,8 +1316,6 @@ https://live.ottiptv.cc/huya/27949551
 https://live.ottiptv.cc/huya/20753449
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rqdkb03LW9I/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【緯來體育台】韓國澳洲鎖定緯來
 https://www.youtube.com/watch?v=rqdkb03LW9I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7aoh-2QcNrU/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【緯來體育台】2026.03.09│LIVE
-https://www.youtube.com/watch?v=7aoh-2QcNrU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lD8PpHHJvms/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【WCW】LIVE: WCW Watch
 https://www.youtube.com/watch?v=lD8PpHHJvms
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Dv-pmT25qZc/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【BattleBots】🔴 LIVE Battlebo
@@ -1280,6 +1370,8 @@ https://www.youtube.com/watch?v=qrWp7zOrWAg
 https://www.youtube.com/watch?v=PoNKmT9ns-Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PWt0X2ioW8E/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】抖音神曲抖音歌曲若月亮沒來王宇宙向思思總會有人可能是風太大了吧承桓我會等年最洗腦的旋律都在這裡
 https://www.youtube.com/watch?v=PWt0X2ioW8E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jp3DIqx0IXo/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
+https://www.youtube.com/watch?v=jp3DIqx0IXo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/P2WdJEiyI_E/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】三月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫抖音最最最火
 https://www.youtube.com/watch?v=P2WdJEiyI_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oxeoNyVvYLg/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】年月最新熱門單曲華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋二月新歌
@@ -8716,22 +8808,12 @@ https://www.youtube.com/watch?v=ZeNh9b74WGI
 https://www.youtube.com/watch?v=CXHWc9HEg34
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NsoYXFOXfq4/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】彩券開獎三立新聞網
-https://www.youtube.com/watch?v=NsoYXFOXfq4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/t_eIWo9vv6U/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】經典賽韓國澳洲台灣晉級最後希望今晚我們都是一日韓國球迷命運掌握在韓國手中主播鄧崴球評許維智
 https://www.youtube.com/watch?v=t_eIWo9vv6U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
 https://www.youtube.com/watch?v=JIKHI-lnWmw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
 https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6eYCaYQ1MBs/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】戰爭危機擴大綠營荒腔走板
-https://www.youtube.com/watch?v=6eYCaYQ1MBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5OnaU6A54gE/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【董事長開講】天天戰新竹縣市彰化縣卓榮泰踩進東京巨蛋紐時伊朗戰爭給習近平的教訓硬實力為王吳子嘉
-https://www.youtube.com/watch?v=5OnaU6A54gE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R9vJANRvwVQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【57爆新聞】中東戰火恐打到月川普擬派特種部隊深入伊朗本土欲奪失蹤高濃縮鈾足以造枚核彈
-https://www.youtube.com/watch?v=R9vJANRvwVQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z7RhoWPchz4/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【郭正亮頻道】戰爭危機擴大綠營荒腔走板
-https://www.youtube.com/watch?v=Z7RhoWPchz4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3-Lw7iq08T4/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普波灣被圍毆風向劇變中東嗆不投資美國了中國意外收穫美以逼的全球資金重返香港星國完整版
 https://www.youtube.com/watch?v=3-Lw7iq08T4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HzJCYBqOwzA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】不對美國妥協伊朗選出哈米尼之子為新領袖伊朗戰爭何時停川普美以一起決定
