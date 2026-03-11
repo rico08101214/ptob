@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-11 08:39:23
+# Last Update: 2026-03-11 08:52:52
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",TVBS新聞
@@ -582,11 +582,11 @@ http://cfss.cc/cdn/huya/11342414.flv
 https://www.goodiptv.club/huya/11342414
 #EXTINF:-1 group-title="🎥電影頻道🎥",邓超
 https://live.ottiptv.cc/huya/11336592
-#EXTINF:-1 group-title="🎥電影頻道🎥",动作大片
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354930887
-#EXTINF:-1 group-title="🎥電影頻道🎥",动作片系列
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 https://live.ottiptv.cc/huya/10871113
-#EXTINF:-1 group-title="🎥電影頻道🎥",动作電影台
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354936168
 #EXTINF:-1 group-title="🎥電影頻道🎥",动画片系列
 https://live.ottiptv.cc/huya/11352878
@@ -622,11 +622,11 @@ https://www.goodiptv.club/huya/11352903
 https://live.ottiptv.cc/huya/30080177
 #EXTINF:-1 group-title="🎥電影頻道🎥",体育片系列
 https://live.ottiptv.cc/huya/23864480
-#EXTINF:-1 group-title="🎥電影頻道🎥",吴京专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",吴京
 https://live.ottiptv.cc/huya/11602077
-#EXTINF:-1 group-title="🎥電影頻道🎥",吴镇宇专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",吴镇宇
 https://live.ottiptv.cc/huya/23865096
-#EXTINF:-1 group-title="🎥電影頻道🎥",张卫健专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",张卫健
 https://live.ottiptv.cc/huya/11342423
 #EXTINF:-1 group-title="🎥電影頻道🎥",张国荣
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354930961
@@ -704,21 +704,21 @@ https://live.ottiptv.cc/huya/11342387
 https://www.goodiptv.club/huya/11342387
 #EXTINF:-1 group-title="🎥電影頻道🎥",周潤發6
 http://74.91.26.218:82/live/vlzrf.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作大片
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382749917
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作片
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382735561
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内动作電影台
+#EXTINF:-1 group-title="🎥電影頻道🎥",动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382745176
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354936170
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻片来袭
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354930821
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻電影台
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354932444
-#EXTINF:-1 group-title="🎥電影頻道🎥",国内科幻電影台集合
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354936221
-#EXTINF:-1 group-title="🎥電影頻道🎥",国外动作大片
+#EXTINF:-1 group-title="🎥電影頻道🎥",国外动作片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382735540
 #EXTINF:-1 group-title="🎥電影頻道🎥",国外科幻片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382735585
@@ -776,13 +776,13 @@ http://live.iill.top/huya.php?id=11342435
 https://live.iill.top/huya.php?id=11342435
 #EXTINF:-1 group-title="🎥電影頻道🎥",金庸武侠
 https://live.iill.top/huya/11342435
-#EXTINF:-1 group-title="🎥電影頻道🎥",陆小凤专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",陆小凤
 https://live.ottiptv.cc/huya/11342427
-#EXTINF:-1 group-title="🎥電影頻道🎥",陈小春专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",陈小春
 https://live.ottiptv.cc/huya/11336719
 #EXTINF:-1 group-title="🎥電影頻道🎥",举起手来
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382736877
-#EXTINF:-1 group-title="🎥電影頻道🎥",冒险片系列
+#EXTINF:-1 group-title="🎥電影頻道🎥",冒险片
 https://live.ottiptv.cc/huya/21059566
 #EXTINF:-1 group-title="🎥電影頻道🎥",哆啦A梦
 https://live.iill.top/huya/11601963
@@ -802,7 +802,7 @@ http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1354924839
 https://live.ottiptv.cc/huya/11279251
 #EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
 https://www.goodiptv.club/huya/11279251
-#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶6
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
 http://74.91.26.218:82/live/vlhjb.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
 https://live.ottiptv.cc/huya/11352965
@@ -874,15 +874,15 @@ https://www.goodiptv.club/huya/21059594
 https://live.ottiptv.cc/huya/11342429
 #EXTINF:-1 group-title="🎥電影頻道🎥",梁家輝
 https://www.goodiptv.club/huya/11342429
-#EXTINF:-1 group-title="🎥電影頻道🎥",盗墓片系列
+#EXTINF:-1 group-title="🎥電影頻道🎥",盗墓片
 https://live.ottiptv.cc/huya/11601981
 #EXTINF:-1 group-title="🎥電影頻道🎥",許氏三傑
 https://www.goodiptv.club/huya/11602033
 #EXTINF:-1 group-title="🎥電影頻道🎥",許冠英
 https://www.goodiptv.club/huya/11601972
-#EXTINF:-1 group-title="🎥電影頻道🎥",谍战片系列
+#EXTINF:-1 group-title="🎥電影頻道🎥",谍战片
 https://live.ottiptv.cc/huya/26355810
-#EXTINF:-1 group-title="🎥電影頻道🎥",郭富城专场
+#EXTINF:-1 group-title="🎥電影頻道🎥",郭富城
 https://live.ottiptv.cc/huya/20985865
 #EXTINF:-1 group-title="🎥電影頻道🎥",黄百鸣
 http://74.91.26.218:82/live/vlhbm.m3u8
@@ -922,7 +922,7 @@ https://www.goodiptv.club/huya/21059588
 https://www.goodiptv.club/huya/11601981
 #EXTINF:-1 group-title="🎥電影頻道🎥",港片
 https://www.goodiptv.club/huya/11602043
-#EXTINF:-1 group-title="🎥電影頻道🎥",港片动作電影台
+#EXTINF:-1 group-title="🎥電影頻道🎥",港片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1461037999
 #EXTINF:-1 group-title="🎥電影頻道🎥",猫和老鼠
 http://cfss.cc/cdn/huya/11352879.flv
@@ -950,7 +950,7 @@ https://www.goodiptv.club/huya/11601986
 https://www.goodiptv.club/huya/21059586
 #EXTINF:-1 group-title="🎥電影頻道🎥",馮小剛
 https://www.goodiptv.club/huya/11352906
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴6
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴
 http://74.91.26.218:82/live/vlhbm.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
 https://www.goodiptv.club/huya/11352876
@@ -1012,7 +1012,7 @@ https://www.goodiptv.club/huya/11352935
 https://www.goodiptv.club/huya/21059599
 #EXTINF:-1 group-title="🎥電影頻道🎥",僵尸片
 https://live.ottiptv.cc/huya/11352917
-#EXTINF:-1 group-title="🎥電影頻道🎥",僵尸港片
+#EXTINF:-1 group-title="🎥電影頻道🎥",僵尸片
 http://shorturl.jxpan.vip:880/r/baoshi_web/lunbo.php?id=1382780025
 #EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
 http://74.91.26.218:82/live/vlldh.m3u8
@@ -1028,21 +1028,21 @@ https://live.iill.top/huya/11342424
 https://live.ottiptv.cc/huya/11342424
 #EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
 https://www.goodiptv.club/huya/11342424
-#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華6
+#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
 http://74.91.26.218:82/live/vlldh.m3u8
 #EXTINF:-1 group-title="🎥電影頻道🎥",熱血
 https://www.goodiptv.club/huya/11352934
-#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
 https://www.goodiptv.club/huya/21059592
 #EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
 https://www.goodiptv.club/huya/21059574
-#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
 https://www.goodiptv.club/huya/21059585
 #EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
 https://www.goodiptv.club/huya/21059587
 #EXTINF:-1 group-title="🎥電影頻道🎥",鏢行天下
 https://www.goodiptv.club/huya/11352969
-#EXTINF:-1 group-title="🎥電影頻道🎥",警匪
+#EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
 https://www.goodiptv.club/huya/11352886
 #EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
 https://live.ottiptv.cc/huya/30041512
@@ -1310,8 +1310,6 @@ https://www.youtube.com/watch?v=YwpX4qYftUU
 https://www.youtube.com/watch?v=Li-_bnUoWk4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x9xoCc9L-uA/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【超舒眠音樂】Sleep Instantly
 https://www.youtube.com/watch?v=x9xoCc9L-uA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2EK35lnRxSM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=2EK35lnRxSM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
 https://www.youtube.com/watch?v=YSWHtk1_UKQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
@@ -8756,38 +8754,6 @@ https://www.youtube.com/watch?v=4Pwmb1UBGVM
 https://www.youtube.com/watch?v=2wzDK1IgJRY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NKexMZcpqDA/maxresdefault.jpg" group-title="💖英文老歌精選頻道💖",【最後の雨】
 https://www.youtube.com/watch?v=NKexMZcpqDA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WAUECPu9EOw/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
-https://www.youtube.com/watch?v=WAUECPu9EOw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
-https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PVakoGnOMms/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】與美談判破局川普稱伊朗非常想談伊朗外長速打臉荷姆茲海峽佈設水雷停戰關鍵在中國義烏爆單習川會各懷詭計
-https://www.youtube.com/watch?v=PVakoGnOMms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qvtB2dii0kg/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】川普警告倍打擊狂轟炸船伊朗向川普發出死亡威脅小心別被殲滅
-https://www.youtube.com/watch?v=qvtB2dii0kg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0UOnH10P4oY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
-https://www.youtube.com/watch?v=0UOnH10P4oY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JIKHI-lnWmw/hqdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】一顆球砸出的緣分蘇巧慧龍男台大班對變夫妻兩人罕見同框鄭弘儀感動推薦冠軍之路精彩不斷電話時代人物三立新聞網
-https://www.youtube.com/watch?v=JIKHI-lnWmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HarWsyvLERc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】祝你健康呷百二頭皮頭髮也有可能罹癌只要露出來就有風險祝你健康三立新聞網
-https://www.youtube.com/watch?v=HarWsyvLERc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jq0u84_s0y8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】🔴LIVE：2026.03.1
-https://www.youtube.com/watch?v=Jq0u84_s0y8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GoCol8X4AGM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】韓國瑜出手了召集朝野協商盼解決李貞秀立委身分認定中天新聞
-https://www.youtube.com/watch?v=GoCol8X4AGM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5CvuCExjSVU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】選戰將徵召李四川鄭麗文出席中常會最新
-https://www.youtube.com/watch?v=5CvuCExjSVU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h39WnPz7c8E/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】立院已失守請問韓國瑜護憲戰士或政治精算師每週三下午四點半
-https://www.youtube.com/watch?v=h39WnPz7c8E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7Iq2HevQ-JU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【57爆新聞】伊朗荷姆茲海峽布水雷川普不移除將面臨軍事後果
-https://www.youtube.com/watch?v=7Iq2HevQ-JU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Kl6MTOp8i-s/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普警告倍打擊狂轟炸船伊朗向川普發出死亡威脅小心別被殲滅
-https://www.youtube.com/watch?v=Kl6MTOp8i-s
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9yNeSTEoqPg/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【品觀點】立法院朝野黨團協商研商中央選舉委員會人事同意權案
-https://www.youtube.com/watch?v=9yNeSTEoqPg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwRWEN2h4Yo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【金臨天下】台股站回萬不看油價就看大會南亞科群創華通重回多頭軌道大摩喊台積供應鏈催油門誠美材達邁擎亞利多發酵
-https://www.youtube.com/watch?v=cwRWEN2h4Yo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TMjUNWnNYmE/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【金臨天下】財經網路新聞小時台湾世界中時間配信中財經財經鈔能力
-https://www.youtube.com/watch?v=TMjUNWnNYmE
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBcS_0eEndI/maxresdefault.jpg" group-title="🥱購物🥱",【海豚多媒體】海豚綜合台線上
 https://www.youtube.com/watch?v=IBcS_0eEndI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iOiwPdtaCyE/maxresdefault.jpg" group-title="🥱購物🥱",【寶島文化台】寶島文化電視台現場
