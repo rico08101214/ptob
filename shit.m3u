@@ -1,7 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-27 05:42:47
-#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
-https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ettvnews
+# Last Update: 2026-03-27 05:51:08
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",TVBS新聞
@@ -70,8 +68,6 @@ https://www.youtube.com/watch?v=Vrs-AeKZIEg
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映好戲成雙愛的微光
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4lmRvChwAdk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】柯文哲怒搥桌嗆賴總統國際記者會滿滿小草風黃國昌上凱道白營能量泡沫化國台辦急聲援落實民眾黨白變黑又染紅內政部一句話揭藍白合未來難料中午鏡來講
-https://www.youtube.com/watch?v=4lmRvChwAdk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Y5jXACFi8E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】行政院長卓榮泰赴立法院施政報告及備詢
 https://www.youtube.com/watch?v=_Y5jXACFi8E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞台湾時間放送
@@ -92,6 +88,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5SH3FDMyMzg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇全視界】寰宇新聞台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=5SH3FDMyMzg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9NtEb-jnwks/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【udn video】朱立倫與藍委餐敘
+https://www.youtube.com/watch?v=9NtEb-jnwks
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/n3CER6p1Rws/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【CNEWS匯流新聞網】立法院第屆第次會議行政院長施政報告並備詢
 https://www.youtube.com/watch?v=n3CER6p1Rws
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【新唐人亞太電視台】新唐人小時
@@ -982,138 +980,6 @@ https://www.youtube.com/watch?v=6eGh6PkcnCM
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【五月天】不間斷霸佔你耳朵
 https://www.youtube.com/live/R62E7cFWX6o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NrEnj8Vz5_E/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【RB音樂】抒情歌單一月新歌超好聽的英文歌單放鬆心情的情歌專輯工作背景音樂
-https://www.youtube.com/watch?v=NrEnj8Vz5_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DwbEPTBTOTw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【深情慢歌】超好聽的英文歌單放鬆心情的情歌專輯工作背景音樂
-https://www.youtube.com/watch?v=DwbEPTBTOTw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/M1y2J3AsPjE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】睡眠音乐一秒入睡睡眠音樂無廣告放鬆音樂療癒音樂音樂治療鋼琴曲輕音樂
-https://www.youtube.com/watch?v=M1y2J3AsPjE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qFTEHLdtggc/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】一聽你就睡著深度放鬆輕音樂睡眠音樂無廣告心靈音樂水晶音樂睡眠轻音乐放鬆音樂對抗失眠一秒入睡冥想音樂
-https://www.youtube.com/watch?v=qFTEHLdtggc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WnwdvF1YBT0/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】睡眠音樂一秒入睡深層睡眠天然森林音樂睡眠音樂無廣告放鬆音樂療癒音樂音樂治療鋼琴曲輕音樂
-https://www.youtube.com/watch?v=WnwdvF1YBT0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c9n4t53pAA0/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】緩解壓力的治癒音樂丨消除負面情緒淨化心靈壓力焦慮瞬間消除丨高品質放鬆音樂宮崎駿水晶音樂早晨音樂睡眠音樂
-https://www.youtube.com/watch?v=c9n4t53pAA0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b_k6nvrPyqc/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】睡眠音乐一秒入睡睡眠音樂無廣告放鬆音樂療癒音樂音樂治療鋼琴曲輕音樂
-https://www.youtube.com/watch?v=b_k6nvrPyqc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zoz0eXzFFns/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】一秒入睡神奇的入眠音波轻松的音乐和轻柔的雨声解除失眠幫助入眠過慮一天累積的生活煩惱輕音樂睡覺背景音樂
-https://www.youtube.com/watch?v=zoz0eXzFFns
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YwpX4qYftUU/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【一秒舒眠音樂】深度睡眠雨聲放鬆音樂治療音樂舒壓按摩音樂睡眠音樂療癒音樂鋼琴音樂波音鋼琴曲輕音樂輕快純音樂钢琴曲轻音乐放松音乐
-https://www.youtube.com/watch?v=YwpX4qYftUU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Li-_bnUoWk4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【超舒眠音樂】Deep Healing Sl
-https://www.youtube.com/watch?v=Li-_bnUoWk4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YSWHtk1_UKQ/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=YSWHtk1_UKQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WlqXiPuwWtM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】流行歌曲不能不聽的首歌網路超火歌曲抖音二月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
-https://www.youtube.com/watch?v=WlqXiPuwWtM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BYNWUMC2Np4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=BYNWUMC2Np4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/99rLT2xf8T8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ-music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=99rLT2xf8T8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fx9UIfXzKVw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【心动 Radio】最孤單的夜裡有你留下的聲音超好聽中文原創情歌夜晚放鬆閱讀學習助眠
-https://www.youtube.com/watch?v=fx9UIfXzKVw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/augOnkJkrHY/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Hot TV】🔥🎵 #KJJadiDJ 🎧
-https://www.youtube.com/watch?v=augOnkJkrHY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eWpO6A5VUd0/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】流行歌曲首超好聽的流行歌曲抖音感動洗腦精選神曲必聽抖音合輯抖音四十大熱門歌曲
-https://www.youtube.com/watch?v=eWpO6A5VUd0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rNl66pRRpSw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】三月新歌華語單曲排行週榜愛就一個字若月亮沒來花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋周杰倫抖音最最最火
-https://www.youtube.com/watch?v=rNl66pRRpSw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/T-q_NSfYb6A/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】年三月最新歌曲最新華語單曲排行榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
-https://www.youtube.com/watch?v=T-q_NSfYb6A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qSXLiy5wS-Y/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=qSXLiy5wS-Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrWp7zOrWAg/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【时间节拍 Melody】華語單曲排行週榜二月新歌愛就一個字若月亮没来花海最偉大的作品王嘉尔周興哲林俊傑鄧紫棋
-https://www.youtube.com/watch?v=qrWp7zOrWAg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WhrEyaA_Ptk/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=WhrEyaA_Ptk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PhAesLlhtUc/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=PhAesLlhtUc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jAGk8K-lVrw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=jAGk8K-lVrw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7CMMuWeZksM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=7CMMuWeZksM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MM7AnZsBFA8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=MM7AnZsBFA8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BehCENmcqCw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=BehCENmcqCw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CDvUa-9K7rM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】年月必聽新歌華語單曲排行週榜總會有人我會等斷送青春愛錯人跳楼机會呼吸的痛周杰倫王嘉尔周興哲林俊傑鄧紫棋月強檔新曲
-https://www.youtube.com/watch?v=CDvUa-9K7rM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eGkDnmeI4t8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【孤心旋律】華語單曲排行週榜超好聽的中文歌單愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=eGkDnmeI4t8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/y9tgrwLU148/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【水月琴音】無損音質熱門中文歌精選必聽流行歌曲古風音樂
-https://www.youtube.com/watch?v=y9tgrwLU148
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tjne3WWB3kA/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Cherry 葵】Nightcore Radio
-https://www.youtube.com/watch?v=tjne3WWB3kA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4FBW3mkdKOs/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【「KING AMUSEMENT CREATIVE」公式チャンネル】時間日
-https://www.youtube.com/watch?v=4FBW3mkdKOs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Fu4LaGTRsYE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【FOR FUN RADIO TIME Music channel】音樂不間斷讀書工作專屬音樂陪你每一天
-https://www.youtube.com/watch?v=Fu4LaGTRsYE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IkmLXvBfVv0/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【The Good Life Radio x Sensual Musique】Deep House Radi
-https://www.youtube.com/watch?v=IkmLXvBfVv0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m52ynxt1mOo/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【The Good Life Radio x Sensual Musique】Chill Out Music
-https://www.youtube.com/watch?v=m52ynxt1mOo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9UMxZofMNbA/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【The Good Life Radio x Sensual Musique】Chillout Lounge
-https://www.youtube.com/watch?v=9UMxZofMNbA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/36YnV9STBqc/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【The Good Life Radio x Sensual Musique】The Good Life R
-https://www.youtube.com/watch?v=36YnV9STBqc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/njqkg8o4C84/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Rock FM】Rock 90s ⚡  Bes
-https://www.youtube.com/watch?v=njqkg8o4C84
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2Sn6nqruOB8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Rock FM】Pop Rock ⚡  Bes
-https://www.youtube.com/watch?v=2Sn6nqruOB8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VbTYnJshTas/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Rock FM】Rock 2000s ⚡  B
-https://www.youtube.com/watch?v=VbTYnJshTas
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nt27aBceerI/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Rock FM】Rock Classics ⚡
-https://www.youtube.com/watch?v=Nt27aBceerI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0C4kZlNrhbI/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Radio 2000s Hit
-https://www.youtube.com/watch?v=0C4kZlNrhbI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ukyd5pBfJjM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Radio 90s Mix
-https://www.youtube.com/watch?v=Ukyd5pBfJjM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WnCfvAMM9eY/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Radio 70s 80s M
-https://www.youtube.com/watch?v=WnCfvAMM9eY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b-bK2Vn3D38/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Best Radio 1 PO
-https://www.youtube.com/watch?v=b-bK2Vn3D38
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x-JC7sJJUW8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Radio POP Mix 2
-https://www.youtube.com/watch?v=x-JC7sJJUW8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hXyRD5vbKpo/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Dance Radio Mix
-https://www.youtube.com/watch?v=hXyRD5vbKpo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YDuz4mAtyf4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】The Good Time R
-https://www.youtube.com/watch?v=YDuz4mAtyf4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m2BnK_hf2qg/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Music Radio Mix
-https://www.youtube.com/watch?v=m2BnK_hf2qg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9hylBusqpX8/hqdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Music Radio Ret
-https://www.youtube.com/watch?v=9hylBusqpX8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zjXupvypOmw/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Music Radio Pop
-https://www.youtube.com/watch?v=zjXupvypOmw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nHeXL2We4EE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Today's Top Hit
-https://www.youtube.com/watch?v=nHeXL2We4EE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FVLNVecHzvI/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Music Radio 1 P
-https://www.youtube.com/watch?v=FVLNVecHzvI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3MOrgUjiigE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Hits Music】Hits Radio 1 Li
-https://www.youtube.com/watch?v=3MOrgUjiigE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWc_vMRGxDs/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Hits Music】Pop Radio - Hit
-https://www.youtube.com/watch?v=UWc_vMRGxDs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r7eFY9YYTdE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Dark City Sounds】Hottest Hip Hop
-https://www.youtube.com/watch?v=r7eFY9YYTdE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6NycjnIej58/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=6NycjnIej58
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tTpGBsq_jUo/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=tTpGBsq_jUo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_rH7Zy0saGE/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=_rH7Zy0saGE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eL43EJy7TLs/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=eL43EJy7TLs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/59Tmi2HIAms/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】有名曲音楽最新最新曲邦楽最人気若者音楽邦楽最新
-https://www.youtube.com/watch?v=59Tmi2HIAms
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hx9bTlQPfHk/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】心響邦楽年最新優里米津玄師
-https://www.youtube.com/watch?v=hx9bTlQPfHk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7ek3BGu2nhg/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=7ek3BGu2nhg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jlzHCIZ5Xko/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=jlzHCIZ5Xko
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-ig3OSXNiDY/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】年最新心響癒感動邦楽名曲集優里米津玄師
-https://www.youtube.com/watch?v=-ig3OSXNiDY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jg58I7d6Azg/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Pop Japan Music】有名曲最新曲邦楽最人気若者音楽音楽最新邦楽最新
-https://www.youtube.com/watch?v=Jg58I7d6Azg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/09M_N_8SOl0/maxresdefault.jpg" group-title="🌪️台灣啟示錄頻道🌪️","【全集】女鬼回陽間復仇索命「找上仙姑指路」！？警察驚覺「是10年前無名裸屍」開棺驗屍...三炷香秒斷三截！？｜徐俊相 【台灣啟示錄】20260104 @台灣啟示錄"
 https://www.youtube.com/watch?v=09M_N_8SOl0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JW1fqe9ENrw/maxresdefault.jpg" group-title="🌪️台灣啟示錄頻道🌪️","【全集】張文北市大屠殺「密謀1年8個月」奪3命後墜樓亡？！原始計畫更駭人..住處藏15汽油彈13長短刀「瀏覽紀錄愛搜隨機殺人」？｜徐俊相 【台灣啟示錄】20251228@ebcapocalypse"
@@ -8480,8 +8346,6 @@ https://www.youtube.com/watch?v=mLCHYeGQ11U
 https://www.youtube.com/watch?v=TwsNVe_rR30
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ru7Oo34p3i4/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普暫緩攻擊伊朗能源設施期限到月日伊允許友好五國船隻通過荷姆茲海峽
 https://www.youtube.com/watch?v=ru7Oo34p3i4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/p-CwRY8xrvU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【品觀點】重判年柯文哲怒吼絕不屈服上凱道黃光芹觀點芹爆戰
-https://www.youtube.com/watch?v=p-CwRY8xrvU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0rwRF51z2Po/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【品觀點】立法院朝野黨團協商社會福利及衛生環境委員會兒童托育服務法草案
 https://www.youtube.com/watch?v=0rwRF51z2Po
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fQnjYuem73I/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【品觀點】蔡正元講座國際戰略博弈經濟趨勢剖析洞察藍綠白政治意圖翟翾蘇恆柳傑克王淺秋蘇清泉蔡壁如
