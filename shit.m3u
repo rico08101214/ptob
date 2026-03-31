@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-03-31 11:17:13
+# Last Update: 2026-03-31 11:32:24
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
 http://211.23.95.147:18881/live/51_h265.ts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
@@ -170,12 +170,8 @@ https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EVATvtQHjyg/hqdefault.jpg" group-title="☣️綜藝頻道☣️",【BIF相信未來 官方頻道】掌声响起小时不间断马拉松相信未来
 https://www.youtube.com/watch?v=EVATvtQHjyg
-#EXTINF:-1 group-title="🔥直播頻道🔥",A
+#EXTINF:-1 group-title="🔥直播頻道🔥",龍華電影台
 http://cdn8.veryfast.filegear-sg.me/163189/lhdy
-#EXTINF:-1 group-title="🔥直播頻道🔥",B
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandmovie
-#EXTINF:-1 group-title="🔥直播頻道🔥",C
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=videolandsport
 #EXTINF:-1 group-title="🔥直播頻道🔥",AXN
 http://211.23.95.147:18881/live/67_h265.ts
 #EXTINF:-1 group-title="🔥直播頻道🔥",AXN
