@@ -1,7 +1,11 @@
 #EXTM3U
-# Last Update: 2026-07-06 06:38:31
+# Last Update: 2026-07-06 06:56:23
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
 https://www.youtube.com/watch?v=V1p33hqPrUk
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
+http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
+http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m_dhMSvUCIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",TVBS新聞
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vr3XyVCR4T0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",中天新聞
@@ -14,6 +18,8 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://www.youtube.com/watch?v=I4kF-1iv8kU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/u1UDaID-IGk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】瓜地馬拉國會議長訪問立院韓國瑜主持雙邊會談中天新聞
+https://www.youtube.com/watch?v=u1UDaID-IGk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XOmrLr1DQfs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】巴威颱風進逼暴風圈擴大蔣萬安侯友宜防颱整備會議中天新聞
 https://www.youtube.com/watch?v=XOmrLr1DQfs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XUIPzTBQCXw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】強颱巴威最新路徑曝北台影響大最快周四海陸警齊發中天新聞
@@ -40,8 +46,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z05J2Zo2r_c/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】序曲李登輝音樂會國家音樂廳隆重登場金曲歌王楊烈李安妮邀媒體茶敘民視快新聞
-https://www.youtube.com/watch?v=Z05J2Zo2r_c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【公視新聞網】公視新聞小時線上台湾最新時間配信中
@@ -784,36 +788,16 @@ http://cfss.cc/cdn/huya/29465866.flv
 http://cfss.cc/cdn/huya/29982634.flv
 #EXTINF:-1 group-title="👶小朋友頻道👶",宫崎骏系列
 http://cfss.cc/cdn/huya/21059614.flv
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gnDok9gtopw/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】新哆啦A夢
-https://www.youtube.com/watch?v=gnDok9gtopw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IgRPlOv-EIs/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】新哆啦A夢
+https://www.youtube.com/watch?v=IgRPlOv-EIs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rEKifG2XUZg/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】TOM and JERRY in NY
 https://www.youtube.com/watch?v=rEKifG2XUZg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/e1gbvCkwxFE/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】我們這一家
 https://www.youtube.com/watch?v=e1gbvCkwxFE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hdgvUXazd1w/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】間諜家家酒
-https://www.youtube.com/watch?v=hdgvUXazd1w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iZ44tIBbfH0/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】BanG Dream! It's MyGO
-https://www.youtube.com/watch?v=iZ44tIBbfH0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UVouDle2jHc/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】獵人HUNTER×HUNTER
-https://www.youtube.com/watch?v=UVouDle2jHc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v1ZmBzh9pxs/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】葬送的芙莉蓮
-https://www.youtube.com/watch?v=v1ZmBzh9pxs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4_JnTQCn9Kg/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】JOJO的奇妙冒險
-https://www.youtube.com/watch?v=4_JnTQCn9Kg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GlVvyu7jehk/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】進擊的巨人
-https://www.youtube.com/watch?v=GlVvyu7jehk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tBYG62NeTdU/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】蠟筆小新劇場版系列
-https://www.youtube.com/watch?v=tBYG62NeTdU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ENnjj7jQ23g/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】蠟筆小新TV版
-https://www.youtube.com/watch?v=ENnjj7jQ23g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mRCXonM5ru8/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】中華一番
-https://www.youtube.com/watch?v=mRCXonM5ru8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SHngPS2mRac/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Ani-One】遊戲王－怪獸之決鬥
-https://www.youtube.com/watch?v=SHngPS2mRac
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FsCrGmYmw9w/maxresdefault.jpg" group-title="👶小朋友頻道👶",【回歸線娛樂】凍牌~地下麻將鬥牌錄
-https://www.youtube.com/watch?v=FsCrGmYmw9w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TAS_TszmpTY/maxresdefault.jpg" group-title="👶小朋友頻道👶",【回歸線娛樂】凡爾賽玫瑰
-https://www.youtube.com/watch?v=TAS_TszmpTY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Lh6xiMlkRrg/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】海螺小姐
+https://www.youtube.com/watch?v=Lh6xiMlkRrg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aoE015fWDac/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】蠟筆小新TV版
+https://www.youtube.com/watch?v=aoE015fWDac
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BLag8MOBUg8/maxresdefault.jpg" group-title="👶小朋友頻道👶",【回歸線娛樂】真珠美人魚
 https://www.youtube.com/watch?v=BLag8MOBUg8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KbG88GiZmBI/maxresdefault.jpg" group-title="👶小朋友頻道👶",【YOYOTV】馬不停蹄金曲熱門卡通不間斷唱跳金曲兒歌
@@ -896,6 +880,8 @@ https://www.youtube.com/watch?v=Dv-pmT25qZc
 https://www.youtube.com/watch?v=MINfvOX4BzI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/r4JDIiszWqM/maxresdefault.jpg" group-title="🤸🏾‍體育頻道🤸🏾‍",【WWE Vault】New Generation
 https://www.youtube.com/watch?v=r4JDIiszWqM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HEh2-EwNwoM/maxresdefault.jpg" group-title="🎵音樂頻道🎵",開車專用
+https://www.youtube.com/watch?v=HEh2-EwNwoM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/q8hw5oKCDp4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【周杰倫】音樂時光機
 https://www.youtube.com/watch?v=q8hw5oKCDp4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/R62E7cFWX6o/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【五月天】不間斷霸佔你耳朵
