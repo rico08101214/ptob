@@ -1,6 +1,6 @@
 #EXTM3U
-# Last Update: 2026-07-06 08:23:02
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",東森新聞
+# Last Update: 2026-07-06 10:00:15
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】
 https://www.youtube.com/watch?v=V1p33hqPrUk
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
@@ -14,10 +14,14 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】頻道小時線上台湾時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/59hcNlJ0v_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】西班牙年度盛事奔牛節熱鬧登場原音呈現
+https://www.youtube.com/watch?v=59hcNlJ0v_E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞台小時台湾世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_eZvTFFdIyY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天新聞CtiNews】毒油案總統說重話各界反應曝綠委指控三大油商是加害者北市週五進暴風圈估陸警矢板明夫演講遭重拳毆臉濺血簡至豪報新聞中天新聞
 https://www.youtube.com/watch?v=_eZvTFFdIyY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rVTBS74vNqU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】致癌油名單再擴大增至家食藥署下令原料改採逐批檢驗中天新聞
+https://www.youtube.com/watch?v=rVTBS74vNqU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XUIPzTBQCXw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】強颱巴威最新路徑曝北台影響大最快周四海陸警齊發中天新聞
 https://www.youtube.com/watch?v=XUIPzTBQCXw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -30,8 +34,12 @@ https://www.youtube.com/watch?v=dK_KZ6L6fzo
 https://www.youtube.com/watch?v=ADZTiqEGT8g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FOc1DGS9H0M/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台灣颱風論壇】花蓮吉安即時天氣影像台湾花蓮県吉安駅付近
 https://www.youtube.com/watch?v=FOc1DGS9H0M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_Kvkpqjnjdc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台視新聞】致癌油風暴續燒食藥署記者會
+https://www.youtube.com/watch?v=_Kvkpqjnjdc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【台視新聞】台小時線上台湾
 https://www.youtube.com/watch?v=9iRAqBMakXY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YLO3JrsxVIc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】食安毒油風暴食藥署最新進度說明
+https://www.youtube.com/watch?v=YLO3JrsxVIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/50B4cMvraMk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】新庶民大頭家
 https://www.youtube.com/watch?v=50B4cMvraMk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】頻道小時線上台湾
@@ -42,20 +50,28 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ctwfmKY9ndc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】北車辣椒水攻擊民眾咳不停報警警鎖定犯案男子海上隻小海龜被漁網纏繞澎湖浮潛業者果斷救援男為十萬元債務殺人凶手女友屏東落網聲押
+https://www.youtube.com/watch?v=ctwfmKY9ndc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/31m8rLxLpyk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】致癌油風暴席捲全台食藥署發表因應作為及政策說明民視快新聞
+https://www.youtube.com/watch?v=31m8rLxLpyk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】民視新聞小時新聞台湾
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【公視新聞網】公視新聞小時線上台湾最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】台湾番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映戲說真人生
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映大愛真健康
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映戲說真人生
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映好戲成雙聽見愛
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BmgEPI7nq7I/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】毒沙拉油流向全台食藥署記者會說明
-https://www.youtube.com/watch?v=BmgEPI7nq7I
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vixl2KBNSiI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】狗仔案陳美吟身分遭起底黃國昌冷回沒必要公噸致癌油流向未明昌問中央如何咎責依托咪酯氾濫原料多來自中國愛文芒果賣到法國顆遭批假的農業局回三箭穩市場下班鏡來講
+https://www.youtube.com/watch?v=Vixl2KBNSiI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SuF8OsP2tGA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】晚間新聞
+https://www.youtube.com/watch?v=SuF8OsP2tGA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞台湾時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DyJCU37BzTg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【Focus全球新聞】西班牙年度盛事奔牛節熱鬧登場原音呈現
+https://www.youtube.com/watch?v=DyJCU37BzTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】以色列再度攻擊黎巴嫩黎控以多次違反停火協議全球緊盯美伊談判荷莫茲通行成經濟前景關鍵台
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】台灣台小時台湾時間配信中
@@ -74,6 +90,8 @@ https://www.youtube.com/watch?v=1I2iq41Akmo
 https://www.youtube.com/watch?v=AEBeWMM1atA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yAUQQ0DhPxI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇財經新聞】寰宇新聞財經台小時線上台湾時間配信中
 https://www.youtube.com/watch?v=yAUQQ0DhPxI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zZuJ1vZD1e8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【非凡電視】致癌油風暴續燒食藥署記者會
+https://www.youtube.com/watch?v=zZuJ1vZD1e8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eA6Aczd3FZM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【非凡電視】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
 https://www.youtube.com/watch?v=eA6Aczd3FZM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xLqt2p6Dowo/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【非凡商業台】非凡財經節目新聞小時台股盤中即時分析股市現場全球財經世界報導
@@ -140,6 +158,8 @@ https://www.youtube.com/watch?v=UJgN7q6jpns
 https://www.youtube.com/watch?v=v8MUGB4vst8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cimbpAZUjzw/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【東森綜合台】頻道小時台湾番組時間放送
 https://www.youtube.com/watch?v=cimbpAZUjzw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/yHrtD0nsdwk/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【關鍵時刻】東森晚安新聞巴威挑戰今年風王周五晚周六影響最劇中北宜豪大雨周五有機會颱風假暴風侵襲率北北基桃矢板明夫台中遭襲男尾隨重拳毆臉逃逸
+https://www.youtube.com/watch?v=yHrtD0nsdwk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【非凡大探索】美食篇不間斷
@@ -954,6 +974,8 @@ https://www.youtube.com/watch?v=b-bK2Vn3D38
 https://www.youtube.com/watch?v=x-JC7sJJUW8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hXyRD5vbKpo/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Radio Mix】Dance Radio Mix
 https://www.youtube.com/watch?v=hXyRD5vbKpo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/AiVe246xW6Q/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】The Good Time R
+https://www.youtube.com/watch?v=AiVe246xW6Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ahveWCUL5Q8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Music Radio Tod
 https://www.youtube.com/watch?v=ahveWCUL5Q8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MEf8erMTsGs/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Too Music】Too Music Radio
@@ -8348,6 +8370,8 @@ https://www.youtube.com/watch?v=4Pwmb1UBGVM
 https://www.youtube.com/watch?v=2wzDK1IgJRY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NKexMZcpqDA/maxresdefault.jpg" group-title="💖英文老歌精選頻道💖",【最後の雨】
 https://www.youtube.com/watch?v=NKexMZcpqDA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Nni1rk1xtSU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】西班牙年度盛事奔牛節熱鬧登場原音呈現
+https://www.youtube.com/watch?v=Nni1rk1xtSU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pkLOXxMlt20/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=pkLOXxMlt20
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
@@ -8356,12 +8380,14 @@ https://www.youtube.com/watch?v=HiI-7_jeKxo
 https://www.youtube.com/watch?v=wg3YvOjaImI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Y1i2K-8DJrc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】未來小時皆巔峰巴威何時觸陸週四關鍵三立新聞網
-https://www.youtube.com/watch?v=Y1i2K-8DJrc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KXuD7_0qHR0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】颱風假有望專家巴威發海警達三立新聞網
+https://www.youtube.com/watch?v=KXuD7_0qHR0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】暴雨炸台灣多處淹水時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9WO_9XPLYIM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】🔴LIVE：2026.07.0
-https://www.youtube.com/watch?v=9WO_9XPLYIM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2WOmbp9lb-A/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【國民大會】強颱巴威未達巔峰挑戰風王不只強環流還大週五暴風圈罩北台
+https://www.youtube.com/watch?v=2WOmbp9lb-A
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IHfiOGZu3LY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】食安毒油風暴食藥署最新進度說明
+https://www.youtube.com/watch?v=IHfiOGZu3LY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qzZJrj9245M/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】小時不斷電為您呈現無人機條款藍綠兩黨天差地遠郭正亮頻道
 https://www.youtube.com/watch?v=qzZJrj9245M
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GrPoyBhdR6w/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞龍捲風】強颱巴威最新路徑曝北台影響大最快周四海陸警齊發
@@ -8372,8 +8398,6 @@ https://www.youtube.com/watch?v=Gzo0sDZ4Fcg
 https://www.youtube.com/watch?v=oXXrdLH1tew
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0YXohIjdFiY/maxresdefault.jpg" group-title="🥱購物🥱",【寶島文化台】寶島文化電視台現場
 https://www.youtube.com/watch?v=0YXohIjdFiY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tyUfCgT08xQ/maxresdefault.jpg" group-title="🥱購物🥱",【三聖電視台】三聖電視台-直播
-https://www.youtube.com/watch?v=tyUfCgT08xQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/gd-Z4tuPcPA/maxresdefault.jpg" group-title="🥱購物🥱",【桐瑛台中電視臺】「桐瑛台中電視臺」直播
 https://www.youtube.com/watch?v=gd-Z4tuPcPA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iSbtIyrvuR4/maxresdefault.jpg" group-title="🥱購物🥱",【桐瑛虎尾電視臺】「桐瑛虎尾電視臺」直播
