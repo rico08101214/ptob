@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="stream-2c9bbca8-b976-42ad-802e-7caf593475e0" tvg-name="Elta体育1台" group-title="推流 (export)",Elta体育1台
+http://192.129.226.68:5678/live/stream-2c9bbca8-b976-42ad-802e-7caf593475e0/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+#EXTINF:-1 tvg-id="stream-5243af26-c224-44f8-9105-b77854e079e3" tvg-name="Elta體育2台" group-title="推流 (export)",Elta體育2台
+http://192.129.226.68:5678/live/stream-5243af26-c224-44f8-9105-b77854e079e3/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+#EXTINF:-1 tvg-id="stream-b9f92117-ba7b-43cd-a018-33b8a9f50804" tvg-name="Elta體育3台" group-title="推流 (export)",Elta體育3台
+http://192.129.226.68:5678/live/stream-b9f92117-ba7b-43cd-a018-33b8a9f50804/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他 (channel)",民視第一台
 http://106.107.242.201:50007/4gtv-live403/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV2.png" group-title="綜合其他 (channel)",民視第一台
@@ -25,8 +31,6 @@ http://106.107.242.201:50007/4gtv-4gtv043/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 http://106.107.242.201:50007/4gtv-4gtv039/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS3.png" group-title="音樂綜藝 (channel)",TVBS精采台
 http://106.107.242.201:50007/4gtv-4gtv067/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-#EXTINF:-1 tvg-id="愛爾達寵物運動台" tvg-name="愛爾達寵物運動台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070_mobile.png" group-title="綜合其他 (channel)",愛爾達寵物運動台
-http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV1.png" group-title="綜合其他 (channel)",靖天綜合
 http://106.107.242.201:50007/4gtv-4gtv046/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GoldenTV6.png" group-title="綜合其他 (channel)",靖天日本
@@ -138,7 +142,19 @@ http://106.107.242.201:50007/4gtv-4gtv059/index.m3u8?token=oBLnyzLuUwG0z7J6R62QY
 #EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他 (channel)",東森購物三台
 http://106.107.242.201:50007/4gtv-live048/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/pc/logo_INULTRA_mobile.png" group-title="生活旅遊 (channel)",INULTRA
-http://106.107.242.201:50007/4gtv-live096/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+http://106.107.242.201:50007/4gtv-4gtv070/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TraceSport.png" group-title="體育競技 (channel)",TRACE Sport Stars
+http://106.107.242.201:50007/4gtv-4gtv077/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TSL.png" group-title="體育競技 (channel)",智林體育
+http://106.107.242.201:50007/4gtv-4gtv101/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技 (channel)",時尚運動X
+http://106.107.242.201:50007/4gtv-live411/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ssydX.png" group-title="體育競技 (channel)",時尚運動X
+http://106.107.242.201:50007/4gtv-4gtv014/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="體育競技 (channel)",車迷 TV
+http://106.107.242.201:50007/4gtv-live201/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/GINXesport.png" group-title="體育競技 (channel)", GINX Esports TV
+http://106.107.242.201:50007/4gtv-4gtv053/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV5.png" group-title="生活旅遊 (channel)",民視旅遊
 http://106.107.242.201:50007/litv-ftv07/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="滾動力ROLLOR" tvg-name="滾動力ROLLOR" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="生活旅遊 (channel)",滾動力 Rollor
@@ -301,8 +317,6 @@ http://106.107.242.201:50007/litv-xinchuang21/index.m3u8?token=oBLnyzLuUwG0z7J6R
 http://106.107.242.201:50007/of-4gtv-4gtv102/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="東森購物2台" tvg-name="東森購物2台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC11.png" group-title="綜合其他 (channel)",東森購物二台
 http://106.107.242.201:50007/of-4gtv-4gtv103/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
-#EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞財經 (channel)",倪珍播新聞
-http://106.107.242.201:50007/nnews-zh/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-id="DayStar" tvg-name="DayStar" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/Daystar_128x72.png" group-title="綜合其他 (channel)",DayStar
 http://106.107.242.201:50007/daystar/index.m3u8?token=oBLnyzLuUwG0z7J6R62QYGsG39fpVmcGg0V9YZi1n4zQsoRkxKJ0jfbmQNvQxXbe
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.catvod.com/中视.png" group-title="備用頻道 (backup)",中视
