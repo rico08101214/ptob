@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-27 01:29:25
+# Last Update: 2026-07-27 01:36:54
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
@@ -16,12 +16,14 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】頻道小時線上臺灣時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej_NMVxP8lM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】國民黨全代會落幕鄭麗文今再召開中評會
-https://www.youtube.com/watch?v=Ej_NMVxP8lM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞臺小時臺灣世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cS_j0d5XgQg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天新聞CtiNews】怒吼潮綠側翼空拍玄機民進黨竟轟如鬧劇般遊行老神在在後國民黨轉變了合成總統聲音黃韻築林佩潔報新聞中天新聞
 https://www.youtube.com/watch?v=cS_j0d5XgQg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/BjZJ5PQijx0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】凱道集結爭司法正義國民黨團籲全民拒絕毒酒駕中天新聞
+https://www.youtube.com/watch?v=BjZJ5PQijx0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2skuoJrIPdg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】雲林電競派對熱血開戰宣傳記者會現場最新中天新聞
+https://www.youtube.com/watch?v=2skuoJrIPdg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hkHaHN__6tA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】無人機採購草案審議顧立雄列席立院備詢中天新聞
 https://www.youtube.com/watch?v=hkHaHN__6tA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/v9VPfjwPuC0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】增提主席強化對外政績鄭麗文出席中評會致詞中天新聞
@@ -52,8 +54,6 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LZHxKT3-agg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】竹市有毒甲醛炊粉延遲週公佈綠轟高虹安蓋牌流向說不清民視快新聞
-https://www.youtube.com/watch?v=LZHxKT3-agg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fH3O8zTXawc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】強化不對稱戰力國防自主無人載具採購特別條例草案經濟委員會審議最新民視快新聞
 https://www.youtube.com/watch?v=fH3O8zTXawc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】民視新聞小時新聞臺灣
@@ -64,10 +64,10 @@ https://www.youtube.com/watch?v=quwqlazU-c8
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映大愛醫生館
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wNRuZ_6Dxv8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】國民黨主席鄭麗文出席中評會致詞
-https://www.youtube.com/watch?v=wNRuZ_6Dxv8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SsqBq6bxlf4/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】再號召凱道集結反毒酒駕國民黨團行前記者會
+https://www.youtube.com/watch?v=SsqBq6bxlf4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OLge4-7Oc-I/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】審查無人載具條例經濟外交及國防財政聯席會議
 https://www.youtube.com/watch?v=OLge4-7Oc-I
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L54tr82eDQ4/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】外資變臉大賣臺股恐怕還沒跌完教你看懂止跌訊號賺錢鏡來講
@@ -82,8 +82,8 @@ https://www.youtube.com/watch?v=w87VGpgd90U
 https://www.youtube.com/watch?v=6IquAgfvYmc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LqIMxdJiztU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇全視界】寰宇新聞臺小時線上臺灣時間配信中
 https://www.youtube.com/watch?v=LqIMxdJiztU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/itNZNu5O8xI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【udn video】國民黨中評會主席鄭麗文發表談話
-https://www.youtube.com/watch?v=itNZNu5O8xI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FZKk-DRmrGQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【udn video】新竹炊粉驗出毒甲醛民進黨批高虹安食安把關失靈
+https://www.youtube.com/watch?v=FZKk-DRmrGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G88WzdR5QRA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【udn video】無人載具採購特別條例草案經濟國防財政三委員會聯席會議
 https://www.youtube.com/watch?v=G88WzdR5QRA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jW6_ySqtV_M/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【CNEWS匯流新聞網】立法院教育及文化委員會全體委員會議繼續審查教師解聘辦法教師成績考核辦法
@@ -8386,12 +8386,12 @@ https://www.youtube.com/watch?v=ZGxzo6ZGnzE
 https://www.youtube.com/watch?v=WVFx4rlbQuk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rRHpoamBivo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】凱道集結爭司法正義國民黨團籲全民拒絕毒酒駕
+https://www.youtube.com/watch?v=rRHpoamBivo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KiEcPsK8gTg/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】增提主席強化對外政績鄭麗文出席中評會致詞
 https://www.youtube.com/watch?v=KiEcPsK8gTg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RDWUf7CQbns/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】無人機採購草案審議顧立雄列席立院備詢
 https://www.youtube.com/watch?v=RDWUf7CQbns
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UWY8e42WlyU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】國民黨全代會落幕鄭麗文今再召開中評會
-https://www.youtube.com/watch?v=UWY8e42WlyU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YHdVeauGC1E/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】重提訪美獲重視遭酸鄭麗文出席中評會致詞
 https://www.youtube.com/watch?v=YHdVeauGC1E
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k2UG3tYBmWc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】無人機採購草案審議顧立雄列席立院備詢
@@ -8408,6 +8408,8 @@ https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 https://www.youtube.com/watch?v=rMKMaMkdbAY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WZbRW_6ORFg/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【品觀點】立法院教育及文化委員會全體委員會議繼續審查教師解聘辦法教師成績考核辦法
 https://www.youtube.com/watch?v=WZbRW_6ORFg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ed7EUuk_VTA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【觀點】中國進場西亞和平出現曙光
+https://www.youtube.com/watch?v=ed7EUuk_VTA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="🥱購物🥱",【海豚多媒體】海豚綜合臺線上
 https://www.youtube.com/watch?v=qBNZQMccyME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SKgMOnfoxXo/maxresdefault.jpg" group-title="🥱購物🥱",【寶島文化臺】寶島文化電視臺現場
