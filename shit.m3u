@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-28 06:19:57
+# Last Update: 2026-07-28 06:30:17
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=E0zhe2gkXBs
 https://www.youtube.com/watch?v=jSNZxi65Kug
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞臺小時臺灣世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lTWElZchkbA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lTWElZchkbA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】蔣萬安有事衝著我來不要找小編查水錶凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
 https://www.youtube.com/watch?v=lTWElZchkbA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2VlGZX_YNic/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】遭民眾黨批考察報告爛到爆徐佳青怒回嗤之以鼻中天新聞
 https://www.youtube.com/watch?v=2VlGZX_YNic
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】臺灣番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映好戲成雙搜尋者
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映慈濟充滿愛
 https://www.youtube.com/watch?v=pM-1ytfQhos
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者
 https://www.youtube.com/watch?v=QDxRJP-wfeI
@@ -100,13 +100,11 @@ https://www.youtube.com/watch?v=xLqt2p6Dowo
 https://www.youtube.com/watch?v=0jb04p09RaU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ai_SsuBkXLM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【全球財經臺2】全球財經臺
 https://www.youtube.com/watch?v=ai_SsuBkXLM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zmWL5pTajRw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【BNE TV - 紐西蘭中文國際頻道】臉皮是有多厚中日外交上演名場面外交部還是太體面了三妹說亮話
-https://www.youtube.com/watch?v=zmWL5pTajRw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vNVp6bxkL1c/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【LIVE NOW】全球新聞熱點時事點評深度報道紀錄片電視劇等
 https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【LIVE NOW】全球新聞熱點時事點評深度報道紀錄片電視劇等
 https://www.youtube.com/watch?v=PiSwAy-blvA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】習近平同斯洛伐克總統佩列格里尼會談特朗普同日會晤以總理及烏總統美威脅制裁中國企業中方霸權行徑小時間鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】商務部釋出產能過剩中方立場以總理抵美次日將與特朗普舉行會談中國青海海南州興海縣連發兩次級以上地震小時間鳳凰衛視
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
 #EXTINF:-1 group-title="☣️綜藝頻道☣️",全民星攻略
 video://https://www.faintv.com/channel/18310
@@ -8372,7 +8370,7 @@ https://www.youtube.com/watch?v=EkCsHcEulB0
 https://www.youtube.com/watch?v=XZCnR1RcRNA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x3XZ7hMQkp0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】上凱道後再提倒閣蔣萬安北捷新列車發表會最新
 https://www.youtube.com/watch?v=x3XZ7hMQkp0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lqb_UdFEk20/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lqb_UdFEk20/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】蔣萬安有事衝著我來不要找小編查水錶凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
 https://www.youtube.com/watch?v=lqb_UdFEk20
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hOkt9tg-oTM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
 https://www.youtube.com/watch?v=hOkt9tg-oTM
