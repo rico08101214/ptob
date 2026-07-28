@@ -1,10 +1,10 @@
 #EXTM3U
-# Last Update: 2026-07-28 07:34:22
-#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
+# Last Update: 2026-07-28 12:32:10
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔥東森新聞🔥
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔥東森新聞🔥
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
-#EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
+#EXTINF:-1 group-title="⚠️新聞頻道⚠️",🔥東森新聞🔥
 http://211.23.95.147:18881/live/51_h265.ts
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/V1p33hqPrUk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】
 https://www.youtube.com/watch?v=V1p33hqPrUk
@@ -14,14 +14,22 @@ https://www.youtube.com/watch?v=m_dhMSvUCIc
 https://www.youtube.com/watch?v=vr3XyVCR4T0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uDqQo8a7Xmk/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TTV LIVE 臺視直播】臺視
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ju5vVzfGEDg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】東森世界日報熊本強震棟房屋倒塌熊本購物中心爆炸警方證實多人死亡熊本強震臺受困機場曝當地現況比還可怕
+https://www.youtube.com/watch?v=ju5vVzfGEDg
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9Top3nWSVDw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】熊本永旺商場爆炸倒塌警證實多人死亡日本熊本強震地塹裂開威力如顆原子彈郭鎧紋示警恐有更大規模強震當心阿蘇火山爆發
+https://www.youtube.com/watch?v=9Top3nWSVDw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】頻道小時線上臺灣時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8SEtsb6sBt4/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】熊本強震路斷屋塌埋多人永旺夢樂商場爆炸死傷不明公公刀砍死媳婦曝動機冷血丈夫不聞問
+https://www.youtube.com/watch?v=8SEtsb6sBt4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞臺小時臺灣世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ec05QL2R5OM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
-https://www.youtube.com/watch?v=Ec05QL2R5OM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/orEkp9WIn7c/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】川普關稅反逼盟友靠中國全球領袖排隊訪中搶市場與供應鏈中天電視
-https://www.youtube.com/watch?v=orEkp9WIn7c
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/flcEkK0p9TY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】性感到底誰說了算男女眼中的大性感瞬間大公開魅惑專家小金中天電視
+https://www.youtube.com/watch?v=flcEkK0p9TY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PhLMABMZg3s/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】吳子嘉董事長時事解析每週一至週五見吳子嘉中天電視
+https://www.youtube.com/watch?v=PhLMABMZg3s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Xd_w3z0pxDU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】日本熊本強震最大震度海嘯警報發布中天新聞
+https://www.youtube.com/watch?v=Xd_w3z0pxDU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m1i3iBSNick/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉中天新聞
 https://www.youtube.com/watch?v=m1i3iBSNick
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -34,10 +42,10 @@ https://www.youtube.com/watch?v=dK_KZ6L6fzo
 https://www.youtube.com/watch?v=ADZTiqEGT8g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FOc1DGS9H0M/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺灣颱風論壇】花蓮吉安即時天氣影像臺灣花蓮県吉安駅付近
 https://www.youtube.com/watch?v=FOc1DGS9H0M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mF-qE-BwLbs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺視新聞】整點大頭條
+https://www.youtube.com/watch?v=mF-qE-BwLbs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺視新聞】臺小時線上臺灣
 https://www.youtube.com/watch?v=9iRAqBMakXY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h8OS1OhCbxw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】鄭麗文南下彰化合體魏平政出席婦女精英領袖成長營
-https://www.youtube.com/watch?v=h8OS1OhCbxw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】頻道小時線上臺灣
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞 HD】中視新聞頻道小時線上臺灣
@@ -52,20 +60,24 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】臺灣番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映戲說真人生
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映大愛學漢醫
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映戲說真人生
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/613AcURjOUk/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】蔣拋倒閣藍反應淡為切割鄭麗文保立委席次不上班只想搶共主萬安荒廢市政搞政治才哭窮沒錢陳佩琪卻跑中國爽玩一週萬美玲家族再捲爭議涉違法賣車位獲利億大選鏡來講
-https://www.youtube.com/watch?v=613AcURjOUk
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7nEASY-3HZU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】蔣萬安授意深偽賴清德聲音喊倒閣當玩吹牛陳其邁不爽開嗆秀美臺海巡同框照盧秀燕議會上演甩鍋毒油秀
+https://www.youtube.com/watch?v=7nEASY-3HZU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞臺灣時間放送
 https://www.youtube.com/watch?v=5n0y6b0Q25o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】美加徵關稅引爆貿易戰巴西擬祭經濟互等法反擊美軍連續開轟伊朗白宮美伊仍持續對話能力臺
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1my2Dwi8mhY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】熊本規模強震相當顆原子彈日相高市早苗指示全力救援臺積電熊本廠也受影響
+https://www.youtube.com/watch?v=1my2Dwi8mhY
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ej3LQM_lTEw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】熊本大地震熊本城建築倒塌畫面曝美軍連續開轟伊朗白宮美伊仍持續對話能力臺
 https://www.youtube.com/watch?v=Ej3LQM_lTEw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/w87VGpgd90U/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】臺灣臺小時臺灣時間配信中
 https://www.youtube.com/watch?v=w87VGpgd90U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6IquAgfvYmc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇新聞】小時線上臺灣時間配信中
 https://www.youtube.com/watch?v=6IquAgfvYmc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_BiaWvCGSe8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇全視界】熊本規模強震相當顆原子彈日相高市早苗指示全力救援臺積電熊本廠也受影響寰宇新聞
+https://www.youtube.com/watch?v=_BiaWvCGSe8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/LqIMxdJiztU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【寰宇全視界】寰宇新聞臺小時線上臺灣時間配信中
 https://www.youtube.com/watch?v=LqIMxdJiztU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Bhp_V7H5QoY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【新唐人亞太電視臺】新唐人小時
@@ -86,27 +98,29 @@ https://www.youtube.com/watch?v=xLqt2p6Dowo
 https://www.youtube.com/watch?v=0jb04p09RaU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ai_SsuBkXLM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【全球財經臺2】全球財經臺
 https://www.youtube.com/watch?v=ai_SsuBkXLM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/C1bLUSLCVfg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【POP Radio聯播網】專訪瑋瑋黃挺瑋
+https://www.youtube.com/watch?v=C1bLUSLCVfg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vNVp6bxkL1c/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【LIVE NOW】全球新聞熱點時事點評深度報道紀錄片電視劇等
 https://www.youtube.com/watch?v=vNVp6bxkL1c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PiSwAy-blvA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【LIVE NOW】全球新聞熱點時事點評深度報道紀錄片電視劇等
 https://www.youtube.com/watch?v=PiSwAy-blvA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】商務部釋出產能過剩中方立場以總理抵美次日將與特朗普舉行會談中國青海海南州興海縣連發兩次級以上地震小時間鳳凰衛視
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ry--eMIjYLQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鳳凰衛視PhoenixTV】習近平希望斯方為中歐關係發展發揮作用特朗普美以在伊朗問題上存在分歧據報中國開始量產光刻機小時間鳳凰衛視
 https://www.youtube.com/watch?v=Ry--eMIjYLQ
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",全民星攻略
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱全民星攻略🔱
 video://https://www.faintv.com/channel/18310
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",點相II破局
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱點相II破局🔱
 video://https://www.faintv.com/channel/22633
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",請問今晚住誰家
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱請問今晚住誰家🔱
 video://http://www.faintv.com/channel/20309
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",請問今晚住誰家
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱請問今晚住誰家🔱
 https://live2-faintv.cdn.hinet.net/live_HLS/cstv09.stream/playlist.m3u8?token=U9-QVuEvok68s5AkU11ycQ&expires=1774966033
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",花甲少年趣旅行
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱花甲少年趣旅行🔱
 video://http://www.faintv.com/channel/20559
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",花甲少年趣旅行
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱花甲少年趣旅行🔱
 https://live2-faintv.cdn.hinet.net/live_HLS/cstv10.stream/playlist.m3u8?token=-qMZ3kxfyk5-1uCPUZ5m3w&expires=1774965993
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",臺灣啟示錄
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱臺灣啟示錄🔱
 video://http://www.faintv.com/channel/18254
-#EXTINF:-1 group-title="☣️綜藝頻道☣️",臺灣啟示錄
+#EXTINF:-1 group-title="☣️綜藝頻道☣️",🔱臺灣啟示錄🔱
 https://live4-faintv.cdn.hinet.net/live_HLS/M061.stream/playlist.m3u8?token=sue2gGCMlkbwi-uwl1a7HQ&expires=1774965914
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5sFglcMEm7I/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【57怪奇物語】怪奇物語頻道小時線上精選合集
 https://www.youtube.com/watch?v=5sFglcMEm7I
@@ -146,6 +160,12 @@ https://www.youtube.com/watch?v=UJgN7q6jpns
 https://www.youtube.com/watch?v=v8MUGB4vst8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cimbpAZUjzw/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【東森綜合臺】頻道小時臺灣番組時間放送
 https://www.youtube.com/watch?v=cimbpAZUjzw
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HZIkqRbSmX8/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【關鍵時刻】東森世界日報熊本強震棟房屋倒塌熊本購物中心爆炸警方證實多人死亡熊本強震臺受困機場曝當地現況比還可怕
+https://www.youtube.com/watch?v=HZIkqRbSmX8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QWo7ZX0cBXA/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【關鍵時刻】熊本永旺商場爆炸倒塌警證實多人死亡日本熊本強震地塹裂開威力如顆原子彈郭鎧紋示警恐有更大規模強震當心阿蘇火山爆發
+https://www.youtube.com/watch?v=QWo7ZX0cBXA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/8kpc2OPkf4U/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【型男大主廚】Fresh food from
+https://www.youtube.com/watch?v=8kpc2OPkf4U
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/SdvgdCOwKCg/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【非凡大探索】美食篇不間斷
 https://www.youtube.com/watch?v=SdvgdCOwKCg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6iu77C-6Y7k/maxresdefault.jpg" group-title="☣️綜藝頻道☣️",【非凡大探索】美食篇不間斷
@@ -970,7 +990,7 @@ http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
 #EXTINF:-1 group-title="🎥電影頻道🎥",林正英影院
 http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxL_MrnaHOY/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【戲說臺灣】有情人終成眷屬情人精選小時不間斷
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxL_MrnaHOY/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【☯️戲說臺灣☯️】有情人終成眷屬情人精選戲說臺灣小時不間斷
 https://www.youtube.com/watch?v=OxL_MrnaHOY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qZ1sr-gvc54/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【中視經典戲劇】十里桃林三生約三世情緣永相隨小時不間斷經典戲劇看中視
 https://www.youtube.com/watch?v=qZ1sr-gvc54
@@ -1020,6 +1040,8 @@ https://www.youtube.com/watch?v=4rFLnrnu-X0
 https://www.youtube.com/watch?v=6lKL5znyZkc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ldx0f5_49kI/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【影視劇匯蹤】都挺好全集不間斷姚晨走出重男輕女的家庭獨自打拼倪大紅作天作地花式折騰兒女眾星雲集演繹中國式家庭姚晨倪大紅郭京飛領銜主演
 https://www.youtube.com/watch?v=Ldx0f5_49kI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5jdJpNDdvy4/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【精選大劇】屍證追兇荒山木箱驚現屍體眾人證詞真假難辨一場騙保迷局牽出橫跨十年連環罪案
+https://www.youtube.com/watch?v=5jdJpNDdvy4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/I6rkTBDzOEk/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【百納經典獨播劇場】馬拉松高畫質不卡天花板國產諜戰劇全程高能美劇節奏懸念重重一起重溫吳秀波成名之作沉浸式體驗百納獨播劇場
 https://www.youtube.com/watch?v=I6rkTBDzOEk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/agheq71MgcY/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【百納經典獨播劇場】馬拉松高畫質不卡孫紅雷和姚晨假扮夫妻演繹一曲險象環生的諜戰情緣百納獨播劇場
@@ -1030,6 +1052,8 @@ https://www.youtube.com/watch?v=ODndCtNkSi4
 https://www.youtube.com/watch?v=Er4cPi2wUog
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ycckrzTOo2M/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【華錄百納熱播劇場】馬拉松品味紅學致敬經典高畫質不卡一鏡到底沉浸體驗百納熱播劇場
 https://www.youtube.com/watch?v=ycckrzTOo2M
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9Xs9S8myjTc/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【MangoTV】野狗骨頭
+https://www.youtube.com/watch?v=9Xs9S8myjTc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UgOi92IvONg/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【CCTV電視劇】大聖歸來經典再現版西遊記帶你感受原版魅力西遊記
 https://www.youtube.com/watch?v=UgOi92IvONg
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1QRGOeab93Y/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【CCTV電視劇】二十年彈指一揮間小郭祝你自由馬拉松武林外傳另類喜劇戲說江湖
@@ -1064,29 +1088,29 @@ https://www.youtube.com/watch?v=eyZ55jMTyMQ
 https://www.youtube.com/watch?v=VUhn--NP6vM
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pHYuCSLcy98/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【正午陽光官方頻道】趙麗穎馮紹峰上演古代宅門愛戀大戲知否知否應是綠肥紅瘦
 https://www.youtube.com/watch?v=pHYuCSLcy98
-#EXTINF:-1 group-title="👶小朋友頻道👶",名偵探柯南
+#EXTINF:-1 group-title="👶小朋友頻道👶",【名偵探柯南】
 https://live.ottiptv.cc/huya/30080236
-#EXTINF:-1 group-title="👶小朋友頻道👶",火影忍者
+#EXTINF:-1 group-title="👶小朋友頻道👶",【火影忍者】
 https://live.ottiptv.cc/huya/29465866
-#EXTINF:-1 group-title="👶小朋友頻道👶",海賊王
+#EXTINF:-1 group-title="👶小朋友頻道👶",【海賊王】
 https://live.ottiptv.cc/huya/29982634
-#EXTINF:-1 group-title="👶小朋友頻道👶",精靈寶可夢
+#EXTINF:-1 group-title="👶小朋友頻道👶",【精靈寶可夢】
 https://live.ottiptv.cc/huya/23749096
-#EXTINF:-1 group-title="👶小朋友頻道👶",七龍珠
+#EXTINF:-1 group-title="👶小朋友頻道👶",【七龍珠】
 https://live.ottiptv.cc/huya/11601966
-#EXTINF:-1 group-title="👶小朋友頻道👶",頭文字D
+#EXTINF:-1 group-title="👶小朋友頻道👶",【頭文字D】
 https://live.ottiptv.cc/huya/11352889
-#EXTINF:-1 group-title="👶小朋友頻道👶",哆啦A夢動漫
+#EXTINF:-1 group-title="👶小朋友頻道👶",【哆啦A夢動漫】
 https://live.iill.top/huya/11601963
-#EXTINF:-1 group-title="👶小朋友頻道👶",航海王
+#EXTINF:-1 group-title="👶小朋友頻道👶",【航海王】
 https://live.iill.top/huya/16913382
-#EXTINF:-1 group-title="👶小朋友頻道👶",七龍珠
+#EXTINF:-1 group-title="👶小朋友頻道👶",【七龍珠】
 https://live.iill.top/huya/11601966
-#EXTINF:-1 group-title="👶小朋友頻道👶",火影忍者
+#EXTINF:-1 group-title="👶小朋友頻道👶",【火影忍者】
 http://cfss.cc/cdn/huya/29465866.flv
-#EXTINF:-1 group-title="👶小朋友頻道👶",海賊王
+#EXTINF:-1 group-title="👶小朋友頻道👶",【海賊王】
 http://cfss.cc/cdn/huya/29982634.flv
-#EXTINF:-1 group-title="👶小朋友頻道👶",宮崎駿系列
+#EXTINF:-1 group-title="👶小朋友頻道👶",【宮崎駿系列】
 http://cfss.cc/cdn/huya/21059614.flv
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IgRPlOv-EIs/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Muse木棉花】新哆啦A夢
 https://www.youtube.com/watch?v=IgRPlOv-EIs
@@ -1142,12 +1166,12 @@ https://www.youtube.com/watch?v=9XVLyxHypbs
 https://www.youtube.com/watch?v=Me0qdV9XQgQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/_rF9PlCNHcI/maxresdefault.jpg" group-title="👶小朋友頻道👶",【神奇雞仔】兒歌童謠卡通動畫
 https://www.youtube.com/watch?v=_rF9PlCNHcI
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/dZnIZFtbvsI/maxresdefault.jpg" group-title="👶小朋友頻道👶",【朱妮託尼 - 動畫兒歌】尋找消失的兔子耳朵到底躲在哪兒呢快幫小兔子找找吧動物兒歌朱妮託尼
+https://www.youtube.com/watch?v=dZnIZFtbvsI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZzcAP8m5t-4/maxresdefault.jpg" group-title="👶小朋友頻道👶",【朱妮託尼 - 動畫兒歌】工程車們受傷啦哎呀哎呀哎呀哎呀安全教育朱妮託尼兒歌兒歌童謠卡通動畫朱妮託尼童話故事
 https://www.youtube.com/watch?v=ZzcAP8m5t-4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/oyB5wC3BN_w/maxresdefault.jpg" group-title="👶小朋友頻道👶",【朱妮託尼 - 動畫兒歌】奇怪但有趣的食物組合這到底是什麼味道朱妮託尼兒歌兒歌童謠卡通動畫朱妮託尼童話故事
 https://www.youtube.com/watch?v=oyB5wC3BN_w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/sKhkIdxbZb4/maxresdefault.jpg" group-title="👶小朋友頻道👶",【朱妮託尼 - 動畫兒歌】色彩毛毛蟲和怪獸偷走了朱妮的顏色顏色兒歌兒歌童謠卡通動畫朱妮託尼童話故事
-https://www.youtube.com/watch?v=sKhkIdxbZb4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cH82dXChVG4/maxresdefault.jpg" group-title="👶小朋友頻道👶",【朱妮託尼 - 動畫兒歌】朱妮和朋友們去醫院了感冒了怎麼辦寶寶最愛的人氣童謠兒歌童謠卡通動畫朱妮託尼童話故事
 https://www.youtube.com/watch?v=cH82dXChVG4
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RNDwNP80TVc/maxresdefault.jpg" group-title="👶小朋友頻道👶",【Lv.99 Animation Club】只想安安靜靜睡個覺偏偏天才給我當書童
@@ -1204,8 +1228,6 @@ https://www.youtube.com/watch?v=TJ7McKlqNxQ
 https://www.youtube.com/watch?v=WnAG-4BS1Ac
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Li-_bnUoWk4/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【超舒眠音樂】Deep Healing Sl
 https://www.youtube.com/watch?v=Li-_bnUoWk4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FGhbEA7vQCY/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ music】超好聽的中文歌單華語單曲排行週榜愛就一個字總會有人花海門沒鎖周杰倫林俊傑鄧紫棋
-https://www.youtube.com/watch?v=FGhbEA7vQCY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1jdMzecM9ok/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ music】流行歌曲不能不聽的首歌網路超火歌曲抖音七月熱門歌曲最火抖音歌曲首抖音歌曲合集分集播放最高音質
 https://www.youtube.com/watch?v=1jdMzecM9ok
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hYdb13Pg0o8/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【4kTQ music】華語單曲排行週榜愛就一個字總會有人花海最偉大的作品如果可以孤勇者門沒鎖周杰倫王嘉爾周興哲林俊傑鄧紫棋
@@ -1298,6 +1320,8 @@ https://www.youtube.com/watch?v=ljEcXRLRCaU
 https://www.youtube.com/watch?v=1bdQSQ9CmGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WX_MfpW45ek/maxresdefault.jpg" group-title="🎵音樂頻道🎵",【Tokyo Sound Rank】新曲曲邦楽曲日本優裡米津玄師
 https://www.youtube.com/watch?v=WX_MfpW45ek
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DWsgzJskouk/hqdefault.jpg" group-title="🎵音樂頻道🎵",【MEET48 Global】肆時墟公演
+https://www.youtube.com/watch?v=DWsgzJskouk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/09M_N_8SOl0/maxresdefault.jpg" group-title="🌪️臺灣啟示錄頻道🌪️","【全集】女鬼回陽間復仇索命「找上仙姑指路」！？警察驚覺「是10年前無名裸屍」開棺驗屍...三炷香秒斷三截！？｜徐俊相 【臺灣啟示錄】20260104 @臺灣啟示錄"
 https://www.youtube.com/watch?v=09M_N_8SOl0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JW1fqe9ENrw/maxresdefault.jpg" group-title="🌪️臺灣啟示錄頻道🌪️","【全集】張文北市大屠殺「密謀1年8個月」奪3命後墜樓亡？！原始計畫更駭人..住處藏15汽油彈13長短刀「瀏覽紀錄愛搜隨機殺人」？｜徐俊相 【臺灣啟示錄】20251228@ebcapocalypse"
@@ -2334,339 +2358,339 @@ https://www.youtube.com/watch?v=uh_yNAE01w8
 https://www.youtube.com/watch?v=dPRI89o349Q
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0JpPVzxCxJM/maxresdefault.jpg" group-title="📡風景頻道📡",【馬祖國家風景區】南竿鐵堡
 https://www.youtube.com/watch?v=0JpPVzxCxJM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D_qTkFUzpGM/maxresdefault.jpg" group-title="💥國語精選頻道💥",【街角的晚風】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/D_qTkFUzpGM/maxresdefault.jpg" group-title="💯國語精選頻道💯",【街角的晚風】
 https://www.youtube.com/watch?v=D_qTkFUzpGM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/31GC8N1QFn8/maxresdefault.jpg" group-title="💥國語精選頻道💥",【請記住我的好】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/31GC8N1QFn8/maxresdefault.jpg" group-title="💯國語精選頻道💯",【請記住我的好】
 https://www.youtube.com/watch?v=31GC8N1QFn8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3rB3n_XR23o/maxresdefault.jpg" group-title="💥國語精選頻道💥",【我不該動情】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3rB3n_XR23o/maxresdefault.jpg" group-title="💯國語精選頻道💯",【我不該動情】
 https://www.youtube.com/watch?v=3rB3n_XR23o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pvb8SO9PBXc/maxresdefault.jpg" group-title="💥國語精選頻道💥",【思念成災】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Pvb8SO9PBXc/maxresdefault.jpg" group-title="💯國語精選頻道💯",【思念成災】
 https://www.youtube.com/watch?v=Pvb8SO9PBXc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N7SzJ9Y_rkY/maxresdefault.jpg" group-title="💥國語精選頻道💥",【作廢的約定】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/N7SzJ9Y_rkY/maxresdefault.jpg" group-title="💯國語精選頻道💯",【作廢的約定】
 https://www.youtube.com/watch?v=N7SzJ9Y_rkY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pW1thfYePWY/maxresdefault.jpg" group-title="💥國語精選頻道💥",【是我是我還是我】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pW1thfYePWY/maxresdefault.jpg" group-title="💯國語精選頻道💯",【是我是我還是我】
 https://www.youtube.com/watch?v=pW1thfYePWY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nqDTWlZKGug/hqdefault.jpg" group-title="💥國語精選頻道💥",【大風吹】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nqDTWlZKGug/hqdefault.jpg" group-title="💯國語精選頻道💯",【大風吹】
 https://www.youtube.com/watch?v=nqDTWlZKGug
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrwEJEFwrx4/hqdefault.jpg" group-title="💥國語精選頻道💥",【聽雪說】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qrwEJEFwrx4/hqdefault.jpg" group-title="💯國語精選頻道💯",【聽雪說】
 https://www.youtube.com/watch?v=qrwEJEFwrx4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MEN7nKHpDm0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【忽然之間男版】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MEN7nKHpDm0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【忽然之間男版】
 https://www.youtube.com/watch?v=MEN7nKHpDm0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6-7HE7rJVL0/hqdefault.jpg" group-title="💥國語精選頻道💥",【跳舞街】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6-7HE7rJVL0/hqdefault.jpg" group-title="💯國語精選頻道💯",【跳舞街】
 https://www.youtube.com/watch?v=6-7HE7rJVL0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c-2UG5q9qGA/hqdefault.jpg" group-title="💥國語精選頻道💥",【月半小夜曲】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/c-2UG5q9qGA/hqdefault.jpg" group-title="💯國語精選頻道💯",【月半小夜曲】
 https://www.youtube.com/watch?v=c-2UG5q9qGA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lhB9uMNveXI/maxresdefault.jpg" group-title="💥國語精選頻道💥",【難得有情人】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lhB9uMNveXI/maxresdefault.jpg" group-title="💯國語精選頻道💯",【難得有情人】
 https://www.youtube.com/watch?v=lhB9uMNveXI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PRVXvk7LZ4I/maxresdefault.jpg" group-title="💥國語精選頻道💥",【難唸的經】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PRVXvk7LZ4I/maxresdefault.jpg" group-title="💯國語精選頻道💯",【難唸的經】
 https://www.youtube.com/watch?v=PRVXvk7LZ4I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JkN7xbfI6Xc/maxresdefault.jpg" group-title="💥國語精選頻道💥",【流沙】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/JkN7xbfI6Xc/maxresdefault.jpg" group-title="💯國語精選頻道💯",【流沙】
 https://m.youtube.com/watch?v=JkN7xbfI6Xc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ciwJV_AFVhk/hqdefault.jpg" group-title="💥國語精選頻道💥",【咖啡】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ciwJV_AFVhk/hqdefault.jpg" group-title="💯國語精選頻道💯",【咖啡】
 https://www.youtube.com/watch?v=ciwJV_AFVhk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/suYmnM7xkzs/hqdefault.jpg" group-title="💥國語精選頻道💥",【我曾用心愛著你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/suYmnM7xkzs/hqdefault.jpg" group-title="💯國語精選頻道💯",【我曾用心愛著你】
 https://www.youtube.com/watch?v=suYmnM7xkzs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-cRvMnaQe2I/hqdefault.jpg" group-title="💥國語精選頻道💥",【她的眼淚】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-cRvMnaQe2I/hqdefault.jpg" group-title="💯國語精選頻道💯",【她的眼淚】
 https://www.youtube.com/watch?v=-cRvMnaQe2I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eYpmSggwltg/maxresdefault.jpg" group-title="💥國語精選頻道💥",【浪漫來襲】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eYpmSggwltg/maxresdefault.jpg" group-title="💯國語精選頻道💯",【浪漫來襲】
 https://www.youtube.com/watch?v=eYpmSggwltg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1FmwKDPA7tY/hqdefault.jpg" group-title="💥國語精選頻道💥",【妙妙妙】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1FmwKDPA7tY/hqdefault.jpg" group-title="💯國語精選頻道💯",【妙妙妙】
 https://www.youtube.com/watch?v=1FmwKDPA7tY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mRKTOZmX2cE/hqdefault.jpg" group-title="💥國語精選頻道💥",【童年】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/mRKTOZmX2cE/hqdefault.jpg" group-title="💯國語精選頻道💯",【童年】
 https://www.youtube.com/watch?v=mRKTOZmX2cE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PYNae2UlK7Q/maxresdefault.jpg" group-title="💥國語精選頻道💥",【話說從頭】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/PYNae2UlK7Q/maxresdefault.jpg" group-title="💯國語精選頻道💯",【話說從頭】
 https://www.youtube.com/watch?v=PYNae2UlK7Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vLTlFoqkKBM/maxresdefault.jpg" group-title="💥國語精選頻道💥",【誰說我不在乎】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/vLTlFoqkKBM/maxresdefault.jpg" group-title="💯國語精選頻道💯",【誰說我不在乎】
 https://www.youtube.com/watch?v=vLTlFoqkKBM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBiYGN28Ixo/hqdefault.jpg" group-title="💥國語精選頻道💥",【年輕的喝采】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IBiYGN28Ixo/hqdefault.jpg" group-title="💯國語精選頻道💯",【年輕的喝采】
 https://www.youtube.com/watch?v=IBiYGN28Ixo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iTJC_ocKiQI/maxresdefault.jpg" group-title="💥國語精選頻道💥",【喜歡你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iTJC_ocKiQI/maxresdefault.jpg" group-title="💯國語精選頻道💯",【喜歡你】
 https://www.youtube.com/watch?v=iTJC_ocKiQI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0ZpSE70K1zc/hqdefault.jpg" group-title="💥國語精選頻道💥",【懸崖】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0ZpSE70K1zc/hqdefault.jpg" group-title="💯國語精選頻道💯",【懸崖】
 https://www.youtube.com/watch?v=0ZpSE70K1zc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rAXmU300DRc/hqdefault.jpg" group-title="💥國語精選頻道💥",【心動】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/rAXmU300DRc/hqdefault.jpg" group-title="💯國語精選頻道💯",【心動】
 https://www.youtube.com/watch?v=rAXmU300DRc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aAgywnuL7UQ/maxresdefault.jpg" group-title="💥國語精選頻道💥",【記事本】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/aAgywnuL7UQ/maxresdefault.jpg" group-title="💯國語精選頻道💯",【記事本】
 https://www.youtube.com/watch?v=aAgywnuL7UQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hhTLPkChXus/maxresdefault.jpg" group-title="💥國語精選頻道💥",【愛情抗體】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hhTLPkChXus/maxresdefault.jpg" group-title="💯國語精選頻道💯",【愛情抗體】
 https://www.youtube.com/watch?v=hhTLPkChXus
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KUf5MMj1wKw/hqdefault.jpg" group-title="💥國語精選頻道💥",【突然想起你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KUf5MMj1wKw/hqdefault.jpg" group-title="💯國語精選頻道💯",【突然想起你】
 https://www.youtube.com/watch?v=KUf5MMj1wKw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hUJl1HwYIN8/hqdefault.jpg" group-title="💥國語精選頻道💥",【一個人生活】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hUJl1HwYIN8/hqdefault.jpg" group-title="💯國語精選頻道💯",【一個人生活】
 https://www.youtube.com/watch?v=hUJl1HwYIN8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uwL23suAKm0/hqdefault.jpg" group-title="💥國語精選頻道💥",【靜止】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uwL23suAKm0/hqdefault.jpg" group-title="💯國語精選頻道💯",【靜止】
 https://www.youtube.com/watch?v=uwL23suAKm0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QQOcgoxin1M/hqdefault.jpg" group-title="💥國語精選頻道💥",【星星堆滿天】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QQOcgoxin1M/hqdefault.jpg" group-title="💯國語精選頻道💯",【星星堆滿天】
 https://www.youtube.com/watch?v=QQOcgoxin1M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FIXBA0X62So/maxresdefault.jpg" group-title="💥國語精選頻道💥",【好想再聽一遍】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FIXBA0X62So/maxresdefault.jpg" group-title="💯國語精選頻道💯",【好想再聽一遍】
 https://www.youtube.com/watch?v=FIXBA0X62So
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l1WjLI4eL_U/hqdefault.jpg" group-title="💥國語精選頻道💥",【殘酷的溫柔】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l1WjLI4eL_U/hqdefault.jpg" group-title="💯國語精選頻道💯",【殘酷的溫柔】
 https://www.youtube.com/watch?v=l1WjLI4eL_U
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/il_Yd1irRgE/hqdefault.jpg" group-title="💥國語精選頻道💥",【快樂天堂】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/il_Yd1irRgE/hqdefault.jpg" group-title="💯國語精選頻道💯",【快樂天堂】
 https://www.youtube.com/watch?v=il_Yd1irRgE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wgNRXndLex8/hqdefault.jpg" group-title="💥國語精選頻道💥",【大雨】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wgNRXndLex8/hqdefault.jpg" group-title="💯國語精選頻道💯",【大雨】
 https://www.youtube.com/watch?v=wgNRXndLex8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hNQohQBFnwI/hqdefault.jpg" group-title="💥國語精選頻道💥",【飄洋過海來看你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hNQohQBFnwI/hqdefault.jpg" group-title="💯國語精選頻道💯",【飄洋過海來看你】
 https://www.youtube.com/watch?v=hNQohQBFnwI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bXkfmK4hQWM/hqdefault.jpg" group-title="💥國語精選頻道💥",【浪流連】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/bXkfmK4hQWM/hqdefault.jpg" group-title="💯國語精選頻道💯",【浪流連】
 https://www.youtube.com/watch?v=bXkfmK4hQWM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zMDj2YvzeAQ/maxresdefault.jpg" group-title="💥國語精選頻道💥",【披星戴月的想你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zMDj2YvzeAQ/maxresdefault.jpg" group-title="💯國語精選頻道💯",【披星戴月的想你】
 https://www.youtube.com/watch?v=zMDj2YvzeAQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vp4fe5CXW8w/maxresdefault.jpg" group-title="💥國語精選頻道💥",【能不能和我留在臺北】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vp4fe5CXW8w/maxresdefault.jpg" group-title="💯國語精選頻道💯",【能不能和我留在臺北】
 https://www.youtube.com/watch?v=Vp4fe5CXW8w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DQ--j15hEwo/maxresdefault.jpg" group-title="💥國語精選頻道💥",【醉後喜歡我】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DQ--j15hEwo/maxresdefault.jpg" group-title="💯國語精選頻道💯",【醉後喜歡我】
 https://www.youtube.com/watch?v=DQ--j15hEwo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eXgHhY2QG8w/hqdefault.jpg" group-title="💥國語精選頻道💥",【有多少愛可以重來】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eXgHhY2QG8w/hqdefault.jpg" group-title="💯國語精選頻道💯",【有多少愛可以重來】
 https://www.youtube.com/watch?v=eXgHhY2QG8w
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QMEO7_6CGGA/hqdefault.jpg" group-title="💥國語精選頻道💥",【堅持到底】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QMEO7_6CGGA/hqdefault.jpg" group-title="💯國語精選頻道💯",【堅持到底】
 https://www.youtube.com/watch?v=QMEO7_6CGGA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2xwoVqXHuX0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【雨蝶】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2xwoVqXHuX0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【雨蝶】
 https://www.youtube.com/watch?v=2xwoVqXHuX0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EaGlpBk3dUI/maxresdefault.jpg" group-title="💥國語精選頻道💥",【明天你是否依然愛我】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EaGlpBk3dUI/maxresdefault.jpg" group-title="💯國語精選頻道💯",【明天你是否依然愛我】
 https://www.youtube.com/watch?v=EaGlpBk3dUI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lWkKW3Eqf5I/maxresdefault.jpg" group-title="💥國語精選頻道💥",【為愛痴狂】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lWkKW3Eqf5I/maxresdefault.jpg" group-title="💯國語精選頻道💯",【為愛痴狂】
 https://www.youtube.com/watch?v=lWkKW3Eqf5I
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwL0I7t4xbc/maxresdefault.jpg" group-title="💥國語精選頻道💥",【小半】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cwL0I7t4xbc/maxresdefault.jpg" group-title="💯國語精選頻道💯",【小半】
 https://www.youtube.com/watch?v=cwL0I7t4xbc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/08S2Jsl_Pvw/hqdefault.jpg" group-title="💥國語精選頻道💥",【忽然之間】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/08S2Jsl_Pvw/hqdefault.jpg" group-title="💯國語精選頻道💯",【忽然之間】
 https://www.youtube.com/watch?v=08S2Jsl_Pvw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WYEzSekAt6Y/maxresdefault.jpg" group-title="💥國語精選頻道💥",【我只想在乎我在乎的】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/WYEzSekAt6Y/maxresdefault.jpg" group-title="💯國語精選頻道💯",【我只想在乎我在乎的】
 https://www.youtube.com/watch?v=WYEzSekAt6Y
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KsJ7s-8MdwQ/maxresdefault.jpg" group-title="💥國語精選頻道💥",【我走後】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KsJ7s-8MdwQ/maxresdefault.jpg" group-title="💯國語精選頻道💯",【我走後】
 https://www.youtube.com/watch?v=KsJ7s-8MdwQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IUiBcR8s6OI/maxresdefault.jpg" group-title="💥國語精選頻道💥",【禮物】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/IUiBcR8s6OI/maxresdefault.jpg" group-title="💯國語精選頻道💯",【禮物】
 https://www.youtube.com/watch?v=IUiBcR8s6OI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L6XKatjsiyg/hqdefault.jpg" group-title="💥國語精選頻道💥",【糖果】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/L6XKatjsiyg/hqdefault.jpg" group-title="💯國語精選頻道💯",【糖果】
 https://www.youtube.com/watch?v=L6XKatjsiyg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6ArP9IGKcUw/maxresdefault.jpg" group-title="💥國語精選頻道💥",【愛情有什麼道理】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6ArP9IGKcUw/maxresdefault.jpg" group-title="💯國語精選頻道💯",【愛情有什麼道理】
 https://www.youtube.com/watch?v=6ArP9IGKcUw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UYWUAQhhR_g/maxresdefault.jpg" group-title="💥國語精選頻道💥",【腦公】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UYWUAQhhR_g/maxresdefault.jpg" group-title="💯國語精選頻道💯",【腦公】
 https://www.youtube.com/watch?v=UYWUAQhhR_g
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OhPyurx8-N0/hqdefault.jpg" group-title="💥國語精選頻道💥",【天后】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OhPyurx8-N0/hqdefault.jpg" group-title="💯國語精選頻道💯",【天后】
 https://www.youtube.com/watch?v=OhPyurx8-N0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tv95k0zqnaA/maxresdefault.jpg" group-title="💥國語精選頻道💥",【旅行的意義】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/tv95k0zqnaA/maxresdefault.jpg" group-title="💯國語精選頻道💯",【旅行的意義】
 https://www.youtube.com/watch?v=tv95k0zqnaA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UxmpcK1TRp0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【千千闕歌】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/UxmpcK1TRp0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【千千闕歌】
 https://www.youtube.com/watch?v=UxmpcK1TRp0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZQR_S8dVrvE/hqdefault.jpg" group-title="💥國語精選頻道💥",【朋友】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZQR_S8dVrvE/hqdefault.jpg" group-title="💯國語精選頻道💯",【朋友】
 https://www.youtube.com/watch?v=ZQR_S8dVrvE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X1b6dBbfBhc/maxresdefault.jpg" group-title="💥國語精選頻道💥",【敢愛敢做】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X1b6dBbfBhc/maxresdefault.jpg" group-title="💯國語精選頻道💯",【敢愛敢做】
 https://www.youtube.com/watch?v=X1b6dBbfBhc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Oc_VUUE9MHo/hqdefault.jpg" group-title="💥國語精選頻道💥",【我還是愛著你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Oc_VUUE9MHo/hqdefault.jpg" group-title="💯國語精選頻道💯",【我還是愛著你】
 https://www.youtube.com/watch?v=Oc_VUUE9MHo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3OHT350Acj4/maxresdefault.jpg" group-title="💥國語精選頻道💥",【醉後喜歡我】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/3OHT350Acj4/maxresdefault.jpg" group-title="💯國語精選頻道💯",【醉後喜歡我】
 https://www.youtube.com/watch?v=3OHT350Acj4
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7L06_HW_HcA/maxresdefault.jpg" group-title="💥國語精選頻道💥",【你朝我的方向走來】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7L06_HW_HcA/maxresdefault.jpg" group-title="💯國語精選頻道💯",【你朝我的方向走來】
 https://www.youtube.com/watch?v=7L06_HW_HcA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHukHb9e0YA/maxresdefault.jpg" group-title="💥國語精選頻道💥",【夢醒時分】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fHukHb9e0YA/maxresdefault.jpg" group-title="💯國語精選頻道💯",【夢醒時分】
 https://www.youtube.com/watch?v=fHukHb9e0YA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7rGysiq6krY/maxresdefault.jpg" group-title="💥國語精選頻道💥",【愛丫愛丫】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/7rGysiq6krY/maxresdefault.jpg" group-title="💯國語精選頻道💯",【愛丫愛丫】
 https://www.youtube.com/watch?v=7rGysiq6krY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VMBYhFNyuNU/maxresdefault.jpg" group-title="💥國語精選頻道💥",【魔鬼中的天使】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VMBYhFNyuNU/maxresdefault.jpg" group-title="💯國語精選頻道💯",【魔鬼中的天使】
 https://www.youtube.com/watch?v=VMBYhFNyuNU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZsiN2YVrdmA/hqdefault.jpg" group-title="💥國語精選頻道💥",【還是會寂寞】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZsiN2YVrdmA/hqdefault.jpg" group-title="💯國語精選頻道💯",【還是會寂寞】
 https://www.youtube.com/watch?v=ZsiN2YVrdmA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CyG7HCVupuE/maxresdefault.jpg" group-title="💥國語精選頻道💥",【痴心絕對】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/CyG7HCVupuE/maxresdefault.jpg" group-title="💯國語精選頻道💯",【痴心絕對】
 https://www.youtube.com/watch?v=CyG7HCVupuE
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0hTVBucMB-0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【叢林男孩】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/0hTVBucMB-0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【叢林男孩】
 https://www.youtube.com/watch?v=0hTVBucMB-0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/66USpPn59G0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【真的愛妳】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/66USpPn59G0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【真的愛妳】
 https://www.youtube.com/watch?v=66USpPn59G0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6kxd4DvQHmY/maxresdefault.jpg" group-title="💥國語精選頻道💥",【我們的愛】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/6kxd4DvQHmY/maxresdefault.jpg" group-title="💯國語精選頻道💯",【我們的愛】
 https://www.youtube.com/watch?v=6kxd4DvQHmY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GskWlldp7uU/maxresdefault.jpg" group-title="💥國語精選頻道💥",【愛到才知痛】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GskWlldp7uU/maxresdefault.jpg" group-title="💯國語精選頻道💯",【愛到才知痛】
 https://www.youtube.com/watch?v=GskWlldp7uU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U2PjKOaijJA/maxresdefault.jpg" group-title="💥國語精選頻道💥",【傷痕】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/U2PjKOaijJA/maxresdefault.jpg" group-title="💯國語精選頻道💯",【傷痕】
 https://www.youtube.com/watch?v=U2PjKOaijJA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E_O9MikeO_Q/maxresdefault.jpg" group-title="💥國語精選頻道💥",【大海】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E_O9MikeO_Q/maxresdefault.jpg" group-title="💯國語精選頻道💯",【大海】
 https://www.youtube.com/watch?v=E_O9MikeO_Q
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OL_Jf0afdaU/maxresdefault.jpg" group-title="💥國語精選頻道💥",【聽海】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OL_Jf0afdaU/maxresdefault.jpg" group-title="💯國語精選頻道💯",【聽海】
 https://www.youtube.com/watch?v=OL_Jf0afdaU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qzl4qYk6TAQ/maxresdefault.jpg" group-title="💥國語精選頻道💥",【情人未晚】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qzl4qYk6TAQ/maxresdefault.jpg" group-title="💯國語精選頻道💯",【情人未晚】
 https://www.youtube.com/watch?v=qzl4qYk6TAQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i0BkTEwcyIg/maxresdefault.jpg" group-title="💥國語精選頻道💥",【不做情人】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/i0BkTEwcyIg/maxresdefault.jpg" group-title="💯國語精選頻道💯",【不做情人】
 https://www.youtube.com/watch?v=i0BkTEwcyIg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nmiRnVgnSZ8/maxresdefault.jpg" group-title="💥國語精選頻道💥",【神話．情話】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nmiRnVgnSZ8/maxresdefault.jpg" group-title="💯國語精選頻道💯",【神話．情話】
 https://www.youtube.com/watch?v=nmiRnVgnSZ8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FaCi8_o8xwQ/maxresdefault.jpg" group-title="💥國語精選頻道💥",【不再】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FaCi8_o8xwQ/maxresdefault.jpg" group-title="💯國語精選頻道💯",【不再】
 https://www.youtube.com/watch?v=FaCi8_o8xwQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9agseBruqKM/maxresdefault.jpg" group-title="💥國語精選頻道💥",【想你的夜】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9agseBruqKM/maxresdefault.jpg" group-title="💯國語精選頻道💯",【想你的夜】
 https://www.youtube.com/watch?v=9agseBruqKM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4nDYPr2NeDA/maxresdefault.jpg" group-title="💥國語精選頻道💥",【藍夜-江得勝】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/4nDYPr2NeDA/maxresdefault.jpg" group-title="💯國語精選頻道💯",【藍夜-江得勝】
 https://www.youtube.com/watch?v=4nDYPr2NeDA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GcdrKJPoAv8/maxresdefault.jpg" group-title="💥國語精選頻道💥",【秒針】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/GcdrKJPoAv8/maxresdefault.jpg" group-title="💯國語精選頻道💯",【秒針】
 https://www.youtube.com/watch?v=GcdrKJPoAv8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-WeKvGCyiWI/hqdefault.jpg" group-title="💥國語精選頻道💥",【暴風女神】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/-WeKvGCyiWI/hqdefault.jpg" group-title="💯國語精選頻道💯",【暴風女神】
 https://www.youtube.com/watch?v=-WeKvGCyiWI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X6ikFI5xCvk/hqdefault.jpg" group-title="💥國語精選頻道💥",【諾言】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X6ikFI5xCvk/hqdefault.jpg" group-title="💯國語精選頻道💯",【諾言】
 https://www.youtube.com/watch?v=X6ikFI5xCvk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h1yf9u66C4k/maxresdefault.jpg" group-title="💥國語精選頻道💥",【撕夜】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h1yf9u66C4k/maxresdefault.jpg" group-title="💯國語精選頻道💯",【撕夜】
 https://www.youtube.com/watch?v=h1yf9u66C4k
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cgRYMC8LN2c/hqdefault.jpg" group-title="💥國語精選頻道💥",【七情六慾】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cgRYMC8LN2c/hqdefault.jpg" group-title="💯國語精選頻道💯",【七情六慾】
 https://www.youtube.com/watch?v=cgRYMC8LN2c
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZzMwd9gkwPU/hqdefault.jpg" group-title="💥國語精選頻道💥",【他一定很愛你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ZzMwd9gkwPU/hqdefault.jpg" group-title="💯國語精選頻道💯",【他一定很愛你】
 https://www.youtube.com/watch?v=ZzMwd9gkwPU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OBewhRJheec/hqdefault.jpg" group-title="💥國語精選頻道💥",【天黑】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OBewhRJheec/hqdefault.jpg" group-title="💯國語精選頻道💯",【天黑】
 https://www.youtube.com/watch?v=OBewhRJheec
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YXV8e448rIM/maxresdefault.jpg" group-title="💥國語精選頻道💥",【五十年以後】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/YXV8e448rIM/maxresdefault.jpg" group-title="💯國語精選頻道💯",【五十年以後】
 https://www.youtube.com/watch?v=YXV8e448rIM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G0rEM6vGkpk/maxresdefault.jpg" group-title="💥國語精選頻道💥",【有沒有人告訴你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/G0rEM6vGkpk/maxresdefault.jpg" group-title="💯國語精選頻道💯",【有沒有人告訴你】
 https://www.youtube.com/watch?v=G0rEM6vGkpk
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ig6Jiz9MO-A/maxresdefault.jpg" group-title="💥國語精選頻道💥",【愛像一場重感冒】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ig6Jiz9MO-A/maxresdefault.jpg" group-title="💯國語精選頻道💯",【愛像一場重感冒】
 https://www.youtube.com/watch?v=Ig6Jiz9MO-A
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iDuAZk09lW8/maxresdefault.jpg" group-title="💥國語精選頻道💥",【初戀】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/iDuAZk09lW8/maxresdefault.jpg" group-title="💯國語精選頻道💯",【初戀】
 https://www.youtube.com/watch?v=iDuAZk09lW8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K8fCemvi6K0/maxresdefault.jpg" group-title="💥國語精選頻道💥",【養我一輩子】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/K8fCemvi6K0/maxresdefault.jpg" group-title="💯國語精選頻道💯",【養我一輩子】
 https://www.youtube.com/watch?v=K8fCemvi6K0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RbrS_qX2n30/hqdefault.jpg" group-title="💥國語精選頻道💥",【你的眼睛背叛你的心】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/RbrS_qX2n30/hqdefault.jpg" group-title="💯國語精選頻道💯",【你的眼睛背叛你的心】
 https://www.youtube.com/watch?v=RbrS_qX2n30
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MdpsjWlF-ZU/hqdefault.jpg" group-title="💥國語精選頻道💥",【絕口不提愛你】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MdpsjWlF-ZU/hqdefault.jpg" group-title="💯國語精選頻道💯",【絕口不提愛你】
 https://www.youtube.com/watch?v=MdpsjWlF-ZU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k2ILCT9IB_o/maxresdefault.jpg" group-title="💥國語精選頻道💥",【嘉賓】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/k2ILCT9IB_o/maxresdefault.jpg" group-title="💯國語精選頻道💯",【嘉賓】
 https://www.youtube.com/watch?v=k2ILCT9IB_o
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pWv4AVV0_as/maxresdefault.jpg" group-title="💥國語精選頻道💥",【再見煙火】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pWv4AVV0_as/maxresdefault.jpg" group-title="💯國語精選頻道💯",【再見煙火】
 https://www.youtube.com/watch?v=pWv4AVV0_as
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvuqdiTCwcc/maxresdefault.jpg" group-title="💥國語精選頻道💥",【女人的選擇】
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/cvuqdiTCwcc/maxresdefault.jpg" group-title="💯國語精選頻道💯",【女人的選擇】
 https://www.youtube.com/watch?v=cvuqdiTCwcc
-#EXTINF:-1 group-title="😌國語合輯頻道😌",周杰倫精選120首(8小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",周杰倫精選120首(8小時)
 https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",林俊杰精選81首(5小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",林俊杰精選81首(5小時)
 https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",潘瑋柏精選28首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",潘瑋柏精選28首(1小時)
 https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",羅志祥精選16首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",羅志祥精選16首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d0et0mfog65hj1cq0130&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",SHE精選40首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",SHE精選40首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4?tag=1-1754625871-std-1-9msmgkqnic-492b9eaf83438074&clientCacheKey=3xdck2arwksxhfw_b.mp4&tt=b&di=88ccff4&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="😌國語合輯頻道😌",徐良精選30首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",徐良精選30首(1小時)
 https://txmov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4?tag=1-1754626109-std-1-9zwa2xbfok-40061606b10eb007&clientCacheKey=3xfdxxsd94byium_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="😌國語合輯頻道😌",許嵩精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",許嵩精選30首(2小時)
 https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",汪蘇瀧精選20首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",汪蘇瀧精選20首(1小時)
 https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",陶喆精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",陶喆精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",陳奕迅精選34首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",陳奕迅精選34首(2小時)
 https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",鄧紫棋精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",鄧紫棋精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",薛之謙精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",薛之謙精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",五月天精選37首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",五月天精選37首(2小時)
 https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",蔡依林精選102首(6小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",蔡依林精選102首(6小時)
 https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",任然精選20首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",任然精選20首(1小時)
 https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",張韶涵精選96首(6小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",張韶涵精選96首(6小時)
 https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",王心凌精選69首(4小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",王心凌精選69首(4小時)
 https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",莫文蔚精選72首(5小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",莫文蔚精選72首(5小時)
 https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",陳慧琳精選30首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",陳慧琳精選30首(1小時)
 https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",蔡健雅精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",蔡健雅精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",王傑精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",王傑精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",喬洋精選20首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",喬洋精選20首(1小時)
 https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",莊心妍精選44首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",莊心妍精選44首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",梁靜茹精選40首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",梁靜茹精選40首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",王力宏精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",王力宏精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",孫燕姿精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",孫燕姿精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",周深精選72首(5小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",周深精選72首(5小時)
 https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",飛輪海精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",飛輪海精選30首(2小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",顏人中精選36首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",顏人中精選36首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0张惠妹精选10首(1小时)
-#EXTINF:-1 group-title="😌國語合輯頻道😌",劉若英精選50首(3小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",劉若英精選50首(3小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",Alin精選16首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",Alin精選16首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",楊丞琳精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",楊丞琳精選30首(2小時)
 https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 group-title="😌國語合輯頻道😌",南拳媽媽精選13首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",南拳媽媽精選13首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",張傑精選40首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",張傑精選40首(2小時)
 https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzIxNDZfODM0NDUzMTQ2XzEwOTgxMDY1NjE0MF8wXzM=_b_Bd5fedc48db11e5ccd52e4c2de1d8213a.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",方大同精選33首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",方大同精選33首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0300fg10000cv2nd2nog65v744ae6i0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",Beyond精選40首(3小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",Beyond精選40首(3小時)
 https://txmov2.a.kwimgs.com/upic/2024/01/24/14/BMjAyNDAxMjQxNDQxMjZfODI4NTk1NTQ0XzEyMzAwNzQ1MTk1Ml8yXzM=_b_Bf4811084a61390aced44f1c86a2ebddf.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",By2精選16首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",By2精選16首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000d1j0n57og65pvurg65ag&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",周傳雄精選20首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",周傳雄精選20首(1小時)
 https://k0ub7yffy10y9z.djvod.ndcimgs.com/bs3/video-hls/5210101864526740619_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",張學友精選40首(3小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",張學友精選40首(3小時)
 https://k0ub7yffy10yezw2409x875ex5088x330xxez.djvod.ndcimgs.com/bs3/video-hls/5207287162232816373_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",劉德華精選60首(4小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",劉德華精選60首(4小時)
 https://k0ub7yffy10yfz.djvod.ndcimgs.com/upic/2023/07/25/08/BMjAyMzA3MjUwODU3MzRfMzYxMjUyNDA3MV8xMDg4MTUzNTczMzFfMF8z_b_Bf67605afd92859a39e607f504f43c9f7.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",黎明精選112首(8小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",黎明精選112首(8小時)
 https://k0ub7yffy10y8z.djvod.ndcimgs.com/bs3/video-hls/5257671152053263747_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",王菲精選145首(10小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",王菲精選145首(10小時)
 https://k0u6fy1dy17yc5zw2409x8c5ex5000x740xx5z.djvod.ndcimgs.com/bs3/video-hls/5230931130420749618_8530c04da878a1f8_4119_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",權志龍精選19首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",權志龍精選19首(1小時)
 https://k0u6fy1dy17yc7z.djvod.ndcimgs.com/upic/2024/01/06/03/BMjAyNDAxMDYwMzM5NTZfNDQzMTI2Mjg0XzEyMTQzNzg5NTQzNl8yXzM=_b_Ba6909c68ab1c5217276621ad0a94c3ab.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",張惠妹精選63首(4小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",張惠妹精選63首(4小時)
 https://k0ub7yffy10y9zw2409x875ex5088x330xx9z.djvod.ndcimgs.com/upic/2023/02/23/19/BMjAyMzAyMjMxOTU2MzRfMTg1NzcxNTYxOF85Njg2MDMwMDE1N18yXzM=_b_Bf54be4dff6265ad447bf289ec395ad97.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",陳粒精選20首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",陳粒精選20首(1小時)
 https://txmov2.a.kwimgs.com/upic/2020/10/04/21/BMjAyMDEwMDQyMTI1NDZfMTc4NDYxNDcyNl8zNzE2MjYzNjA2N18yXzM=_b_B916781f8115d7d5caf6554e522a17daa.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",蕭亞軒精選16首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",蕭亞軒精選16首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0d00fg10000cvtpr1nog65jio7np2o0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",譚詠麟精選124首(8小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",譚詠麟精選124首(8小時)
 https://k0u6fy1dy17yc5zw2409x8c5ex5000x740xx5z.djvod.ndcimgs.com/bs3/video-hls/5216012959488968308_465ea08469b567d7_9137_hlsfsl200hd15.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",林憶蓮精選57首(4小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",林憶蓮精選57首(4小時)
 https://k0ub7yffy10yez.djvod.ndcimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
-#EXTINF:-1 group-title="😌國語合輯頻道😌",古巨基精選86首(6小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",古巨基精選86首(6小時)
 https://k0u6fy1dy17yc6zw2409x8c5ex5000x740xx6z.djvod.ndcimgs.com/bs3/video-hls/5257671255731399908_936fe74351be1d48_9988_hlsfsl200hd15.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",小賤精選9首(半小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",小賤精選9首(半小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000d2l30hfog65v5tq1s9fg&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",星弟精選9首(半小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",星弟精選9首(半小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c83jq9bc77ud2ru6t4n0&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",林志炫精選34首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",林志炫精選34首(2小時)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5253449075409106514_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",任賢齊精選36首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",任賢齊精選36首(2小時)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254012023525680703_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",林憶蓮精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",林憶蓮精選30首(2小時)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",丁當精選30首(2小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",丁當精選30首(2小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000ch5q3urc77u1uogf5aq0&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",Tank精選15首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",Tank精選15首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000covn6jfog65t7htp4930&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",賈斯汀比伯精選21首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",賈斯汀比伯精選21首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c73r123c77u5kmhu1kh0&ratio=720p&line=0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",郭靜精選16首(1小時)
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",郭靜精選16首(1小時)
 https://www.iesdouyin.com/aweme/v1/playwm/?line=0&logo_name=aweme_diversion_search&ratio=720p&video_id=v0300fg10000d27kqc7og65u9r5sb1a0
-#EXTINF:-1 group-title="😌國語合輯頻道😌",車載DJ串燒點播❶
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",車載DJ串燒點播❶
 https://txmov2.a.kwimgs.com/bs3/video-hls/5195465247443616945_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",車載DJ串燒點播❷
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",車載DJ串燒點播❷
 https://txmov2.a.kwimgs.com/bs3/video-hls/5197154098359410997_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",夜店DJ混音點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",夜店DJ混音點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5238530913892317704_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",老歌DJ串燒點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",老歌DJ串燒點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5234027313336778127_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",國潮DJ舞曲點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",國潮DJ舞曲點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5254856460919464679_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",快搖越南鼓點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",快搖越南鼓點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5246130739648463544_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",帶勁越南鼓點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",帶勁越南鼓點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199968844019002757_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",蹦迪越南鼓點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",蹦迪越南鼓點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5253167611834026799_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",40首精選慢搖點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",40首精選慢搖點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5224175695511900493_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",中文DJ舞曲點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",中文DJ舞曲點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225020119572067546_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",DJ舞曲串燒點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",DJ舞曲串燒點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5259923016524978973_hlsb.m3u8
-#EXTINF:-1 group-title="😌國語合輯頻道😌",熱門歌曲DJ點播
+#EXTINF:-1 group-title="💿️國語合輯頻道💿️",熱門歌曲DJ點播
 https://txmov2.a.kwimgs.com/bs3/video-hls/5232619944545910926_hlsb.m3u8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/47x8-EJzMcU/hqdefault.jpg" group-title="😄5566歌詞頻道😄",存在
 https://www.youtube.com/watch?v=47x8-EJzMcU
@@ -8652,32 +8676,42 @@ https://www.youtube.com/watch?v=4Pwmb1UBGVM
 https://www.youtube.com/watch?v=2wzDK1IgJRY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NKexMZcpqDA/maxresdefault.jpg" group-title="💖英文老歌精選頻道💖",【最後の雨】
 https://www.youtube.com/watch?v=NKexMZcpqDA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fFyCR2Y0PCw/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【壹電視NEXT TV】蔣萬安信心爆棚拋倒閣藍委擁戴嗆市民罷免簡舒培市政隻字不提盧秀燕議會逃走好狼狽藍白卡軍用無人機依北京原則修法反毒油片深偽賴清德國民黨護航犯罪
-https://www.youtube.com/watch?v=fFyCR2Y0PCw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/79V_eq8I9fo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
 https://www.youtube.com/watch?v=79V_eq8I9fo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/uXO79b_ypi8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】農地變建案停車場燒向萬佀家政商關係深萬座車也是建商的出招倒閣蔣搶共主劍指鄭昌倒閣重選賭上身家藍白委很剉
+https://www.youtube.com/watch?v=uXO79b_ypi8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/zmuR9VVdvQ0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】彩券開獎三立新聞網
+https://www.youtube.com/watch?v=zmuR9VVdvQ0
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lpClrn1f3iA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】震度地動山搖熊本城牆驚悚崩落發布海嘯注意報極淺層震源僅公里三立新聞網
+https://www.youtube.com/watch?v=lpClrn1f3iA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lqns1qJo7GY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
-https://www.youtube.com/watch?v=lqns1qJo7GY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X_h0M9A0auQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】現正中
-https://www.youtube.com/watch?v=X_h0M9A0auQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XZCnR1RcRNA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】🔴LIVE：2026.07.2
-https://www.youtube.com/watch?v=XZCnR1RcRNA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/maP12Las3YM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】鄭麗文南下彰化合體魏平政出席婦女精英領袖成長營
-https://www.youtube.com/watch?v=maP12Las3YM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1_x_Flk3OtA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
-https://www.youtube.com/watch?v=1_x_Flk3OtA
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Z_G_OqQbxd8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【哏傳媒】性感到底誰說了算男女眼中的大性感瞬間大公開魅惑專家小金
+https://www.youtube.com/watch?v=Z_G_OqQbxd8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1IcVq9rWJcQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【董事長開講】蔣萬安帶頭國民黨告別溫良恭儉讓吳子嘉楊智伃
+https://www.youtube.com/watch?v=1IcVq9rWJcQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VjvBeKpJj3s/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【57爆新聞】熊本永旺商場爆炸倒塌警證實多人死亡日本熊本強震地塹裂開威力如顆原子彈郭鎧紋示警恐有更大規模強震當心阿蘇火山爆發
+https://www.youtube.com/watch?v=VjvBeKpJj3s
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Js0h0i0CkS8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞龍捲風】快訊日本熊本強震最大震度海嘯警報發布
+https://www.youtube.com/watch?v=Js0h0i0CkS8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/VC0HNjOMHts/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】慘日本大震滿目瘡痍熊本城牆塌我想見習近平高市黑歷史曝光侵略中國沒悔意伊飛彈教會川普做人完整版
+https://www.youtube.com/watch?v=VC0HNjOMHts
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FPZdMTjYGC0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】日本熊本強震最大震度海嘯警報發布
+https://www.youtube.com/watch?v=FPZdMTjYGC0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hOkt9tg-oTM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
 https://www.youtube.com/watch?v=hOkt9tg-oTM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/NAp6VOZtZDs/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【少康戰情室】陸官媒釣魚島紀錄片完整版上線直指日本竊島中日陷僵局
+https://www.youtube.com/watch?v=NAp6VOZtZDs
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【少康戰情室】政經說政論小時互動血洗點創史上第大聯電聯發科臺達電慘跌停僅美國人挺伊朗戰爭開戰來最低新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ji8ck-v23z0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【萬事通事務所】東野圭吾辭世電機工程師寫出一億冊推理帝國湯川學的最後一案曲終人散
+https://www.youtube.com/watch?v=ji8ck-v23z0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="🥱購物🥱",【海豚多媒體】海豚綜合臺線上
 https://www.youtube.com/watch?v=qBNZQMccyME
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/b_eAldKDuDM/maxresdefault.jpg" group-title="🥱購物🥱",【寶島文化臺】寶島文化電視臺現場
