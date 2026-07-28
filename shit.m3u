@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Update: 2026-07-28 06:30:17
+# Last Update: 2026-07-28 07:34:22
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
 http://106.107.242.201:50007/4gtv-4gtv152/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 #EXTINF:-1 group-title="⚠️新聞頻道⚠️",東森新聞
@@ -16,14 +16,12 @@ https://www.youtube.com/watch?v=vr3XyVCR4T0
 https://www.youtube.com/watch?v=uDqQo8a7Xmk&rco=1&ab_channel=TTVLIVE%E5%8F%B0%E8%A6%96%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/E0zhe2gkXBs/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【東森新聞】頻道小時線上臺灣時間放送
 https://www.youtube.com/watch?v=E0zhe2gkXBs
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/jSNZxi65Kug/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】蔣萬安出席北捷新列車發表記者會
-https://www.youtube.com/watch?v=jSNZxi65Kug
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2mCSYvcfhtc/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TVBS NEWS】新聞臺小時臺灣世界中時間配信中
 https://www.youtube.com/watch?v=2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lTWElZchkbA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】蔣萬安有事衝著我來不要找小編查水錶凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
-https://www.youtube.com/watch?v=lTWElZchkbA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/2VlGZX_YNic/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】遭民眾黨批考察報告爛到爆徐佳青怒回嗤之以鼻中天新聞
-https://www.youtube.com/watch?v=2VlGZX_YNic
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Ec05QL2R5OM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
+https://www.youtube.com/watch?v=Ec05QL2R5OM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/orEkp9WIn7c/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】川普關稅反逼盟友靠中國全球領袖排隊訪中搶市場與供應鏈中天電視
+https://www.youtube.com/watch?v=orEkp9WIn7c
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/m1i3iBSNick/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉中天新聞
 https://www.youtube.com/watch?v=m1i3iBSNick
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/MZhMxKNtOnA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中天電視CtiTv】主播攝影棚楚門秀會員專屬視角中天電視
@@ -36,12 +34,10 @@ https://www.youtube.com/watch?v=dK_KZ6L6fzo
 https://www.youtube.com/watch?v=ADZTiqEGT8g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/FOc1DGS9H0M/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺灣颱風論壇】花蓮吉安即時天氣影像臺灣花蓮県吉安駅付近
 https://www.youtube.com/watch?v=FOc1DGS9H0M
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/z_iu3PwOeGQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺視新聞】蔣萬安出席北捷新列車發表記者會
-https://www.youtube.com/watch?v=z_iu3PwOeGQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/9iRAqBMakXY/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【臺視新聞】臺小時線上臺灣
 https://www.youtube.com/watch?v=9iRAqBMakXY
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Jh6e5UQu9Uo/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】上凱道後再提倒閣蔣萬安北捷新列車發表會最新
-https://www.youtube.com/watch?v=Jh6e5UQu9Uo
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h8OS1OhCbxw/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】鄭麗文南下彰化合體魏平政出席婦女精英領袖成長營
+https://www.youtube.com/watch?v=h8OS1OhCbxw
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/baDV1O5EBP0/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞】頻道小時線上臺灣
 https://www.youtube.com/watch?v=baDV1O5EBP0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/TCnaIE_SAtM/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【中視新聞 HD】中視新聞頻道小時線上臺灣
@@ -50,26 +46,16 @@ https://www.youtube.com/watch?v=TCnaIE_SAtM
 https://www.youtube.com/watch?v=KMMHw8rllic
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wM0g8EoUZ_E/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【華視新聞】#LIVE: CTS News
 https://www.youtube.com/watch?v=wM0g8EoUZ_E
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/wbd647ZI8SU/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】臺日友好重要推手古屋圭司眾議員率岐阜縣經濟訪團來臺民視快新聞
-https://www.youtube.com/watch?v=wbd647ZI8SU
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DAHQ0tlpsSA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】全球冠疫情升溫疾管署最新說明民視快新聞
-https://www.youtube.com/watch?v=DAHQ0tlpsSA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Gk_E1CbgdB8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】蔣萬安出席北捷新列車發表記者會民視快新聞
-https://www.youtube.com/watch?v=Gk_E1CbgdB8
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/nz6mIfetXJA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】中聯毒油風暴抗議盧市府怠惰綠營控邀藍營男議員推擠暴力對待不道歉毫無民主風度素養絕不容許暴力民視快新聞
-https://www.youtube.com/watch?v=nz6mIfetXJA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/ylYJSBUgaMA/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【民視新聞網】民視新聞小時新聞臺灣
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/quwqlazU-c8/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【公視新聞網】公視新聞小時線上臺灣最新時間配信中
 https://www.youtube.com/watch?v=quwqlazU-c8
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Vrs-AeKZIEg/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【TaiwanPlus】臺灣番組時間配信
 https://www.youtube.com/watch?v=Vrs-AeKZIEg
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映慈濟充滿愛
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/pM-1ytfQhos/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛一臺全球現正播映靜思妙蓮華
 https://www.youtube.com/watch?v=pM-1ytfQhos
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映好戲成雙搜尋者
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/QDxRJP-wfeI/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【大愛電視】大愛二臺全球現正播映大愛學漢醫
 https://www.youtube.com/watch?v=QDxRJP-wfeI
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/auPo6FQHsCQ/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】市長蔣萬安出席捷運新列車發表記者會
-https://www.youtube.com/watch?v=auPo6FQHsCQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/613AcURjOUk/hqdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】蔣拋倒閣藍反應淡為切割鄭麗文保立委席次不上班只想搶共主萬安荒廢市政搞政治才哭窮沒錢陳佩琪卻跑中國爽玩一週萬美玲家族再捲爭議涉違法賣車位獲利億大選鏡來講
 https://www.youtube.com/watch?v=613AcURjOUk
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/5n0y6b0Q25o/maxresdefault.jpg" group-title="⚠️新聞頻道⚠️",【鏡新聞】線上看小時新聞臺灣時間放送
@@ -264,82 +250,84 @@ https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4
 https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=ctizhonghe
 #EXTINF:-1 group-title="🎥電影頻道🎥",八點檔
 https://www.goodiptv.club/huya/880261
-#EXTINF:-1 group-title="🎥電影頻道🎥",不擠影院
-https://www.goodiptv.club/huya/11352897
+#EXTINF:-1 group-title="🎥電影頻道🎥",八點檔
+https://live.ottiptv.cc/huya/880261
+#EXTINF:-1 group-title="🎥電影頻道🎥",八點檔
+http://111.170.156.74:3344/轮播/huya/hy.php?id=880261
+#EXTINF:-1 group-title="🎥電影頻道🎥",八點檔
+http://tv.zimtv.cn/tv/player/api/huya.php?id=880261
+#EXTINF:-1 group-title="🎥電影頻道🎥",八點檔
+http://feilong123.vip/huya.php?raw=1&id=880261
+#EXTINF:-1 group-title="🎥電影頻道🎥",賽車
+https://www.goodiptv.club/huya/11279247
+#EXTINF:-1 group-title="🎥電影頻道🎥",賽車
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11279247
+#EXTINF:-1 group-title="🎥電影頻道🎥",賽車
+http://feilong123.vip/huya.php?raw=1&id=11279247
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+http://cfss.cc/cdn/huya/11279251.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+https://live.ottiptv.cc/huya/11279251
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+https://www.goodiptv.club/huya/11279251
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11279251
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+http://feilong123.vip/huya.php?raw=1&id=11279251
 #EXTINF:-1 group-title="🎥電影頻道🎥",五福星
 https://www.goodiptv.club/huya/11282233
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-http://cfss.cc/cdn/huya/11602058.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-http://live.iill.top/huya.php?id=11602058
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-https://live.iill.top/huya.php?id=11602058
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-https://live.iill.top/huya/11602058
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-https://live.ottiptv.cc/huya/11602058
-#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
-https://www.goodiptv.club/huya/11602058
-#EXTINF:-1 group-title="🎥電影頻道🎥",王寶強
-https://live.ottiptv.cc/huya/30080251
-#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
-http://cfss.cc/cdn/huya/11352941.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
-http://live.iill.top/huya.php?id=11352941
-#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
-https://live.iill.top/huya.php?id=11352941
-#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
-https://live.iill.top/huya/11352941
-#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
-https://www.goodiptv.club/huya/11352941
-#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
-http://live.iill.top/huya.php?id=29982675
-#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
-https://live.iill.top/huya.php?id=29982675
-#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
-https://live.iill.top/huya/29982675
-#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
-https://live.ottiptv.cc/huya/29982675
-#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
-https://www.goodiptv.club/huya/11602041
-#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
-https://www.goodiptv.club/huya/11352913
-#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
-https://live.ottiptv.cc/huya/30080165
-#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
-https://www.goodiptv.club/huya/11352974
-#EXTINF:-1 group-title="🎥電影頻道🎥",玄幻
-http://cfss.cc/cdn/huya/11342414.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",玄幻
-https://www.goodiptv.club/huya/11342414
+#EXTINF:-1 group-title="🎥電影頻道🎥",女神系列
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336571
+#EXTINF:-1 group-title="🎥電影頻道🎥",女神系列
+http://feilong123.vip/huya.php?raw=1&id=11336571
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+http://cfss.cc/cdn/huya/11336587.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+https://live.ottiptv.cc/huya/11336587
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+https://www.goodiptv.club/huya/11336587
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11336587
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+http://feilong123.vip/huya.php?raw=1&id=11336587
+#EXTINF:-1 group-title="🎥電影頻道🎥",古裝片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11336590
+#EXTINF:-1 group-title="🎥電影頻道🎥",古裝片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336590
+#EXTINF:-1 group-title="🎥電影頻道🎥",古裝片
+http://feilong123.vip/huya.php?raw=1&id=11336590
 #EXTINF:-1 group-title="🎥電影頻道🎥",鄧超
 https://live.ottiptv.cc/huya/11336592
-#EXTINF:-1 group-title="🎥電影頻道🎥",宇宙
-https://www.goodiptv.club/huya/11342428
-#EXTINF:-1 group-title="🎥電影頻道🎥",成龍
-http://74.91.26.218:82/live/vlcl.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
+https://live.ottiptv.cc/huya/11336719
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
+https://www.goodiptv.club/huya/11336719
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11336719
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11336719
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
+http://feilong123.vip/huya.php?raw=1&id=11336719
 #EXTINF:-1 group-title="🎥電影頻道🎥",成龍
 http://cfss.cc/cdn/huya/11342386.flv
 #EXTINF:-1 group-title="🎥電影頻道🎥",成龍
 https://live.ottiptv.cc/huya/11342386
 #EXTINF:-1 group-title="🎥電影頻道🎥",成龍
-https://lunbo.ottiptv.cc//1382736841
-#EXTINF:-1 group-title="🎥電影頻道🎥",成龍
 https://www.goodiptv.club/huya/11342386
-#EXTINF:-1 group-title="🎥電影頻道🎥",殺手片系列
-https://live.ottiptv.cc/huya/23728689
-#EXTINF:-1 group-title="🎥電影頻道🎥",死神來了
-https://www.goodiptv.club/huya/11352903
-#EXTINF:-1 group-title="🎥電影頻道🎥",西部片系列
-https://live.ottiptv.cc/huya/30080177
-#EXTINF:-1 group-title="🎥電影頻道🎥",體育片系列
-https://live.ottiptv.cc/huya/23864480
-#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
-https://live.ottiptv.cc/huya/11602077
-#EXTINF:-1 group-title="🎥電影頻道🎥",吳鎮宇
-https://live.ottiptv.cc/huya/23865096
-#EXTINF:-1 group-title="🎥電影頻道🎥",張衛健
-https://live.ottiptv.cc/huya/11342423
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龍
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342386
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龍
+http://feilong123.vip/huya.php?raw=1&id=11342386
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
+http://cfss.cc/cdn/huya/11342387.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
+https://live.ottiptv.cc/huya/11342387
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
+https://www.goodiptv.club/huya/11342387
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342387
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
+http://feilong123.vip/huya.php?raw=1&id=11342387
 #EXTINF:-1 group-title="🎥電影頻道🎥",李連杰
 http://cfss.cc/cdn/huya/11342390.flv
 #EXTINF:-1 group-title="🎥電影頻道🎥",李連杰
@@ -352,286 +340,56 @@ https://live.iill.top/huya/11342390
 https://live.ottiptv.cc/huya/11342390
 #EXTINF:-1 group-title="🎥電影頻道🎥",李連杰
 https://www.goodiptv.club/huya/11342390
-#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
-http://cfss.cc/cdn/huya/11601968.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
-http://live.iill.top/huya.php?id=11601968
-#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
-https://live.iill.top/huya.php?id=11601968
-#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
-https://live.ottiptv.cc/huya/11601968
-#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
-https://www.goodiptv.club/huya/11601968
-#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
-https://live.ottiptv.cc/huya/23728647
-#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
-https://www.goodiptv.club/huya/11602075
-#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
-http://live.iill.top/huya.php?id=30080229
-#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
-https://live.iill.top/huya.php?id=30080229
-#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
-https://live.iill.top/huya/30080229
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hyzxc
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-http://74.91.26.218:82/live/vlzxc.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-http://cfss.cc/cdn/huya/11336587.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-https://live.ottiptv.cc/huya/11336587
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
-https://www.goodiptv.club/huya/11336587
-#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳
+#EXTINF:-1 group-title="🎥電影頻道🎥",李連杰
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342390
+#EXTINF:-1 group-title="🎥電影頻道🎥",李連杰
+http://feilong123.vip/huya.php?raw=1&id=11342390
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產懸疑
+https://www.goodiptv.club/huya/11342395
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產懸疑
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342395
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產懸疑
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342395
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產懸疑
+http://feilong123.vip/huya.php?raw=1&id=11342395
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳A
 https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 group-title="🎥電影頻道🎥",周海媚
-https://www.goodiptv.club/huya/11279247
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-http://222.186.39.38:8000/587078/index.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-http://74.91.26.218:82/live/vlzrf.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-http://cfss.cc/cdn/huya/11342387.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-https://live.ottiptv.cc/huya/11342387
-#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發
-https://www.goodiptv.club/huya/11342387
-#EXTINF:-1 group-title="🎥電影頻道🎥",國產
-http://cfss.cc/cdn/huya/11352973.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",奇幻片系列
-https://live.ottiptv.cc/huya/26355847
-#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
-https://live.ottiptv.cc/huya/29982674
-#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
-https://www.goodiptv.club/huya/21059554
-#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
-https://www.goodiptv.club/huya/21059577
-#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy
-#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
-http://74.91.26.218:82/live/vllzy.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳A
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342412
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳A
+http://feilong123.vip/huya.php?raw=1&id=11342412
+#EXTINF:-1 group-title="🎥電影頻道🎥",玄幻
+http://cfss.cc/cdn/huya/11342414.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",玄幻
+https://www.goodiptv.club/huya/11342414
+#EXTINF:-1 group-title="🎥電影頻道🎥",玄幻
+http://feilong123.vip/huya.php?raw=1&id=11342414
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫鬥爭
+https://www.goodiptv.club/huya/11342419
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫鬥爭
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342419
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫鬥爭
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342419
+#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫鬥爭
+http://feilong123.vip/huya.php?raw=1&id=11342419
 #EXTINF:-1 group-title="🎥電影頻道🎥",林正英
 https://live.ottiptv.cc/huya/11342421
 #EXTINF:-1 group-title="🎥電影頻道🎥",林正英
 https://www.goodiptv.club/huya/11342421
-#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰片系列
-https://live.ottiptv.cc/huya/21059579
-#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
-http://cfss.cc/cdn/huya/11342427.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
-https://live.ottiptv.cc/huya/29982611
-#EXTINF:-1 group-title="🎥電影頻道🎥",武俠
-https://www.goodiptv.club/huya/11342427
-#EXTINF:-1 group-title="🎥電影頻道🎥",邱淑貞
-https://www.goodiptv.club/huya/11352949
-#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
-http://cfss.cc/cdn/huya/11342435.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
-http://live.iill.top/huya.php?id=11342435
-#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
-https://live.iill.top/huya.php?id=11342435
-#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
-https://live.iill.top/huya/11342435
-#EXTINF:-1 group-title="🎥電影頻道🎥",陸小鳳
-https://live.ottiptv.cc/huya/11342427
-#EXTINF:-1 group-title="🎥電影頻道🎥",陳小春
-https://live.ottiptv.cc/huya/11336719
-#EXTINF:-1 group-title="🎥電影頻道🎥",冒險片
-https://live.ottiptv.cc/huya/21059566
-#EXTINF:-1 group-title="🎥電影頻道🎥",哆啦A夢
-https://live.iill.top/huya/11601963
-#EXTINF:-1 group-title="🎥電影頻道🎥",復仇片
-https://live.ottiptv.cc/huya/29982645
-#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
-https://live.ottiptv.cc/huya/21059618
-#EXTINF:-1 group-title="🎥電影頻道🎥",星球片
-https://live.ottiptv.cc/huya/30080234
-#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
-http://74.91.26.218:82/live/vlhjb.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
-http://cfss.cc/cdn/huya/11279251.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
-https://live.ottiptv.cc/huya/11279251
-#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
-https://www.goodiptv.club/huya/11279251
-#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
-https://live.ottiptv.cc/huya/11352965
-#EXTINF:-1 group-title="🎥電影頻道🎥",穿越片
-https://live.ottiptv.cc/huya/29465892
-#EXTINF:-1 group-title="🎥電影頻道🎥",英雄片
-https://live.ottiptv.cc/huya/11601980
-#EXTINF:-1 group-title="🎥電影頻道🎥",音樂片
-https://live.ottiptv.cc/huya/23860057
-#EXTINF:-1 group-title="🎥電影頻道🎥",香港片
-https://live.ottiptv.cc/huya/29982660
-#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
-https://live.ottiptv.cc/huya/11352909
-#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
-https://www.goodiptv.club/huya/11352909
-#EXTINF:-1 group-title="🎥電影頻道🎥",徐崢
-https://live.ottiptv.cc/huya/11602043
-#EXTINF:-1 group-title="🎥電影頻道🎥",恐怖片
-https://live.ottiptv.cc/huya/24884334
-#EXTINF:-1 group-title="🎥電影頻道🎥",恐怖片
-https://lunbo.ottiptv.cc//24066336
-#EXTINF:-1 group-title="🎥電影頻道🎥",校園片
-https://live.ottiptv.cc/huya/11352934
-#EXTINF:-1 group-title="🎥電影頻道🎥",海盜
-https://www.goodiptv.club/huya/21059595
-#EXTINF:-1 group-title="🎥電影頻道🎥",熱門片
-https://live.ottiptv.cc/huya/880261
-#EXTINF:-1 group-title="🎥電影頻道🎥",愛情片
-https://live.ottiptv.cc/huya/29982639
-#EXTINF:-1 group-title="🎥電影頻道🎥",競速片
-https://live.ottiptv.cc/huya/29982635
-#EXTINF:-1 group-title="🎥電影頻道🎥",馬東錫
-https://live.ottiptv.cc/huya/21059556
-#EXTINF:-1 group-title="🎥電影頻道🎥",高分片
-https://live.ottiptv.cc/huya/23902225
-#EXTINF:-1 group-title="🎥電影頻道🎥",高分動作
-https://www.goodiptv.club/huya/11352884
-#EXTINF:-1 group-title="🎥電影頻道🎥",高能反轉
-https://www.goodiptv.club/huya/11352887
-#EXTINF:-1 group-title="🎥電影頻道🎥",動作電影
-https://www.goodiptv.club/huya/11602077
-#EXTINF:-1 group-title="🎥電影頻道🎥",國產
-https://www.goodiptv.club/huya/11352973
-#EXTINF:-1 group-title="🎥電影頻道🎥",國產懸疑
-https://www.goodiptv.club/huya/11342395
-#EXTINF:-1 group-title="🎥電影頻道🎥",強森
-http://cfss.cc/cdn/huya/21059581.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",強森
-http://live.iill.top/huya.php?id=21059581
-#EXTINF:-1 group-title="🎥電影頻道🎥",強森
-https://live.iill.top/huya.php?id=21059581
-#EXTINF:-1 group-title="🎥電影頻道🎥",強森
-https://live.ottiptv.cc/huya/21059581
-#EXTINF:-1 group-title="🎥電影頻道🎥",強森
-https://www.goodiptv.club/huya/21059581
-#EXTINF:-1 group-title="🎥電影頻道🎥",懸疑片
-https://live.ottiptv.cc/huya/21059530
-#EXTINF:-1 group-title="🎥電影頻道🎥",驚悚片
-https://live.ottiptv.cc/huya/26355802
-#EXTINF:-1 group-title="🎥電影頻道🎥",推薦
-https://www.goodiptv.club/huya/11602041
-#EXTINF:-1 group-title="🎥電影頻道🎥",救援
-https://www.goodiptv.club/huya/21059594
-#EXTINF:-1 group-title="🎥電影頻道🎥",梁家輝
-https://live.ottiptv.cc/huya/11342429
-#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓片
-https://live.ottiptv.cc/huya/11601981
-#EXTINF:-1 group-title="🎥電影頻道🎥",許氏三傑
-https://www.goodiptv.club/huya/11602033
-#EXTINF:-1 group-title="🎥電影頻道🎥",許冠英
-https://www.goodiptv.club/huya/11601972
-#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
-https://live.ottiptv.cc/huya/26355810
-#EXTINF:-1 group-title="🎥電影頻道🎥",郭富城
-https://live.ottiptv.cc/huya/20985865
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴
-http://74.91.26.218:82/live/vlhbm.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-http://cfss.cc/cdn/huya/11352876.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-http://live.iill.top/huya.php?id=11352876
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-https://live.iill.top/huya.php?id=11352876
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-https://live.iill.top/huya/11352876
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-https://live.ottiptv.cc/huya/11352876
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜羊羊與灰太狼
-https://live.iill.top/huya/23865080
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
-http://74.91.26.218:82/live/vlxj.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
-https://live.ottiptv.cc/huya/11602044
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
-https://www.goodiptv.club/huya/11352877
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
-https://www.goodiptv.club/huya/11602044
-#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
-https://www.goodiptv.club/huya/21059580
-#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
-https://live.ottiptv.cc/huya/24314160
-#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
-https://www.goodiptv.club/huya/21059578
-#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
-http://cfss.cc/cdn/huya/21059588.flv
-#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
-https://live.ottiptv.cc/huya/21059588
-#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
-https://www.goodiptv.club/huya/21059588
-#EXTINF:-1 group-title="🎥電影頻道🎥",曾江
-https://www.goodiptv.club/huya/11601981
-#EXTINF:-1 group-title="🎥電影頻道🎥",港片
-https://www.goodiptv.club/huya/11602043
-#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
-https://www.goodiptv.club/huya/21059552
-#EXTINF:-1 group-title="🎥電影頻道🎥",短片
-https://live.ottiptv.cc/huya/17098448
-#EXTINF:-1 group-title="🎥電影頻道🎥",硬漢片
-https://live.ottiptv.cc/huya/23864973
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲
-https://www.goodiptv.club/huya/11601971
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
-http://live.iill.top/huya.php?id=11601986
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
-https://live.iill.top/huya.php?id=11601986
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
-https://live.iill.top/huya/11601986
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
-https://live.ottiptv.cc/huya/11601986
-#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
-https://www.goodiptv.club/huya/11601986
-#EXTINF:-1 group-title="🎥電影頻道🎥",超異能族
-https://www.goodiptv.club/huya/21059586
-#EXTINF:-1 group-title="🎥電影頻道🎥",馮小剛
-https://www.goodiptv.club/huya/11352906
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴
-http://74.91.26.218:82/live/vlhbm.m3u8
-#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
-https://www.goodiptv.club/huya/11352876
-#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫片
-https://www.goodiptv.club/huya/11336719
-#EXTINF:-1 group-title="🎥電影頻道🎥",黑幫鬥爭
-https://www.goodiptv.club/huya/11342419
-#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑恐怖
-https://www.goodiptv.club/huya/11601960
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342421
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+http://feilong123.vip/huya.php?raw=1&id=11342421
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑喜劇
+https://live.ottiptv.cc/huya/11342423
 #EXTINF:-1 group-title="🎥電影頻道🎥",搞笑喜劇
 https://www.goodiptv.club/huya/11342423
-#EXTINF:-1 group-title="🎥電影頻道🎥",經典港片
-https://www.goodiptv.club/huya/11352965
-#EXTINF:-1 group-title="🎥電影頻道🎥",罪犯
-https://www.goodiptv.club/huya/11352962
-#EXTINF:-1 group-title="🎥電影頻道🎥",電影院
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl
-#EXTINF:-1 group-title="🎥電影頻道🎥",嫣然影廳
-https://www.goodiptv.club/huya/11601977
-#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰
-https://www.goodiptv.club/huya/21059579
-#EXTINF:-1 group-title="🎥電影頻道🎥",漫威
-https://www.goodiptv.club/huya/11602034
-#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
-http://live.iill.top/huya.php?id=11352935
-#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
-https://live.iill.top/huya.php?id=11352935
-#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
-https://live.iill.top/huya/11352935
-#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
-https://live.ottiptv.cc/huya/11352935
-#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
-https://www.goodiptv.club/huya/11352935
-#EXTINF:-1 group-title="🎥電影頻道🎥",蜘蛛俠
-https://www.goodiptv.club/huya/21059599
-#EXTINF:-1 group-title="🎥電影頻道🎥",殭屍片
-https://live.ottiptv.cc/huya/11352917
-#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
-http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑喜劇
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342423
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑喜劇
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342423
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑喜劇
+http://feilong123.vip/huya.php?raw=1&id=11342423
 #EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
 http://cfss.cc/cdn/huya/11342424.flv
 #EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
@@ -644,26 +402,574 @@ https://live.iill.top/huya/11342424
 https://live.ottiptv.cc/huya/11342424
 #EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
 https://www.goodiptv.club/huya/11342424
-#EXTINF:-1 group-title="🎥電影頻道🎥",熱血
-https://www.goodiptv.club/huya/11352934
-#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
-https://www.goodiptv.club/huya/21059592
-#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
-https://www.goodiptv.club/huya/21059574
-#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
-https://www.goodiptv.club/huya/21059585
-#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
-https://www.goodiptv.club/huya/21059587
-#EXTINF:-1 group-title="🎥電影頻道🎥",鏢行天下
-https://www.goodiptv.club/huya/11352969
+#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342424
+#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
+http://feilong123.vip/huya.php?raw=1&id=11342424
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+http://cfss.cc/cdn/huya/11342427.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+https://www.goodiptv.club/huya/11342427
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+https://live.ottiptv.cc/huya/11342427
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342427
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+http://feilong123.vip/huya.php?raw=1&id=11342427
+#EXTINF:-1 group-title="🎥電影頻道🎥",宇宙
+https://www.goodiptv.club/huya/11342428
+#EXTINF:-1 group-title="🎥電影頻道🎥",宇宙
+http://feilong123.vip/huya.php?raw=1&id=11342428
+#EXTINF:-1 group-title="🎥電影頻道🎥",梁家輝
+https://live.ottiptv.cc/huya/11342429
+#EXTINF:-1 group-title="🎥電影頻道🎥",梁家輝
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342429
+#EXTINF:-1 group-title="🎥電影頻道🎥",突擊
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342430
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://cfss.cc/cdn/huya/11342435.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://live.iill.top/huya.php?id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+https://live.iill.top/huya.php?id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+https://live.iill.top/huya/11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",金庸武俠
+http://feilong123.vip/huya.php?raw=1&id=11342435
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+http://cfss.cc/cdn/huya/11352876.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+http://live.iill.top/huya.php?id=11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+https://live.iill.top/huya.php?id=11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+https://live.iill.top/huya/11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+https://live.ottiptv.cc/huya/11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+https://www.goodiptv.club/huya/11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃渤
+http://feilong123.vip/huya.php?raw=1&id=11352876
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+https://www.goodiptv.club/huya/11352877
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352877
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://feilong123.vip/huya.php?raw=1&id=11352877
+#EXTINF:-1 group-title="🎥電影頻道🎥",高分動作
+https://www.goodiptv.club/huya/11352884
+#EXTINF:-1 group-title="🎥電影頻道🎥",高分動作
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352884
+#EXTINF:-1 group-title="🎥電影頻道🎥",高分動作
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352884
+#EXTINF:-1 group-title="🎥電影頻道🎥",高分動作
+http://feilong123.vip/huya.php?raw=1&id=11352884
 #EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
 https://www.goodiptv.club/huya/11352886
 #EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
-https://live.ottiptv.cc/huya/30041512
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352886
+#EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352886
+#EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
+http://feilong123.vip/huya.php?raw=1&id=11352886
+#EXTINF:-1 group-title="🎥電影頻道🎥",高能反轉
+https://www.goodiptv.club/huya/11352887
+#EXTINF:-1 group-title="🎥電影頻道🎥",高能反轉
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352887
 #EXTINF:-1 group-title="🎥電影頻道🎥",歡笑影院
 https://www.goodiptv.club/huya/11352894
+#EXTINF:-1 group-title="🎥電影頻道🎥",歡笑影院
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352894
+#EXTINF:-1 group-title="🎥電影頻道🎥",歡笑影院
+http://feilong123.vip/huya.php?raw=1&id=11352894
+#EXTINF:-1 group-title="🎥電影頻道🎥",不擠影院
+https://www.goodiptv.club/huya/11352897
+#EXTINF:-1 group-title="🎥電影頻道🎥",不擠影院
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352897
+#EXTINF:-1 group-title="🎥電影頻道🎥",不擠影院
+http://feilong123.vip/huya.php?raw=1&id=11352897
+#EXTINF:-1 group-title="🎥電影頻道🎥",死神來了
+https://www.goodiptv.club/huya/11352903
+#EXTINF:-1 group-title="🎥電影頻道🎥",死神來了
+http://feilong123.vip/huya.php?raw=1&id=11352903
+#EXTINF:-1 group-title="🎥電影頻道🎥",馮小剛
+https://www.goodiptv.club/huya/11352906
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
+https://live.ottiptv.cc/huya/11352909
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
+https://www.goodiptv.club/huya/11352909
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352909
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐克
+http://feilong123.vip/huya.php?raw=1&id=11352909
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
+https://www.goodiptv.club/huya/11352913
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352913
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
+http://feilong123.vip/huya.php?raw=1&id=11352913
+#EXTINF:-1 group-title="🎥電影頻道🎥",殭屍片
+https://live.ottiptv.cc/huya/11352917
+#EXTINF:-1 group-title="🎥電影頻道🎥",熱血
+https://live.ottiptv.cc/huya/11352934
+#EXTINF:-1 group-title="🎥電影頻道🎥",熱血
+https://www.goodiptv.club/huya/11352934
+#EXTINF:-1 group-title="🎥電影頻道🎥",熱血
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352934
+#EXTINF:-1 group-title="🎥電影頻道🎥",熱血
+http://feilong123.vip/huya.php?raw=1&id=11352934
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+http://live.iill.top/huya.php?id=11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+https://live.iill.top/huya.php?id=11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+https://live.iill.top/huya/11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+https://live.ottiptv.cc/huya/11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+https://www.goodiptv.club/huya/11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",甄子丹
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+http://cfss.cc/cdn/huya/11352941.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+http://live.iill.top/huya.php?id=11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+https://live.iill.top/huya.php?id=11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+https://live.iill.top/huya/11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+https://www.goodiptv.club/huya/11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",功夫片
+http://feilong123.vip/huya.php?raw=1&id=11352941
+#EXTINF:-1 group-title="🎥電影頻道🎥",邱淑貞
+https://www.goodiptv.club/huya/11352949
+#EXTINF:-1 group-title="🎥電影頻道🎥",罪犯
+https://www.goodiptv.club/huya/11352962
+#EXTINF:-1 group-title="🎥電影頻道🎥",罪犯
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352962
+#EXTINF:-1 group-title="🎥電影頻道🎥",罪犯
+http://feilong123.vip/huya.php?raw=1&id=11352962
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
+https://live.ottiptv.cc/huya/11352965
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
+https://www.goodiptv.club/huya/11352965
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352965
+#EXTINF:-1 group-title="🎥電影頻道🎥",科幻片
+http://feilong123.vip/huya.php?raw=1&id=11352965
+#EXTINF:-1 group-title="🎥電影頻道🎥",鏢行天下
+https://www.goodiptv.club/huya/11352969
+#EXTINF:-1 group-title="🎥電影頻道🎥",鏢行天下
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352969
+#EXTINF:-1 group-title="🎥電影頻道🎥",鏢行天下
+http://feilong123.vip/huya.php?raw=1&id=11352969
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產
+http://cfss.cc/cdn/huya/11352973.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產
+https://www.goodiptv.club/huya/11352973
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352973
+#EXTINF:-1 group-title="🎥電影頻道🎥",國產
+http://feilong123.vip/huya.php?raw=1&id=11352973
+#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
+https://www.goodiptv.club/huya/11352974
+#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11352974
+#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352974
+#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
+http://feilong123.vip/huya.php?raw=1&id=11352974
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑恐怖
+https://www.goodiptv.club/huya/11601960
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑恐怖
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601960
+#EXTINF:-1 group-title="🎥電影頻道🎥",搞笑恐怖
+http://feilong123.vip/huya.php?raw=1&id=11601960
+#EXTINF:-1 group-title="🎥電影頻道🎥",哆啦A夢
+https://live.iill.top/huya/11601963
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+http://cfss.cc/cdn/huya/11601968.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+http://live.iill.top/huya.php?id=11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+https://live.iill.top/huya.php?id=11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+https://live.ottiptv.cc/huya/11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+https://www.goodiptv.club/huya/11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",沈騰
+http://feilong123.vip/huya.php?raw=1&id=11601968
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲
+https://www.goodiptv.club/huya/11601971
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲
+http://feilong123.vip/huya.php?raw=1&id=11601971
+#EXTINF:-1 group-title="🎥電影頻道🎥",許冠英
+https://www.goodiptv.club/huya/11601972
+#EXTINF:-1 group-title="🎥電影頻道🎥",許冠英
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11601972
+#EXTINF:-1 group-title="🎥電影頻道🎥",許冠英
+http://feilong123.vip/huya.php?raw=1&id=11601972
+#EXTINF:-1 group-title="🎥電影頻道🎥",嫣然影廳
+https://www.goodiptv.club/huya/11601977
+#EXTINF:-1 group-title="🎥電影頻道🎥",嫣然影廳
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601977
+#EXTINF:-1 group-title="🎥電影頻道🎥",嫣然影廳
+http://feilong123.vip/huya.php?raw=1&id=11601977
+#EXTINF:-1 group-title="🎥電影頻道🎥",英雄片
+https://live.ottiptv.cc/huya/11601980
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓片
+https://live.ottiptv.cc/huya/11601981
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓片
+https://www.goodiptv.club/huya/11601981
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601981
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓片
+http://feilong123.vip/huya.php?raw=1&id=11601981
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+http://live.iill.top/huya.php?id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+https://live.iill.top/huya.php?id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+https://live.iill.top/huya/11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+https://live.ottiptv.cc/huya/11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+https://www.goodiptv.club/huya/11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",賀歲片
+http://feilong123.vip/huya.php?raw=1&id=11601986
+#EXTINF:-1 group-title="🎥電影頻道🎥",許氏三傑
+https://www.goodiptv.club/huya/11602033
+#EXTINF:-1 group-title="🎥電影頻道🎥",許氏三傑
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602033
+#EXTINF:-1 group-title="🎥電影頻道🎥",許氏三傑
+http://feilong123.vip/huya.php?raw=1&id=11602033
+#EXTINF:-1 group-title="🎥電影頻道🎥",漫威
+https://www.goodiptv.club/huya/11602034
+#EXTINF:-1 group-title="🎥電影頻道🎥",漫威
+http://feilong123.vip/huya.php?raw=1&id=11602034
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+https://www.goodiptv.club/huya/11602041
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+https://www.goodiptv.club/huya/11602041
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602041
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+http://feilong123.vip/huya.php?raw=1&id=11602041
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐崢
+https://live.ottiptv.cc/huya/11602043
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐崢
+https://www.goodiptv.club/huya/11602043
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐崢
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11602043
+#EXTINF:-1 group-title="🎥電影頻道🎥",徐崢
+http://feilong123.vip/huya.php?raw=1&id=11602043
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+https://live.ottiptv.cc/huya/11602044
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+https://www.goodiptv.club/huya/11602044
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11602044
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602044
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://feilong123.vip/huya.php?raw=1&id=11602044
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+http://cfss.cc/cdn/huya/11602058.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+http://live.iill.top/huya.php?id=11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+https://live.iill.top/huya.php?id=11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+https://live.iill.top/huya/11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+https://live.ottiptv.cc/huya/11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+https://www.goodiptv.club/huya/11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",王晶
+http://feilong123.vip/huya.php?raw=1&id=11602058
+#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
+https://www.goodiptv.club/huya/11602075
+#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11602075
+#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602075
+#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
+http://feilong123.vip/huya.php?raw=1&id=11602075
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
+https://live.ottiptv.cc/huya/11602077
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
+https://www.goodiptv.club/huya/11602077
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
+http://111.170.156.74:3344/轮播/huya/hy.php?id=11602077
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11602077
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳京
+http://feilong123.vip/huya.php?raw=1&id=11602077
+#EXTINF:-1 group-title="🎥電影頻道🎥",短片
+https://live.ottiptv.cc/huya/17098448
+#EXTINF:-1 group-title="🎥電影頻道🎥",懸疑片
+https://live.ottiptv.cc/huya/21059530
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
+https://www.goodiptv.club/huya/21059552
+#EXTINF:-1 group-title="🎥電影頻道🎥",盜墓
+http://feilong123.vip/huya.php?raw=1&id=21059552
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
+https://www.goodiptv.club/huya/21059554
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059554
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
+http://feilong123.vip/huya.php?raw=1&id=21059554
+#EXTINF:-1 group-title="🎥電影頻道🎥",馬東錫
+https://live.ottiptv.cc/huya/21059556
+#EXTINF:-1 group-title="🎥電影頻道🎥",冒險片
+https://live.ottiptv.cc/huya/21059566
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+https://www.goodiptv.club/huya/21059574
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059574
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059574
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+http://feilong123.vip/huya.php?raw=1&id=21059574
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸A
+https://www.goodiptv.club/huya/21059577
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸A
+http://feilong123.vip/huya.php?raw=1&id=21059577
+#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
+https://www.goodiptv.club/huya/21059578
+#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059578
+#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059578
+#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片
+http://feilong123.vip/huya.php?raw=1&id=21059578
+#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰
+https://live.ottiptv.cc/huya/21059579
+#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰
+https://www.goodiptv.club/huya/21059579
+#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059579
+#EXTINF:-1 group-title="🎥電影頻道🎥",槍戰
+http://feilong123.vip/huya.php?raw=1&id=21059579
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+https://www.goodiptv.club/huya/21059580
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059580
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://feilong123.vip/huya.php?raw=1&id=21059580
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+http://cfss.cc/cdn/huya/21059581.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+http://live.iill.top/huya.php?id=21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+https://live.iill.top/huya.php?id=21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+https://live.ottiptv.cc/huya/21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+https://www.goodiptv.club/huya/21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",強森
+http://feilong123.vip/huya.php?raw=1&id=21059581
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
+https://www.goodiptv.club/huya/21059585
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059585
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059585
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
+http://feilong123.vip/huya.php?raw=1&id=21059585
+#EXTINF:-1 group-title="🎥電影頻道🎥",超異能族
+https://www.goodiptv.club/huya/21059586
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片A
+https://www.goodiptv.club/huya/21059587
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片A
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059587
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片A
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059587
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片A
+http://feilong123.vip/huya.php?raw=1&id=21059587
+#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
+http://cfss.cc/cdn/huya/21059588.flv
+#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
+https://live.ottiptv.cc/huya/21059588
+#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
+https://www.goodiptv.club/huya/21059588
+#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
+http://111.170.156.74:3344/轮播/huya/hy.php?id=21059588
+#EXTINF:-1 group-title="🎥電影頻道🎥",斯坦森
+http://feilong123.vip/huya.php?raw=1&id=21059588
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+https://www.goodiptv.club/huya/21059592
+#EXTINF:-1 group-title="🎥電影頻道🎥",救援
+https://www.goodiptv.club/huya/21059594
+#EXTINF:-1 group-title="🎥電影頻道🎥",海盜
+https://www.goodiptv.club/huya/21059595
 #EXTINF:-1 group-title="🎥電影頻道🎥",變形金剛
 https://www.goodiptv.club/huya/21059596
+#EXTINF:-1 group-title="🎥電影頻道🎥",變形金剛
+http://tv.zimtv.cn/tv/player/api/huya.php?id=21059596
+#EXTINF:-1 group-title="🎥電影頻道🎥",變形金剛
+http://feilong123.vip/huya.php?raw=1&id=21059596
+#EXTINF:-1 group-title="🎥電影頻道🎥",蜘蛛俠
+https://www.goodiptv.club/huya/21059599
+#EXTINF:-1 group-title="🎥電影頻道🎥",戰爭片
+https://live.ottiptv.cc/huya/21059618
+#EXTINF:-1 group-title="🎥電影頻道🎥",郭富城
+https://live.ottiptv.cc/huya/20985865
+#EXTINF:-1 group-title="🎥電影頻道🎥",災難片
+https://live.ottiptv.cc/huya/23728647
+#EXTINF:-1 group-title="🎥電影頻道🎥",殺手片系列
+https://live.ottiptv.cc/huya/23728689
+#EXTINF:-1 group-title="🎥電影頻道🎥",音樂片
+https://live.ottiptv.cc/huya/23860057
+#EXTINF:-1 group-title="🎥電影頻道🎥",體育片系列
+https://live.ottiptv.cc/huya/23864480
+#EXTINF:-1 group-title="🎥電影頻道🎥",硬漢片
+https://live.ottiptv.cc/huya/23864973
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜羊羊與灰太狼
+https://live.iill.top/huya/23865080
+#EXTINF:-1 group-title="🎥電影頻道🎥",吳鎮宇
+https://live.ottiptv.cc/huya/23865096
+#EXTINF:-1 group-title="🎥電影頻道🎥",高分片
+https://live.ottiptv.cc/huya/23902225
+#EXTINF:-1 group-title="🎥電影頻道🎥",恐怖片1
+https://lunbo.ottiptv.cc//24066336
+#EXTINF:-1 group-title="🎥電影頻道🎥",恐怖電影
+https://live.ottiptv.cc/yy/24066336
+#EXTINF:-1 group-title="🎥電影頻道🎥",喪屍片A
+https://live.ottiptv.cc/huya/24314160
+#EXTINF:-1 group-title="🎥電影頻道🎥",恐怖片2
+https://live.ottiptv.cc/huya/24884334
+#EXTINF:-1 group-title="🎥電影頻道🎥",驚悚片
+https://live.ottiptv.cc/huya/26355802
+#EXTINF:-1 group-title="🎥電影頻道🎥",諜戰片
+https://live.ottiptv.cc/huya/26355810
+#EXTINF:-1 group-title="🎥電影頻道🎥",奇幻片系列
+https://live.ottiptv.cc/huya/26355847
+#EXTINF:-1 group-title="🎥電影頻道🎥",硬漢
+http://111.170.156.74:3344/轮播/huya/hy.php?id=29465873
+#EXTINF:-1 group-title="🎥電影頻道🎥",穿越片
+https://live.ottiptv.cc/huya/29465892
+#EXTINF:-1 group-title="🎥電影頻道🎥",雪豹
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29580970
+#EXTINF:-1 group-title="🎥電影頻道🎥",武俠片
+https://live.ottiptv.cc/huya/29982611
+#EXTINF:-1 group-title="🎥電影頻道🎥",競速片
+https://live.ottiptv.cc/huya/29982635
+#EXTINF:-1 group-title="🎥電影頻道🎥",愛情片
+https://live.ottiptv.cc/huya/29982639
+#EXTINF:-1 group-title="🎥電影頻道🎥",復仇片
+https://live.ottiptv.cc/huya/29982645
+#EXTINF:-1 group-title="🎥電影頻道🎥",香港片
+https://live.ottiptv.cc/huya/29982660
+#EXTINF:-1 group-title="🎥電影頻道🎥",怪獸
+https://live.ottiptv.cc/huya/29982674
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+http://live.iill.top/huya.php?id=29982675
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+https://live.iill.top/huya.php?id=29982675
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+https://live.iill.top/huya/29982675
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+https://live.ottiptv.cc/huya/29982675
+#EXTINF:-1 group-title="🎥電影頻道🎥",古天樂
+http://tv.zimtv.cn/tv/player/api/huya.php?id=29982675
+#EXTINF:-1 group-title="🎥電影頻道🎥",警匪片
+https://live.ottiptv.cc/huya/30041512
+#EXTINF:-1 group-title="🎥電影頻道🎥",犯罪片
+https://live.ottiptv.cc/huya/30080165
+#EXTINF:-1 group-title="🎥電影頻道🎥",西部片系列
+https://live.ottiptv.cc/huya/30080177
+#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
+http://live.iill.top/huya.php?id=30080229
+#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
+https://live.iill.top/huya.php?id=30080229
+#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
+https://live.iill.top/huya/30080229
+#EXTINF:-1 group-title="🎥電影頻道🎥",狄仁傑
+http://tv.zimtv.cn/tv/player/api/huya.php?id=30080229
+#EXTINF:-1 group-title="🎥電影頻道🎥",星球片
+https://live.ottiptv.cc/huya/30080234
+#EXTINF:-1 group-title="🎥電影頻道🎥",王寶強
+https://live.ottiptv.cc/huya/30080251
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1 group-title="🎥電影頻道🎥",動作
+https://live.ottiptv.cc/yy/1355480591
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龍
+https://lunbo.ottiptv.cc//1382736841
+#EXTINF:-1 group-title="🎥電影頻道🎥",古惑仔
+https://live.ottiptv.cc/yy/1458015189
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳B
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龍A
+http://74.91.26.218:82/live/vlcl.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳C
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hyzxc
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳D
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzxc
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳E
+http://74.91.26.218:82/live/vlzxc.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發A
+http://222.186.39.38:8000/587078/index.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發B
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbzrf
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發C
+http://74.91.26.218:82/live/vlzrf.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hylzy
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英
+http://74.91.26.218:82/live/vllzy.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",洪金寶
+http://74.91.26.218:82/live/vlhjb.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",喜劇片
+http://74.91.26.218:82/live/vlxj.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴
+http://74.91.26.218:82/live/vlhbm.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",黃百鳴
+http://74.91.26.218:82/live/vlhbm.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",電影院
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=lbcl
+#EXTINF:-1 group-title="🎥電影頻道🎥",劉德華
+http://74.91.26.218:82/live/vlldh.m3u8
+#EXTINF:-1 group-title="🎥電影頻道🎥",周潤發電影
+http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎥電影頻道🎥",周星馳電影
+http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎥電影頻道🎥",成龍電影
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 group-title="🎥電影頻道🎥",林正英影院
+http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/OxL_MrnaHOY/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【戲說臺灣】有情人終成眷屬情人精選小時不間斷
 https://www.youtube.com/watch?v=OxL_MrnaHOY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qZ1sr-gvc54/maxresdefault.jpg" group-title="🎬影劇頻道🎬",【中視經典戲劇】十里桃林三生約三世情緣永相隨小時不間斷經典戲劇看中視
@@ -8348,34 +8654,28 @@ https://www.youtube.com/watch?v=2wzDK1IgJRY
 https://www.youtube.com/watch?v=NKexMZcpqDA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/fFyCR2Y0PCw/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【壹電視NEXT TV】蔣萬安信心爆棚拋倒閣藍委擁戴嗆市民罷免簡舒培市政隻字不提盧秀燕議會逃走好狼狽藍白卡軍用無人機依北京原則修法反毒油片深偽賴清德國民黨護航犯罪
 https://www.youtube.com/watch?v=fFyCR2Y0PCw
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/DamM6fECJ_g/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【壹電視NEXT TV】市長蔣萬安出席捷運新列車發表記者會
-https://www.youtube.com/watch?v=DamM6fECJ_g
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/eEvMO8zGIeI/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】強檔優選節目小時不斷線時間連続配信中新聞大白話少康戰情室新聞
 https://www.youtube.com/watch?v=eEvMO8zGIeI
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/HiI-7_jeKxo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【TVBS 優選頻道】政論節目時間連続配信中新聞大白話
 https://www.youtube.com/watch?v=HiI-7_jeKxo
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/l8UUyaRBIeY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】唐山大地震週年城市蛻變與高質量發展
-https://www.youtube.com/watch?v=l8UUyaRBIeY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/79V_eq8I9fo/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【全球大視野】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
 https://www.youtube.com/watch?v=79V_eq8I9fo
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/xvbDsoLcMIc/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【民視讚夯】最夯政論專業理財深入報導小時不停歇民視正夯
 https://www.youtube.com/watch?v=xvbDsoLcMIc
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/KlmDMBwa-W8/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【94要客訴】時間地震速報監視網三立新聞網
 https://www.youtube.com/watch?v=KlmDMBwa-W8
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lqns1qJo7GY/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
+https://www.youtube.com/watch?v=lqns1qJo7GY
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/X_h0M9A0auQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【大新聞大爆卦】現正中
 https://www.youtube.com/watch?v=X_h0M9A0auQ
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/EkCsHcEulB0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】蔣萬安出席北捷新列車發表記者會
-https://www.youtube.com/watch?v=EkCsHcEulB0
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/XZCnR1RcRNA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【新聞大白話】🔴LIVE：2026.07.2
 https://www.youtube.com/watch?v=XZCnR1RcRNA
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/x3XZ7hMQkp0/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】上凱道後再提倒閣蔣萬安北捷新列車發表會最新
-https://www.youtube.com/watch?v=x3XZ7hMQkp0
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/lqb_UdFEk20/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】蔣萬安有事衝著我來不要找小編查水錶凱道後再拋倒閣蔣萬安北捷新列車發表會中天新聞
-https://www.youtube.com/watch?v=lqb_UdFEk20
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/maP12Las3YM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中時新聞網】鄭麗文南下彰化合體魏平政出席婦女精英領袖成長營
+https://www.youtube.com/watch?v=maP12Las3YM
+#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/1_x_Flk3OtA/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【中天深喉嚨】鄭麗文彰化合體魏平政出席婦女精英領袖成長營中天新聞
+https://www.youtube.com/watch?v=1_x_Flk3OtA
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/hOkt9tg-oTM/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【頭條開講】川普稱伊要求暫停空襲傳伊朗阿曼密談恢復航運青年運動想學伊封鎖荷姆茲波斯灣與紅海門戶恐將關閉
 https://www.youtube.com/watch?v=hOkt9tg-oTM
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/h-Ch71SasEU/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【少康戰情室】蔣萬安出席北捷新列車發表記者會
-https://www.youtube.com/watch?v=h-Ch71SasEU
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/Cb5MRzy0aiQ/maxresdefault.jpg" group-title="🏛️政論頻道🏛️",【少康戰情室】政經說政論小時互動血洗點創史上第大聯電聯發科臺達電慘跌停僅美國人挺伊朗戰爭開戰來最低新聞大白話國民大會國民開小會
 https://www.youtube.com/watch?v=Cb5MRzy0aiQ
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/qBNZQMccyME/maxresdefault.jpg" group-title="🥱購物🥱",【海豚多媒體】海豚綜合臺線上
